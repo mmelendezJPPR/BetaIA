@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # CONFIGURACIÓN BETA - FECHA DE EXPIRACIÓN
-# Fecha específica para pruebas de 10 minutos (Puerto Rico timezone)
-FECHA_EXPIRACION_BETA = datetime(2025, 7, 31, 11, 32)  # 31 julio 2025 a las 11:32 AM PR (10 minutos desde 11:22)
+# Fecha específica para pruebas de 15 minutos (Puerto Rico timezone)
+FECHA_EXPIRACION_BETA = datetime(2025, 7, 31, 12, 0)  # 31 julio 2025 a las 12:00 PM PR (15 minutos para probar)
 def formatear_fecha_espanol(fecha):
     """Convierte una fecha al formato español"""
     meses_espanol = {
