@@ -9,8 +9,8 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # CONFIGURACIÓN BETA - FECHA DE EXPIRACIÓN
-# Fecha extendida para pruebas completas (Puerto Rico timezone)
-FECHA_EXPIRACION_BETA = datetime(2025, 7, 31, 14, 0)  # 31 julio 2025 a las 2:00 PM PR (tiempo suficiente para pruebas)
+# Beta profesional por días para demostración oficial
+FECHA_EXPIRACION_BETA = datetime(2025, 8, 2,)  # 2 de agosto 2025 - 5 días para demostración completa
 def formatear_fecha_espanol(fecha):
     """Convierte una fecha al formato español"""
     meses_espanol = {
@@ -30,13 +30,7 @@ def formatear_fecha_espanol(fecha):
         mes = meses_espanol[fecha.month]
         año = fecha.year
         return f"{dia} de {mes} de {año}"
-
     
-    dia = fecha.day
-    mes = meses_espanol[fecha.month]
-    año = fecha.year
-    
-    return f"{dia} de {mes} de {año}"
 
 def verificar_beta_activa():
     """Verifica si la versión beta sigue activa"""
@@ -44,8 +38,14 @@ def verificar_beta_activa():
     
     if ahora <= FECHA_EXPIRACION_BETA:
         tiempo_restante = FECHA_EXPIRACION_BETA - ahora
-        minutos_restantes = int(tiempo_restante.total_seconds() / 60)
-        return True, minutos_restantes
+        dias_restantes = tiempo_restante.days
+        horas_restantes = int(tiempo_restante.total_seconds() // 3600) % 24
+        
+        # Retornar días si quedan más de 1 día, horas si queda menos de 1 día
+        if dias_restantes > 0:
+            return True, f"{dias_restantes} días"
+        else:
+            return True, f"{horas_restantes} horas"
     else:
         return False, 0
     
