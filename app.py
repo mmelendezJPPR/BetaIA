@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # CONFIGURACIÓN BETA - FECHA DE EXPIRACIÓN
-FECHA_EXPIRACION_BETA = datetime.now() + timedelta(minutes=10)  # 10 minutos para pruebas
+FECHA_EXPIRACION_BETA = datetime.now() + timedelta(minutes=5)  # 5 minutos para pruebas rápidas
 def formatear_fecha_espanol(fecha):
     """Convierte una fecha al formato español"""
     meses_espanol = {
