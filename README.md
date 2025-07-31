@@ -1,10 +1,10 @@
-# 🏛️ LegalMind - Asistente Legal de Puerto Rico
+# 🏛️ Agente de Planificacion - Asistente Legal de Puerto Rico
 
 **Versión Beta** - Asistente especializado en consultas sobre planificación y zonificación de Puerto Rico.
 
 ## 📋 Descripción
 
-LegalMind es un asistente de inteligencia artificial especializado en temas legales de planificación y zonificación de Puerto Rico. Proporciona consultas profesionales basadas en la documentación oficial de la Junta de Planificación de Puerto Rico.
+Agente de planificacion es un asistente de inteligencia artificial especializado en temas legales de planificación y zonificación de Puerto Rico. Proporciona consultas profesionales basadas en la documentación oficial de la Junta de Planificación de Puerto Rico.
 
 ## 🚀 Características
 
