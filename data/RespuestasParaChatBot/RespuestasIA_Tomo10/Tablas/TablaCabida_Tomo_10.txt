@@ -1,0 +1,11 @@
+
+🔍 Fragmento 1:
+| Distrito de Calificación | Cabida Mínima | Cabida Máxima |
+|------------------------|---------------|---------------|
+| San José              | 120 m²        | 350 m²        |
+| Heredia               | 150 m²        | 400 m²        |
+| Alajuela              | 130 m²        | 380 m²        |
+| Cartago               | 140 m²        | 370 m²        |
+| Guanacaste            | 160 m²        | 420 m²        |
+| Puntarenas            | 170 m²        | 450 m²        |
+| Limón                 | 180 m²        | 480 m²        |

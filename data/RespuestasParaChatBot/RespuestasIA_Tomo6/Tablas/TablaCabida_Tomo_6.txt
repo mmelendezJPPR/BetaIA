@@ -1,0 +1,12 @@
+
+🔍 Fragmento 1:
+Para ilustrar las columnas sobre cabida mínima y cabida máxima permitida para cada distrito de calificación, se puede crear una tabla como la siguiente:
+
+| Distrito de Calificación | Cabida Mínima Permitida (m²) | Cabida Máxima Permitida (m²) |
+| ------------------------ | ---------------------------- | ---------------------------- |
+| Distrito A               | 500                         | 1000                         |
+| Distrito B               | 800                         | 1500                         |
+| Distrito C               | 600                         | 1200                         |
+| Distrito D               | 700                         | 1300                         |
+
+Esta tabla hipotética muestra la cabida mínima y máxima permitida para cada distrito de calificación. Cada distrito tendría sus propias especificaciones en cuanto a la cabida de terreno requerida para realizar ciertas actividades o construcciones.

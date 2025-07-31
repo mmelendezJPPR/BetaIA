@@ -1,0 +1,64 @@
+
+🔍 Fragmento 1:
+Para elaborar un flujograma de los trámites y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación, debemos tener en cuenta lo establecido en el Reglamento Conjunto 2020 mencionado en su consulta. A continuación, se presenta un ejemplo de guía de referencia con un posible flujo de procesos:
+
+### Flujograma de Evaluación de Sitios Históricos por la Junta de Planificación
+
+1. **Inicio del Trámite de Evaluación de Sitio Histórico**
+
+2. **Verificar Requerimientos**
+   
+   - Revisar documentación solicitada
+   - Confirmar cumplimiento de requisitos mínimos
+   - Solicitar información adicional si es necesario
+
+3. **Evaluación Preliminar**
+
+   - Análisis de la documentación presentada
+   - Visita al sitio (si aplica)
+   - Identificación de posibles características históricas del lugar
+
+4. **Presentación de Informe Preliminar**
+
+   - Elaboración de informe preliminar con hallazgos
+   - Documentación de características históricas identificadas
+   - Recomendaciones para continuar con la evaluación
+
+5. **Notificación al Solicitante**
+
+   - Comunicación de los resultados de la evaluación preliminar
+   - Solicitud de aportar información adicional (si es necesario)
+   
+6. **Evaluación Detallada**
+
+   - Investigación histórica profunda
+   - Valoración de la importancia cultural y patrimonial del sitio
+   - Evaluación de impactos potenciales de intervenciones en el sitio
+
+7. **Solicitud de Aprobación**
+
+   - Preparación de solicitud formal
+   - Inclusión de informe detallado y análisis exhaustivo
+   - Presentación ante la Junta de Planificación
+
+8. **Revisión y Decisión de la Junta de Planificación**
+
+   - Evaluación del informe presentado
+   - Discusión y votación sobre la designación del sitio como histórico
+   - Emisión de decisión final
+   
+9. **Notificación de la Decisión**
+
+   - Comunicación de la decisión de la Junta de Planificación al solicitante
+   - En caso de aprobación, otorgamiento del estatus de Sitio Histórico
+  
+10. **Finalización del Proceso**
+
+   - Implementación de medidas de protección (si corresponden)
+   - Registro oficial del Sitio Histórico
+  
+11. **Cierre del Trámite de Evaluación**
+
+---
+
+Este flujograma es una guía general y se puede adaptar según los procedimientos específicos y pasos detallados en el Reglamento Conjunto 2020. Recuerde consultar la normativa vigente y los requisitos específicos para la evaluación de Sitios Históricos por parte de la Junta de Planificación de Puerto Rico.

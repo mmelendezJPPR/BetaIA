@@ -1,0 +1,39 @@
+
+🔍 Fragmento 1:
+A continuación se presenta un flujograma en relación a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, conforme al Reglamento Conjunto vigente:
+
+---
+
+**Flujograma: Evaluación de cambios de calificación directo por la Junta de Planificación**
+
+1. **Inicio del proceso**
+   - Iniciar solicitud de cambio de calificación directo por parte del promotor o propietario.
+   - Revisar si el cambio de calificación se adecua a los parámetros de diseño establecidos en el Reglamento Conjunto.
+
+2. **Verificación de parámetros de diseño**
+   - Verificar que el proyecto cumple con los parámetros de diseño establecidos en el Reglamento Conjunto.
+   - Revisar específicamente los parámetros relacionados con casas en hilera en distritos R-B, R-1, R-U, RT-1 y RT-A.
+
+3. **Presentación de documentación**
+   - Presentar toda la documentación requerida para la evaluación del cambio de calificación.
+   - Incluir planos, especificaciones técnicas y cualquier otro documento relevante.
+
+4. **Análisis y evaluación por la Junta de Planificación**
+   - La Junta de Planificación analizará la solicitud y verificará si cumple con los requisitos establecidos.
+   - Se evaluará si el proyecto se ajusta a las normativas vigentes y es viable urbanísticamente.
+
+5. **Emisión de resolución**
+   - La Junta de Planificación emitirá una resolución con la decisión tomada respecto al cambio de calificación solicitado.
+   - En caso de aprobación, se establecerán las condiciones y requisitos adicionales.
+
+6. **Notificación al solicitante**
+   - Notificar al promotor o propietario la decisión tomada por la Junta de Planificación.
+   - En caso de ser aprobado, se indicarán los pasos a seguir para la ejecución del proyecto.
+
+7. **Seguimiento y cumplimiento de condiciones**
+   - Asegurar el cumplimiento de las condiciones estipuladas en la resolución de la Junta de Planificación.
+   - Realizar seguimiento para garantizar que el proyecto se desarrolle según lo autorizado.
+
+---
+
+Por favor, ten en cuenta que este flujograma se basa en la información proporcionada en el Reglamento Conjunto vigente y puede ser necesario complementarlo con detalles adicionales específicos de la normativa aplicable a cada caso concreto.
