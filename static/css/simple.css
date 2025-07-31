@@ -559,6 +559,9 @@ body {
         align-items: center;
         display: flex;
     }
+
+    
+/* .imagen-derecha ruleset removed because it was empty */
     
     .hero-title {
         font-size: 2rem;

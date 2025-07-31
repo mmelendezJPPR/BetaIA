@@ -4,6 +4,7 @@ import os
 import re
 import sys
 import uuid
+import json
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from openai import OpenAI
@@ -183,7 +184,7 @@ CAPACIDADES ESPECIALES:
 - TIENES ACCESO COMPLETO AL GLOSARIO DE TÉRMINOS LEGALES (Tomo 12)
 
 CONOCIMIENTO SOBRE LOS TOMOS:
-Hay en total 11 tomos del Reglamento Conjunto 2020 + Glosario:
+Hay en total 11 tomos del Reglamento Conjunto 2020 + Glosario + Reglamento de Emergencia:
 **Favor de mencionar los titulos de los tomos**
 - Tomo 1: Sistema de Evaluación y Tramitación de Permisos para el Desarrollo
 - Tomo 2: Disposiciones Generales
@@ -197,6 +198,7 @@ Hay en total 11 tomos del Reglamento Conjunto 2020 + Glosario:
 - Tomo 10: Conservación Histórica
 - Tomo 11: Querellas
 - Glosario de términos especializados (Tomo 12) - COMPLETAMENTE DISPONIBLE
+- 🚨 Reglamento de Emergencia JP-RP-41 (ACTUALIZADO) - DISPONIBLE
 
 GLOSARIO DISPONIBLE:
 - Contiene definiciones oficiales de todos los términos legales
@@ -458,6 +460,112 @@ def buscar_resoluciones(tomo=None, tema=None):
             resultados.append("\n💡 *Para ver resoluciones completas, especifica el tomo: 'resoluciones tomo 5'*")
     
     return resultados if resultados else None
+
+def generar_indice_completo():
+    """Genera un índice completo de todos los recursos disponibles por tomo"""
+    indice = "📚 **ÍNDICE COMPLETO DE RECURSOS DISPONIBLES**\n\n"
+    
+    recursos_encontrados = {
+        'flujogramas_terrenos': [],
+        'flujogramas_calificacion': [],
+        'flujogramas_historicos': [],
+        'tablas_cabida': [],
+        'resoluciones': []
+    }
+
+    # Añadir al inicio del archivo con las otras cargas
+def cargar_reglamento_emergencia():
+    """Carga el reglamento de emergencia JP-RP-41"""
+    ruta_emergencia = os.path.join("data", "reglamento_emergencia_jp41_chatbot_20250731_155845.json")
+    if os.path.exists(ruta_emergencia):
+        try:
+            with open(ruta_emergencia, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            return data.get('analisis_completo', '')
+        except Exception as e:
+            print(f"❌ Error cargando reglamento emergencia: {e}")
+            return ""
+    return ""
+
+reglamento_emergencia = cargar_reglamento_emergencia()
+
+def buscar_en_reglamento_emergencia(entrada):
+    """Busca información específica en el reglamento de emergencia JP-RP-41"""
+    if not reglamento_emergencia:
+        return None
+    
+    try:
+        # Fragmentar el reglamento en chunks manejables
+        max_chars = 8000
+        fragmentos = []
+        
+        if len(reglamento_emergencia) > max_chars:
+            # Buscar las secciones más relevantes basadas en la pregunta
+            palabras_pregunta = entrada.lower().split()
+            lineas = reglamento_emergencia.split('\n')
+            
+            secciones_relevantes = []
+            for i, linea in enumerate(lineas):
+                linea_lower = linea.lower()
+                relevancia = 0
+                
+                for palabra in palabras_pregunta:
+                    if len(palabra) > 3 and palabra in linea_lower:
+                        relevancia += 3
+                
+                if relevancia > 0:
+                    # Capturar contexto alrededor de la línea relevante
+                    inicio = max(0, i - 10)
+                    fin = min(len(lineas), i + 30)
+                    seccion = '\n'.join(lineas[inicio:fin])
+                    secciones_relevantes.append((relevancia, seccion))
+            
+            if secciones_relevantes:
+                # Ordenar por relevancia y combinar las mejores secciones
+                secciones_relevantes.sort(key=lambda x: x[0], reverse=True)
+                contenido_relevante = '\n\n---\n\n'.join([s[1] for s in secciones_relevantes[:3]])
+            else:
+                # Si no encuentra secciones específicas, usar el inicio del documento
+                contenido_relevante = reglamento_emergencia[:max_chars]
+        else:
+            contenido_relevante = reglamento_emergencia
+        
+        # Crear prompt específico para el reglamento de emergencia
+        prompt = f"""Eres Agente de planificación, especialista en reglamentos de emergencia de Puerto Rico.
+
+REGLAMENTO DE EMERGENCIA JP-RP-41 (ACTUALIZADO):
+{contenido_relevante}
+
+PREGUNTA DEL USUARIO: {entrada}
+
+INSTRUCCIONES:
+1. Este es el REGLAMENTO DE EMERGENCIA JP-RP-41 más reciente
+2. Analiza cuidadosamente el contenido para responder la pregunta
+3. Si encuentras información relevante, preséntala de forma clara y completa
+4. Indica que la información proviene del Reglamento de Emergencia JP-RP-41
+5. Si no hay información específica, indica que se debe consultar los tomos regulares
+
+RESPUESTA BASADA EN REGLAMENTO DE EMERGENCIA:"""
+        
+        # Usar el cliente OpenAI para procesar la consulta
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "Eres Agente de planificación, experto en reglamentos de emergencia de Puerto Rico. Analiza el contenido del reglamento JP-RP-41 y proporciona respuestas precisas y completas."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.1
+        )
+        
+        contenido_respuesta = response.choices[0].message.content.strip()
+        
+        if contenido_respuesta and len(contenido_respuesta) > 50:
+            return f"🚨 **REGLAMENTO DE EMERGENCIA JP-RP-41 (ACTUALIZADO)**:\n\n{contenido_respuesta}\n\n---\n💡 *Información extraída del Reglamento de Emergencia JP-RP-41*"
+        
+    except Exception as e:
+        print(f"Error procesando reglamento de emergencia: {e}")
+    
+    return None
 
 def generar_indice_completo():
     """Genera un índice completo de todos los recursos disponibles por tomo"""
@@ -819,6 +927,18 @@ def procesar_pregunta_legal(entrada):
     if busca_titulos or (busca_listado and any(palabra in entrada_lower for palabra in palabras_tomos)):
         return obtener_titulos_tomos()
     
+    # NUEVO: Búsqueda inteligente en reglamento de emergencia
+    palabras_emergencia = ['emergencia', 'jp-rp-41', 'jp41', 'reglamento de emergencia', 'nueva regulacion', 
+                          'actualizado', 'reciente', 'ultimo', 'más reciente']
+    
+    buscar_emergencia = any(palabra in entrada_lower for palabra in palabras_emergencia)
+    
+    # Si menciona específicamente el reglamento de emergencia, priorizar esa búsqueda
+    if buscar_emergencia and reglamento_emergencia:
+        respuesta_emergencia = buscar_en_reglamento_emergencia(entrada)
+        if respuesta_emergencia:
+            return respuesta_emergencia
+    
     # Palabras que indican análisis complejo
     palabras_analisis = ["resumen", "comparar", "diferencia", "análisis", "explicar", "procedimiento", 
                         "proceso", "pasos", "cómo", "cuándo", "dónde", "requisitos", "lista", "todos los",
@@ -922,6 +1042,13 @@ def procesar_pregunta_legal(entrada):
                             recursos_especializados.append(("Flujograma", ruta_archivo))
 
     respuestas_acumuladas = []
+
+    # BÚSQUEDA AUTOMÁTICA EN REGLAMENTO DE EMERGENCIA
+    # Siempre incluir el reglamento de emergencia en las búsquedas legales
+    if reglamento_emergencia and not buscar_emergencia:
+        respuesta_emergencia = buscar_en_reglamento_emergencia(entrada)
+        if respuesta_emergencia:
+            respuestas_acumuladas.append(respuesta_emergencia)
 
     # Procesar recursos especializados PRIMERO (flujogramas, tablas, resoluciones)
     for tipo_recurso, ruta_recurso in recursos_especializados:
