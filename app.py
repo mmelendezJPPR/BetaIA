@@ -4,13 +4,12 @@ import os
 import re
 import sys
 import uuid
-from datetime import datetime, date
+from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from openai import OpenAI
 
 # CONFIGURACIÓN BETA - FECHA DE EXPIRACIÓN
-FECHA_EXPIRACION_BETA = date(2025, 7, 31)  # 31 de julio 2025
-
+FECHA_EXPIRACION_BETA = datetime.now() + timedelta(minutes=10)  # 10 minutos para pruebas
 def formatear_fecha_espanol(fecha):
     """Convierte una fecha al formato español"""
     meses_espanol = {
@@ -18,6 +17,19 @@ def formatear_fecha_espanol(fecha):
         5: 'mayo', 6: 'junio', 7: 'julio', 8: 'agosto',
         9: 'septiembre', 10: 'octubre', 11: 'noviembre', 12: 'diciembre'
     }
+
+    if isinstance(fecha, datetime):
+        dia = fecha.day
+        mes = meses_espanol[fecha.month]
+        año = fecha.year
+        hora = fecha.strftime('%H:%M')
+        return f"{dia} de {mes} de {año} a las {hora}"
+    else:
+        dia = fecha.day
+        mes = meses_espanol[fecha.month]
+        año = fecha.year
+        return f"{dia} de {mes} de {año}"
+
     
     dia = fecha.day
     mes = meses_espanol[fecha.month]
@@ -27,10 +39,15 @@ def formatear_fecha_espanol(fecha):
 
 def verificar_beta_activa():
     """Verifica si la versión beta sigue activa"""
-    hoy = date.today()
-    dias_restantes = (FECHA_EXPIRACION_BETA - hoy).days
-    return hoy <= FECHA_EXPIRACION_BETA, dias_restantes
-
+    ahora = datetime.now()
+    
+    if ahora <= FECHA_EXPIRACION_BETA:
+        tiempo_restante = FECHA_EXPIRACION_BETA - ahora
+        minutos_restantes = int(tiempo_restante.total_seconds() / 60)
+        return True, minutos_restantes
+    else:
+        return False, 0
+    
 # Configuración de la aplicación Flask
 app = Flask(__name__)
 app.secret_key = os.urandom(24)  # Para sesiones seguras

@@ -154,7 +154,7 @@ function addMessage(content, sender, isError = false) {
     if (isError) messageDiv.classList.add('error-message');
     
     const avatarIcon = sender === 'bot' ? 'fas fa-gavel' : 'fas fa-user';
-    const senderName = sender === 'bot' ? 'LegalMind' : 'Tú';
+    const senderName = sender === 'bot' ? 'Agente de planificacion' : 'Tú';
     
     messageDiv.innerHTML = `
         <div class="message-avatar">
@@ -256,7 +256,7 @@ function clearChat() {
 
 function exportChat() {
     const messages = document.querySelectorAll('.message:not(.welcome-message)');
-    let chatText = `Conversación LegalMind - ${new Date().toLocaleString('es-PR')}\n`;
+    let chatText = `Conversación Agente de planificacion - ${new Date().toLocaleString('es-PR')}\n`;
     chatText += '='.repeat(60) + '\n\n';
     
     messages.forEach(message => {
@@ -272,7 +272,7 @@ function exportChat() {
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
-    a.download = `LegalMind_Chat_${new Date().toISOString().split('T')[0]}.txt`;
+    a.download = `Agente de planificacion_Chat_${new Date().toISOString().split('T')[0]}.txt`;
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -455,4 +455,4 @@ document.addEventListener('keydown', function(e) {
     }
 });
 
-console.log('🚀 LegalMind ChatBot initialized successfully!');
+console.log('🚀 Agente de planificacion ChatBot initialized successfully!');

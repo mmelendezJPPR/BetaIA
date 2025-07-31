@@ -21,6 +21,8 @@
         <div class="header-container">
             <div class="header-left">
                 <img src="{{ url_for('static', filename='JPlogo.png') }}" alt="Junta de Planificación" class="jp-logo">
+                <img src="{{ url_for('static', filename='JP_V2.png') }}" alt="Junta de Planificación" class="jp-logo">
+
             </div>
         </div>
     </header>
@@ -32,9 +34,17 @@
             <div class="beta-icon">
                 <i class="fas fa-flask"></i>
             </div>
-            <div class="beta-text">
+                        <div class="beta-text">
                 <strong>VERSIÓN BETA</strong> - Esta es una versión de prueba que expira el {{ fecha_expiracion }}
-                <span class="beta-countdown">({{ dias_restantes }} días restantes)</span>
+                {% if dias_restantes > 0 %}
+                    {% if dias_restantes >= 60 %}
+                        <span class="beta-countdown">({{ (dias_restantes/60)|round|int }} horas restantes)</span>
+                    {% else %}
+                        <span class="beta-countdown">({{ dias_restantes }} minutos restantes)</span>
+                    {% endif %}
+                {% else %}
+                    <span class="beta-countdown beta-expired">(EXPIRADO)</span>
+                {% endif %}
             </div>
         </div>
     </div>
@@ -128,9 +138,6 @@
                         maxlength="1000"
                     ></textarea>
                     <div class="input-actions">
-                        <button id="attachBtn" class="btn-secondary" title="Adjuntar archivo">
-                            <i class="fas fa-paperclip"></i>
-                        </button>
                         <button id="sendBtn" class="btn-primary" title="Enviar mensaje">
                             <i class="fas fa-paper-plane"></i>
                         </button>
