@@ -9,13 +9,8 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # CONFIGURACIÓN BETA - FECHA DE EXPIRACIÓN
-# Fecha fija para que funcione igual en todos los servidores
-# FECHA_EXPIRACION_BETA = datetime(2025, 7, 31, 16, 0)  # 31 julio 2025 a las 4:00 PM (hora local)
-
-# Para pruebas: 5 minutos desde una hora específica de hoy
-from datetime import datetime, timedelta
-ahora = datetime.now()
-FECHA_EXPIRACION_BETA = datetime(ahora.year, ahora.month, ahora.day, ahora.hour, ahora.minute + 5, 0)
+# Fecha específica para pruebas de 10 minutos (Puerto Rico timezone)
+FECHA_EXPIRACION_BETA = datetime(2025, 7, 31, 11, 32)  # 31 julio 2025 a las 11:32 AM PR (10 minutos desde 11:22)
 def formatear_fecha_espanol(fecha):
     """Convierte una fecha al formato español"""
     meses_espanol = {
