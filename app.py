@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 # CONFIGURACIÓN BETA - FECHA DE EXPIRACIÓN
-FECHA_EXPIRACION_BETA = date(2025, 8, 15)  # 15 de agosto 2025
+FECHA_EXPIRACION_BETA = date(2025, 7, 31)  # 31 de julio 2025
 
 def formatear_fecha_espanol(fecha):
     """Convierte una fecha al formato español"""
@@ -1145,9 +1145,8 @@ def chat():
         if not beta_activa:
             return jsonify({
                 'error': 'La versión beta ha expirado',
-                'message': f'Esta versión beta expiró el {FECHA_EXPIRACION_BETA.strftime("%d de %B de %Y")}. Contacta al administrador para obtener la versión completa.'
+                'message': f'Esta versión beta expiró el {formatear_fecha_espanol(FECHA_EXPIRACION_BETA)}. Contacta al administrador para obtener la versión completa.'
             }), 403
-        
         data = request.get_json()
         mensaje = data.get('message', '').strip()
         
