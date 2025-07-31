@@ -23,8 +23,7 @@ def formatear_fecha_espanol(fecha):
         dia = fecha.day
         mes = meses_espanol[fecha.month]
         año = fecha.year
-        hora = fecha.strftime('%H:%M')
-        return f"{dia} de {mes} de {año} a las {hora}"
+        return f"{dia} de {mes} de {año}"
     else:
         dia = fecha.day
         mes = meses_espanol[fecha.month]

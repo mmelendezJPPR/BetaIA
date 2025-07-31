@@ -407,10 +407,10 @@ styleSheet.textContent = additionalStyles;
 document.head.appendChild(styleSheet);
 
 // ===== MANEJO DE ERRORES GLOBALES =====
-window.addEventListener('error', function(e) {
-    console.error('Error global:', e.error);
-    showNotification('Ocurrió un error inesperado', 'error');
-});
+//window.addEventListener('error', function(e) {
+   // console.error('Error global:', e.error);
+   // showNotification('Ocurrió un error inesperado', 'error');
+//});
 
 // ===== CONFIGURACIÓN DE PERFORMANCE =====
 // Debounce para el auto-guardado
