@@ -22,7 +22,6 @@
             <div class="header-left">
                 <img src="{{ url_for('static', filename='JPlogo.png') }}" alt="Junta de Planificación" class="jp-logo">
                 <img src="{{ url_for('static', filename='JP_V2.png') }}" alt="Junta de Planificación" class="jp-logo">
-
             </div>
         </div>
     </header>
@@ -34,17 +33,9 @@
             <div class="beta-icon">
                 <i class="fas fa-flask"></i>
             </div>
-                        <div class="beta-text">
+            <div class="beta-text">
                 <strong>VERSIÓN BETA</strong> - Esta es una versión de prueba que expira el {{ fecha_expiracion }}
-                {% if dias_restantes > 0 %}
-                    {% if dias_restantes >= 60 %}
-                        <span class="beta-countdown">({{ (dias_restantes/60)|round|int }} horas restantes)</span>
-                    {% else %}
-                        <span class="beta-countdown">({{ dias_restantes }} minutos restantes)</span>
-                    {% endif %}
-                {% else %}
-                    <span class="beta-countdown beta-expired">(EXPIRADO)</span>
-                {% endif %}
+                <span class="beta-countdown">({{ dias_restantes }} minutos restantes)</span>
             </div>
         </div>
     </div>
@@ -207,5 +198,52 @@
     </div>
 
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+    
+    <!-- Script para contador beta en tiempo real -->
+    {% if es_beta %}
+    <script>
+    // Configuración del contador beta
+    const fechaExpiracion = new Date('{{ fecha_expiracion_iso }}');
+    
+    function actualizarContadorBeta() {
+        const ahora = new Date();
+        const tiempoRestante = fechaExpiracion - ahora;
+        
+        const betaCountdown = document.querySelector('.beta-countdown');
+        if (!betaCountdown) return;
+        
+        if (tiempoRestante <= 0) {
+            // Beta expirada - recargar página para mostrar página de expiración
+            betaCountdown.innerHTML = '(EXPIRADO - Recargando...)';
+            betaCountdown.classList.add('beta-expired');
+            setTimeout(() => {
+                window.location.reload();
+            }, 2000);
+            return;
+        }
+        
+        const minutosRestantes = Math.floor(tiempoRestante / 60000);
+        const segundosRestantes = Math.floor((tiempoRestante % 60000) / 1000);
+        
+        if (minutosRestantes >= 60) {
+            const horasRestantes = Math.floor(minutosRestantes / 60);
+            betaCountdown.innerHTML = `(${horasRestantes} horas restantes)`;
+        } else if (minutosRestantes > 1) {
+            betaCountdown.innerHTML = `(${minutosRestantes} minutos restantes)`;
+        } else if (minutosRestantes === 1) {
+            betaCountdown.innerHTML = `(${minutosRestantes} minuto ${segundosRestantes} segundos)`;
+        } else {
+            betaCountdown.innerHTML = `(${segundosRestantes} segundos restantes)`;
+            betaCountdown.style.color = '#dc3545'; // Rojo cuando quedan menos de 1 minuto
+        }
+    }
+    
+    // Actualizar cada 30 segundos
+    setInterval(actualizarContadorBeta, 30000);
+    
+    // Actualizar inmediatamente
+    actualizarContadorBeta();
+    </script>
+    {% endif %}
 </body>
 </html>

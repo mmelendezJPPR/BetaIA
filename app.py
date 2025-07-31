@@ -1105,7 +1105,8 @@ def index():
                          current_time=current_time,
                          es_beta=True,
                          dias_restantes=dias_restantes,
-                         fecha_expiracion=formatear_fecha_espanol(FECHA_EXPIRACION_BETA))
+                         fecha_expiracion=formatear_fecha_espanol(FECHA_EXPIRACION_BETA),
+                         fecha_expiracion_iso=FECHA_EXPIRACION_BETA.isoformat())
 
 @app.route('/v2')
 def index_v2():
@@ -1124,7 +1125,8 @@ def index_v2():
                          current_time=current_time,
                          es_beta=True,
                          dias_restantes=dias_restantes,
-                         fecha_expiracion=formatear_fecha_espanol(FECHA_EXPIRACION_BETA))
+                         fecha_expiracion=formatear_fecha_espanol(FECHA_EXPIRACION_BETA),
+                         fecha_expiracion_iso=FECHA_EXPIRACION_BETA.isoformat())
 
 @app.route('/test')
 def test():
