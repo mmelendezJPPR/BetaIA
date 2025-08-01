@@ -3,7 +3,7 @@ TOMO 1
 **TÍTULO DEL TOMO 1: Sistema de Evaluación y Tramitación de Permisos para el Desarrollo**
 
 ## 1. PROPÓSITO GENERAL DEL TOMO
-El Tomo 1 del Reglamento Conjunto 2020 busca establecer un sistema unificado y eficiente para la evaluación y tramitación de permisos relacionados con el desarrollo, uso de terrenos y operación de negocios en Puerto Rico. Está dirigido a profesionales relacionados con la planificación urbana, entidades gubernamentales, y ciudadanos interesados en el desarrollo y la operación de dichos procesos. Regula principalmente los procedimientos administrativos, asegurando transparencia, celeridad y uniformidad a través del sistema unificado de información.
+El Tomo 1 del Reglamento de emergencia busca establecer un sistema unificado y eficiente para la evaluación y tramitación de permisos relacionados con el desarrollo, uso de terrenos y operación de negocios en Puerto Rico. Está dirigido a profesionales relacionados con la planificación urbana, entidades gubernamentales, y ciudadanos interesados en el desarrollo y la operación de dichos procesos. Regula principalmente los procedimientos administrativos, asegurando transparencia, celeridad y uniformidad a través del sistema unificado de información.
 
 ## 2. FUNCIONES CLAVE DE LA DIVISIÓN DE CUMPLIMIENTO AMBIENTAL
 - La División de Evaluación de Cumplimiento Ambiental (DECA) de la OGPe es responsable de evaluar y tramitar todos los documentos ambientales presentados a la agencia.   
@@ -119,7 +119,7 @@ Resoluciones
 - Sistema de Evaluación y Tramitación de Permisos para el Desarrollo (Año: Ley 161-2009, Ley 19-2017)
 - Organización Administrativa (Año: Ley 161-2009)
 - Junta de Planificación (Año: Ley Núm. 75 de 24 de junio de 1975, según enmendada)
-- Reglamento Conjunto 2020 (Año: 2020)
+- Reglamento de emergencia (Año: 2020)
 
 Fin
 
@@ -135,11 +135,11 @@ Tabla de Cabida
 
 Fin
 
--La función específica de la División de Cumplimiento Ambiental es preparar y adoptar, junto con la Junta de Planificación, la Oficina de Gerencia de Permisos (OGPe) y las Entidades Gubernamentales Concernidas, un Reglamento Conjunto para establecer un sistema uniforme de adjudicación, procesos uniformes para la evaluación y expedición de determinaciones finales, permisos y recomendaciones relacionados a obras de construcción y uso de terrenos, guías de diseño verde, procedimientos de auditorías y querellas, y cualquier otro asunto referido a la Ley 161-2009 (Artículo a, Reglamento Conjunto 2020).
-La División de Cumplimiento Ambiental actúa con la autoridad delegada en la Ley 161-2009, la Ley Núm. 75, la Ley Núm. 107 de 2020 (Código Municipal de Puerto Rico) y la Ley Núm. 38-2017 (Ley de Procedimiento Administrativo Uniforme) para preparar y adoptar el Reglamento Conjunto (Artículo a, Reglamento Conjunto 2020).
-Interviene en procesos de preparar y adoptar el Reglamento Conjunto, lo cual implica establecer un sistema uniforme de adjudicación, procesos uniformes para evaluación y expedición de determinaciones finales, permisos y recomendaciones, guías de diseño verde, y procedimientos de auditorías y querellas (Artículo a, Reglamento Conjunto 2020).
+-La función específica de la División de Cumplimiento Ambiental es preparar y adoptar, junto con la Junta de Planificación, la Oficina de Gerencia de Permisos (OGPe) y las Entidades Gubernamentales Concernidas, un Reglamento Conjunto para establecer un sistema uniforme de adjudicación, procesos uniformes para la evaluación y expedición de determinaciones finales, permisos y recomendaciones relacionados a obras de construcción y uso de terrenos, guías de diseño verde, procedimientos de auditorías y querellas, y cualquier otro asunto referido a la Ley 161-2009 (Artículo a, Reglamento de emergencia).
+La División de Cumplimiento Ambiental actúa con la autoridad delegada en la Ley 161-2009, la Ley Núm. 75, la Ley Núm. 107 de 2020 (Código Municipal de Puerto Rico) y la Ley Núm. 38-2017 (Ley de Procedimiento Administrativo Uniforme) para preparar y adoptar el Reglamento Conjunto (Artículo a, Reglamento de emergencia).
+Interviene en procesos de preparar y adoptar el Reglamento Conjunto, lo cual implica establecer un sistema uniforme de adjudicación, procesos uniformes para evaluación y expedición de determinaciones finales, permisos y recomendaciones, guías de diseño verde, y procedimientos de auditorías y querellas (Artículo a, Reglamento de emergencia).
 
--Se mencionan otros reglamentos como la Ley Núm. 75, la Ley Núm. 107 de 2020 (Código Municipal de Puerto Rico) y la Ley Núm. 38-2017 (Ley de Procedimiento Administrativo Uniforme), con los cuales se relaciona el Reglamento Conjunto, ya que deben preparar y adoptar disposiciones en alineación con dichas leyes (Artículo a, Reglamento Conjunto 2020).
-Existe una jerarquía entre estos reglamentos, ya que el Reglamento Conjunto se establece en cumplimiento con las disposiciones de la Ley 161-2009, la Ley Núm. 75, la Ley Núm. 107 de 2020 y la Ley Núm. 38-2017 (Artículo a, Reglamento Conjunto 2020).
+-Se mencionan otros reglamentos como la Ley Núm. 75, la Ley Núm. 107 de 2020 (Código Municipal de Puerto Rico) y la Ley Núm. 38-2017 (Ley de Procedimiento Administrativo Uniforme), con los cuales se relaciona el Reglamento Conjunto, ya que deben preparar y adoptar disposiciones en alineación con dichas leyes (Artículo a, Reglamento de emergencia).
+Existe una jerarquía entre estos reglamentos, ya que el Reglamento Conjunto se establece en cumplimiento con las disposiciones de la Ley 161-2009, la Ley Núm. 75, la Ley Núm. 107 de 2020 y la Ley Núm. 38-2017 (Artículo a, Reglamento de emergencia).
 
 Fin

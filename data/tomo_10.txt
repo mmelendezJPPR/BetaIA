@@ -1,6 +1,6 @@
 ======================================================================
 ANÁLISIS TOMO 11 - BASE DE CONOCIMIENTO PARA CHATBOT
-REGLAMENTO CONJUNTO 2020
+Reglamento de emergencia
 ======================================================================
 
 Fecha de análisis: 2025-07-29 10:14:31
@@ -9,7 +9,7 @@ Tomo: 11 - Querellas
 
 === RESUMEN COMPLETO DEL TOMO 11 - QUERELLAS ===
 
-El Tomo 11 del Reglamento Conjunto 2020 de Puerto Rico aborda los procedimientos para la presentación, tramitación y resolución de revisiones administrativas, querellas, multas y auditorías. Este tomo establece las reglas para la radicación y adjudicación de revisiones administrativas ante la División de Revisiones Administrativas de la OGPe, conforme a la Ley 161-2009.
+El Tomo 11 del Reglamento de emergencia de Puerto Rico aborda los procedimientos para la presentación, tramitación y resolución de revisiones administrativas, querellas, multas y auditorías. Este tomo establece las reglas para la radicación y adjudicación de revisiones administrativas ante la División de Revisiones Administrativas de la OGPe, conforme a la Ley 161-2009.
 
 === DEFINICIÓN Y PROPÓSITO DE QUERELLAS ===
 Las querellas son procedimientos formales presentados por partes afectadas para revisar decisiones administrativas. Su propósito es garantizar que las decisiones de las agencias gubernamentales sean justas y conforme a derecho.

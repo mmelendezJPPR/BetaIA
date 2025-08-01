@@ -1,6 +1,6 @@
 ======================================================================
 ANÁLISIS TOMO 6 - BASE DE CONOCIMIENTO PARA CHATBOT
-REGLAMENTO CONJUNTO 2020
+Reglamento de emergencia
 ======================================================================
 
 Fecha de análisis: 2025-07-29 09:44:34
@@ -10,7 +10,7 @@ Tomo: 6 - Distritos de Calificación
 === RESPUESTAS DETALLADAS PARA CHATBOT ===
 
 1. EQUIVALENCIA - DEFINICIÓN:
-Una equivalencia en el contexto del Reglamento Conjunto 2020 se refiere a la correspondencia o relación establecida entre los distritos de calificación existentes y los nuevos distritos definidos en el reglamento. Esto permite una transición ordenada y coherente entre las nomenclaturas y clasificaciones previas y las actuales, asegurando que los usos del suelo se mantengan consistentes durante el proceso de actualización de los planes de ordenación territorial.
+Una equivalencia en el contexto del Reglamento de emergencia se refiere a la correspondencia o relación establecida entre los distritos de calificación existentes y los nuevos distritos definidos en el reglamento. Esto permite una transición ordenada y coherente entre las nomenclaturas y clasificaciones previas y las actuales, asegurando que los usos del suelo se mantengan consistentes durante el proceso de actualización de los planes de ordenación territorial.
 
 2. CANTIDAD DE CLASIFICACIONES:
 1. Residencial

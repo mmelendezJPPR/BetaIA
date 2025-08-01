@@ -1,6 +1,6 @@
 ======================================================================
 ANÁLISIS TOMO 3 - BASE DE CONOCIMIENTO PARA CHATBOT
-REGLAMENTO CONJUNTO 2020
+Reglamento de emergencia
 ======================================================================
 
 Fecha de análisis: 2025-07-29 09:25:14
@@ -80,7 +80,7 @@ Un permiso de medio-ambiente es una autorización que asegura que un proyecto cu
 === REFERENCIAS LEGALES ===
 - Ley 161-2009
 - Ley 38-2017 (LPAU)
-- Reglamento Conjunto 2020
+- Reglamento de emergencia
 
 === EXCEPCIONES Y CASOS ESPECIALES ===
 - Permisos provisionales no permitidos, excepto en casos específicos de extracción de material de la corteza terrestre según la Ley Núm. 132.

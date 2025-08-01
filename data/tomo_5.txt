@@ -1,6 +1,6 @@
 ======================================================================
 ANÁLISIS TOMO 5 - BASE DE CONOCIMIENTO PARA CHATBOT
-REGLAMENTO CONJUNTO 2020
+Reglamento de emergencia
 ======================================================================
 
 Fecha de análisis: 2025-07-29 09:36:25
@@ -90,4 +90,4 @@ Los plazos varían según la complejidad del proyecto y la jurisdicción, pero g
 - Exenciones para entidades gubernamentales en ciertos trámites.
 
 === REFERENCIAS LEGALES ===
-- Reglamento Conjunto 2020, Tomo 5, Secciones 5.1.1 y 5.1.2.
+- Reglamento de emergencia, Tomo 5, Secciones 5.1.1 y 5.1.2.

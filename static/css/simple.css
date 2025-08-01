@@ -16,42 +16,55 @@ body {
 }
 
 /* ===== HEADER PRINCIPAL ===== */
+/* ===== HEADER PRINCIPAL ===== */
 .main-header {
     background: #ffffff;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     position: sticky;
     top: 0;
     z-index: 1000;
-    border-bottom: 3px solid navy;
+    height: 180px;
+    border-bottom: 3px solid #204d80;
 }
 
+/* AÑADIR ESTAS CLASES NUEVAS */
 .header-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 1rem 2rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    width: 100%;
+    padding: 10px 20px;
 }
 
 .header-left {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+}
+
+.header-right {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: flex-end !important;
 }
 
 .jp-logo {
-    height: 250px;
-    width: auto;
-    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
-    margin-left: auto;
+    height: auto;
+    width: 500px;
+    display: block !important;
+}
+
+.jpV2-logo {
+    height: auto;
+    width: 140px;
+    display: block !important;
 }
 
 
 .header-text h1 {
     font-size: 1.5rem;
     font-weight: 700;
-    color: navy;
+    color: #204d80;
     letter-spacing: -0.5px;
     margin: 0;
 }
@@ -62,8 +75,7 @@ body {
     font-weight: 500;
     margin: 0;
 }
-
-.header-right .legalmind-brand {
+ .legalmind-brand {
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -98,7 +110,7 @@ body {
 
 .hero-content {
     text-align: center;
-    color: navy;
+    color: #204d80;
 }
 
 .hero-title {
@@ -141,7 +153,7 @@ body {
 }
 
 .chat-header {
-    background: navy;
+    background: #204d80;
     color: #ffffff;
     padding: 1rem 1.5rem;
     display: flex;
@@ -239,7 +251,7 @@ body {
 }
 
 .user-message .message-avatar {
-    background: navy;
+    background: #204d80;
     color: #ffffff;
 }
 
@@ -257,7 +269,7 @@ body {
 
 .sender-name {
     font-weight: 600;
-    color: navy;
+    color: #204d80;
     font-size: 0.9rem;
 }
 
@@ -275,18 +287,18 @@ body {
 }
 
 .user-message .message-text {
-    background: navy;
+    background: #204d80;
     color: #ffffff;
-    border-color: navy;
+    border-color: #204d80;
 }
 
 .welcome-message .message-text {
     background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-    border: 2px solid navy;
+    border: 2px solid #204d80;
 }
 
 .welcome-message h4 {
-    color: navy;
+    color: #204d80;
     margin-bottom: 0.5rem;
 }
 
@@ -300,8 +312,8 @@ body {
 
 .quick-btn {
     background: #ffffff;
-    border: 2px solid navy;
-    color: navy;
+    border: 2px solid #204d80;
+    color: #204d80;
     padding: 0.5rem 1rem;
     border-radius: 25px;
     cursor: pointer;
@@ -315,7 +327,7 @@ body {
 
 .quick-btn:hover {
     background: white;
-    color: navy;
+    color: #204d80;
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
@@ -349,7 +361,7 @@ body {
 }
 
 #userInput:focus {
-    border-color: navy;
+    border-color: #204d80;
     box-shadow: 0 0 0 3px rgba(45, 90, 61, 0.1);
 }
 
@@ -374,7 +386,7 @@ body {
 
 .btn-primary {
     background: white;
-    color: navy;
+    color: #204d80;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
 
@@ -420,7 +432,7 @@ body {
 /* ===== FOOTER ===== */
 .main-footer {
     background: white;
-    color: navy;
+    color: #204d80;
     padding: 3rem 0 1rem;
     margin-top: 4rem;
 }
@@ -463,7 +475,7 @@ body {
     text-align: center;
     padding: 1rem 2rem;
     margin-top: 2rem;
-    border-top: 1px solid navy;
+    border-top: 1px solid #204d80;
     opacity: 0.8;
     font-size: 0.9rem;
 }
@@ -512,7 +524,7 @@ body {
 }
 
 .modal-header h3 {
-    color: navy;
+    color: #204d80;
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -542,7 +554,7 @@ body {
 
 .example-tag {
     background: #f8f9fa;
-    color: navy;
+    color: #204d80;
     padding: 0.5rem 1rem;
     border-radius: 20px;
     font-size: 0.85rem;
@@ -552,16 +564,31 @@ body {
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
     .header-container {
-        flex-direction: column;
-        gap: 1rem;
-        text-align: center;
-        justify-content: space-between;
-        align-items: center;
-        display: flex;
+        display: flex !important;
+        flex-direction: row !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        padding: 10px 15px;
+        width: 100% !important;
     }
-
     
-/* .imagen-derecha ruleset removed because it was empty */
+    .header-left {
+        display: flex !important;
+        justify-content: flex-start !important;
+        align-items: center !important;
+    }
+    
+    .header-right {
+        display: flex !important;
+        justify-content: flex-end !important;
+        align-items: center !important;
+    }
+    
+    .jp-logo, .jpV2-logo {
+        width: 100px !important;
+        height: auto !important;
+        display: block !important;
+    }
     
     .hero-title {
         font-size: 2rem;
