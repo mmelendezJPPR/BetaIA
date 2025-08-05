@@ -412,10 +412,10 @@ def buscar_flujograma(tipo_flujograma, tomo=None):
     def buscar_archivo_flujograma(tomo_num, nombre_archivo):
         """Busca el archivo de flujograma en las diferentes estructuras de carpetas"""
         # Estructura para tomos 1-7 (archivos directos)
-        ruta_directa = f"data/RespuestasParaChatBot/RespuestasIA_Tomo{tomo_num}/{nombre_archivo}_Tomo_{tomo_num}.txt"
+        ruta_directa = os.path.join("data", "RespuestasParaChatBot", f"RespuestasIA_Tomo{tomo_num}", f"{nombre_archivo}_Tomo_{tomo_num}.txt")
         
         # Estructura para tomos 8-11 (carpetas organizadas)
-        ruta_subcarpeta = f"data/RespuestasParaChatBot/RespuestasIA_Tomo{tomo_num}/Flujogramas/{nombre_archivo}_Tomo_{tomo_num}.txt"
+        ruta_subcarpeta = os.path.join("data", "RespuestasParaChatBot", f"RespuestasIA_Tomo{tomo_num}", "Flujogramas", f"{nombre_archivo}_Tomo_{tomo_num}.txt")
         
         for ruta in [ruta_directa, ruta_subcarpeta]:
             try:
@@ -557,8 +557,8 @@ Es importante tener en cuenta que estos valores pueden variar según la normativ
         # Log para depuración
         print(f"⚠️ Buscando tabla de cabida para tomo {tomo_num}...")
         
-        ruta_directa = f"data/RespuestasParaChatBot/RespuestasIA_Tomo{tomo_num}/TablaCabida_Tomo_{tomo_num}.txt"
-        ruta_subcarpeta = f"data/RespuestasParaChatBot/RespuestasIA_Tomo{tomo_num}/Tablas/TablaCabida_Tomo_{tomo_num}.txt"
+        ruta_directa = os.path.join("data", "RespuestasParaChatBot", f"RespuestasIA_Tomo{tomo_num}", f"TablaCabida_Tomo_{tomo_num}.txt")
+        ruta_subcarpeta = os.path.join("data", "RespuestasParaChatBot", f"RespuestasIA_Tomo{tomo_num}", "Tablas", f"TablaCabida_Tomo_{tomo_num}.txt")
         
         # Log de rutas para depuración
         print(f"📂 Probando ruta: {ruta_directa}")
@@ -594,7 +594,13 @@ Es importante tener en cuenta que estos valores pueden variar según la normativ
         print(f"📊 HTML generado para tabla tomo {tomo}:")
         print(tabla_html[:200] + "..." if len(tabla_html) > 200 else tabla_html)
         
-        resultados.append(f"**TABLA DE CABIDA - TOMO {tomo}:**<br>{tabla_html}")
+        # Log para el file system en Render
+        with open("log.txt", "a", encoding="utf-8") as log_file:
+            log_file.write(f"\n\n==== TABLA HTML GENERADA PARA TOMO {tomo} ====\n")
+            log_file.write(tabla_html[:500] + "..." if len(tabla_html) > 500 else tabla_html)
+            log_file.write("\n==== FIN TABLA HTML ====\n\n")
+        
+        resultados.append(f"<strong>TABLA DE CABIDA - TOMO {tomo}:</strong><br>{tabla_html}")
         resultados.append(f"<br>💡 <i>NOTA: Esta información proviene de la tabla de cabida del Tomo {tomo}. Consulte el Reglamento de Emergencia JP-RP-41 para la normativa vigente y actualizada.</i>")
     else:
         # Caso general: mostrar resumen de todas las tablas
@@ -604,10 +610,10 @@ Es importante tener en cuenta que estos valores pueden variar según la normativ
             # SIEMPRE tendremos contenido, sea real o genérico
             primeras_lineas = '\n'.join(contenido.split('\n')[:5])
             tabla_html = texto_a_tabla_html(primeras_lineas)
-            resumen_tomos.append(f"**TOMO {tomo_num}:**<br>{tabla_html} ...")
+            resumen_tomos.append(f"<strong>TOMO {tomo_num}:</strong><br>{tabla_html} ...")
         
-        resultados.append("📊 **RESUMEN DE TABLAS DE CABIDA DISPONIBLES:**<br>" + '<br><br>'.join(resumen_tomos))
-        resultados.append("<br>💡 *Para ver una tabla completa, especifica el tomo: 'tabla de cabida tomo 3'*")
+        resultados.append("<strong>📊 RESUMEN DE TABLAS DE CABIDA DISPONIBLES:</strong><br>" + '<br><br>'.join(resumen_tomos))
+        resultados.append("<br>💡 <i>Para ver una tabla completa, especifica el tomo: 'tabla de cabida tomo 3'</i>")
     
     # SIEMPRE devolver resultados, nunca None
     return resultados
@@ -1113,10 +1119,10 @@ def procesar_consulta_especifica(entrada, tipo_consulta):
         resultados = buscar_tabla_cabida(tomo)
         if resultados:
             # IMPORTANTE: Preservar HTML en lugar de convertirlo a texto plano
-            respuesta = "📊 **Tabla de Cabida - Distritos de Calificación:**<br><br>"
+            respuesta = "<strong>📊 Tabla de Cabida - Distritos de Calificación:</strong><br><br>"
             for resultado in resultados:
                 # No añadir \n\n que rompe el formato HTML
-                respuesta += f"{resultado}<br>"
+                respuesta += f"{resultado}"
             respuesta += "<br>---<br>💡 <i>Información extraída de las tablas de cabida por tomo</i>"
             return respuesta
         else:
@@ -1777,10 +1783,11 @@ def chat():
             resultados = buscar_tabla_cabida(tomo)
             if resultados:
                 # IMPORTANTE: Preservar HTML en lugar de convertirlo a texto plano
-                respuesta = "📊 **Tabla de Cabida - Distritos de Calificación:**<br><br>"
+                # IMPORTANTE: Preservar HTML en lugar de convertirlo a texto plano
+                respuesta = "<strong>📊 Tabla de Cabida - Distritos de Calificación:</strong><br><br>"
                 for resultado in resultados:
                     # No añadir \n\n que rompe el formato HTML
-                    respuesta += f"{resultado}<br>"
+                    respuesta += f"{resultado}"
                 respuesta += "<br>---<br>💡 <i>Información extraída de las tablas de cabida por tomo</i>"
                 
                 print(f"✅ Respuesta de respaldo generada para tabla de cabida (tomo: {tomo})")

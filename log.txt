@@ -2,3 +2,11 @@
 Pregunta: hola
 Respuesta: ¡Hola! Estoy aquí para ayudarte con cualquier pregunta que tengas sobre leyes de planificación en Puerto Rico. Trabajo principalmente con el Reglamento de Emergencia JP-RP-41, que es la fuente vigente y actualizada para estos temas. ¿En qué puedo asistirte hoy?
 ---
+[2025-08-05 16:17:25] Tipo: general-inteligente
+Pregunta: hola
+Respuesta: ¡Hola! ¿En qué puedo ayudarte hoy? Recuerda que trabajo con el Reglamento de Emergencia JP-RP-41 como fuente principal y vigente para cualquier consulta sobre leyes de planificación en Puerto Rico. Si tienes alguna pregunta sobre planificación o necesitas aclaraciones legales, estaré encantado de asistirte.
+---
+[2025-08-05 16:17:44] Tipo: general-inteligente
+Pregunta: hola
+Respuesta: ¡Hola! ¿En qué puedo ayudarte hoy? Recuerda que trabajo con el Reglamento de Emergencia JP-RP-41 como fuente principal y vigente para cualquier consulta relacionada con leyes de planificación en Puerto Rico. Si tienes alguna pregunta sobre este tema o cualquier otra consulta, estaré encantado de asistirte.
+---
