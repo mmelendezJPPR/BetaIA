@@ -1,0 +1,30 @@
+
+🔍 Fragmento 1:
+Flujograma de trámites y requerimientos en el proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación:
+
+1. Comienzo del proceso
+   - Determinar si la transacción pública está exenta según ley, resolución de la JP o la Sección 7.1.2.5 del Reglamento.
+   - En caso de no estar exenta, continuar con el proceso.
+
+2. Presentación de documentos
+   - Certificar los documentos pertinentes por un Planificador Profesional Licenciado (PPL).
+   - Verificar que se cumpla con las disposiciones generales establecidas.
+
+3. Revisión de la documentación presentada
+   - La Junta de Planificación coordina el proceso de elaboración, revisión y adopción de los planes pertinentes.
+   - Asesoramiento sobre la metodología a utilizar en la formulación de planes.
+
+4. Determinación del tipo de planificación
+   - Identificar si se trata del Plan Maestro, designaciones de zonas específicas, cambios de calificación, entre otros.
+
+5. Designaciones de zonas
+   - Determinar si se trata de Zonas de Interés Turístico, Zonas Históricas, Zonas Escolares, entre otras designaciones.
+
+6. Evaluación del alcance geográfico
+   - Definir si los planes son de desarrollo regional, urbano, rural, municipal, etc.
+   - Designar la distribución, localización, extensión e intensidad de los usos de los terrenos según el tipo de plan.
+
+7. Finalización del proceso
+   - Concluir el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación.
+
+Este flujograma es una guía general y puede variar según la complejidad y particularidades de cada caso. Se recomienda consultar el Reglamento Conjunto vigente y seguir las instrucciones detalladas para un cumplimiento adecuado de los trámites y requerimientos establecidos.

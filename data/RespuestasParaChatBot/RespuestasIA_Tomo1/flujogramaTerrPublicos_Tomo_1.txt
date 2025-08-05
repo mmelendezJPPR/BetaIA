@@ -1,0 +1,31 @@
+
+🔍 Fragmento 1:
+Para establecer una guía de referencia con flujograma de los trámites y requerimientos en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación, se puede seguir el siguiente esquema:
+
+1. **Solicitud de permiso para desarrollo de terrenos públicos**
+    a. Inicia la solicitud en la Junta de Planificación.
+    b. Se evalúan los documentos presentados y se verifica que cumplan con los requisitos establecidos en el Reglamento Conjunto.
+    c. Se asigna un número de expediente y se notifica al solicitante.
+  
+2. **Análisis y Evaluación por parte de la Junta de Planificación**
+    a. Se designa un equipo de evaluadores para revisar el proyecto.
+    b. Se realiza una evaluación técnica y legal del proyecto.
+    c. Se emite un informe de evaluación con posibles recomendaciones.
+  
+3. **Revisión por Entidades Gubernamentales Concernidas**
+    a. Se envía el proyecto a las entidades gubernamentales relevantes para su revisión.
+    b. Las entidades emiten sus comentarios y recomendaciones.
+  
+4. **Emisión de Determinación Final por parte de la Junta de Planificación**
+    a. La Junta de Planificación revisa el informe de evaluación y los comentarios de las entidades gubernamentales.
+    b. Se emite una determinación final sobre la solicitud de permiso.
+  
+5. **Notificación al Solicitante**
+    a. Se notifica al solicitante la determinación final.
+    b. En caso de aprobación, se establecen las condiciones y requisitos para la ejecución del proyecto.
+  
+6. **Seguimiento y Cumplimiento**
+    a. Se monitorea el cumplimiento de las condiciones establecidas.
+    b. Se realizan inspecciones periódicas para verificar el desarrollo conforme a lo autorizado.
+  
+Este flujo responde a los procedimientos descritos en la Ley 161-2009 y el Reglamento Conjunto actual, asegurando transparencia, eficacia y seguridad en la evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación.

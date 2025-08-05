@@ -1,0 +1,49 @@
+
+🔍 Fragmento 1:
+Para establecer una guía de referencia con flujograma a la luz del Reglamento Conjunto vigente referente a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación en relación a la conservación de recursos históricos y designación de sitios y zonas históricas, se puede seguir el siguiente flujograma:
+
+**Flujograma para la Evaluación de Cambios de Calificación Directo por parte de la Junta de Planificación en relación a Sitios y Zonas Históricas:**
+
+1. **Inicio del proceso:** ¿Se desea solicitar la nominación de un Sitio o Zona histórica?
+
+    - **No:** Fin del proceso.
+    
+    - **Sí:** Continuar al siguiente paso.
+
+2. **Verificar cumplimiento de criterios de elegibilidad:**
+    
+    a. ¿La propiedad tiene más de cincuenta (50) años?
+   
+       - **No:** No cumple con criterio de elegibilidad, fin del proceso.
+       
+       - **Sí:** Continuar al siguiente paso.
+   
+    b. ¿La propiedad cumple con alguno de los criterios de justificación para nominación como sitio histórico o zona histórica?
+   
+        - **Sí:** Continuar al siguiente paso.
+        
+        - **No:** No cumple con criterios de justificación, fin del proceso.
+
+3. **Solicitud formal a la Junta de Planificación:**
+    
+    - Enviar solicitud de nominación de Sitio o Zona histórica, adjuntando la documentación requerida que respalde la justificación.
+
+4. **Revisión por parte de la Junta de Planificación:**
+    
+    - La Junta de Planificación analiza la solicitud y documentación presentada.
+
+5. **Decisión de la Junta de Planificación:**
+    
+    a. **Aprobación:** La Junta de Planificación aprueba la nominación del Sitio o Zona histórica.
+   
+    b. **Rechazo:** La Junta de Planificación rechaza la nominación del Sitio o Zona histórica.
+
+6. **Notificación de la decisión:**
+    
+    - La Junta de Planificación notifica por escrito la decisión tomada.
+
+7. **Cierre del proceso:**
+    
+    - Fin del proceso de evaluación de cambios de calificación directo por parte de la Junta de Planificación.
+
+Este flujograma proporciona una guía clara de los pasos a seguir para la evaluación de cambios de calificación directo por parte de la Junta de Planificación en relación a la conservación de recursos históricos y designación de sitios y zonas históricas, siguiendo los criterios y procedimientos establecidos en el Reglamento Conjunto vigente.

@@ -1,0 +1,26 @@
+
+🔍 Fragmento 1:
+Flujograma de trámites y requerimientos en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación:
+
+1. **Inicio del proceso:**
+   - Solicitud de cambio de calificación o recalificación directa de solares o transacciones de terrenos públicos.
+
+2. **Evaluación de la solicitud:**
+   - Realizada por la Junta de Planificación o los Municipios Autónomos con Jerarquía de la l a la ll.
+
+3. **Emisión de determinación final:**
+   - La Junta de Planificación o los Municipios Autónomos emiten la determinación final basada en la evaluación realizada.
+
+4. **Fiscalización del cumplimiento:**
+   - La Junta de Planificación fiscaliza el cumplimiento de las determinaciones finales y permisos otorgados.
+
+5. **Auditoría de incumplimientos:**
+   - Si se detecta algún incumplimiento, se realiza una auditoría por la Junta de Planificación o una Entidad Gubernamental Concernida.
+
+6. **Acciones correctivas:**
+   - Se toman medidas correctivas según corresponda para garantizar el cumplimiento de las determinaciones finales.
+
+7. **Fin del proceso:**
+   - Una vez se cumplen los requisitos y se corrigen los posibles incumplimientos, el proceso se considera finalizado.
+
+Nota: Cada paso del flujograma implica procedimientos detallados y la participación de diferentes entidades según lo establecido en el Reglamento Conjunto vigente sobre transacciones de terrenos públicos.

@@ -1,0 +1,60 @@
+======================================================================
+ANÁLISIS TOMO 2 - BASE DE CONOCIMIENTO PARA CHATBOT
+Reglamento de emergencia
+======================================================================
+
+Fecha de análisis: 2025-07-29 09:18:26
+Caracteres procesados: 281,736
+Tomo: 2 - Disposiciones Generales
+
+=== RESPUESTAS DETALLADAS PARA CHATBOT ===
+
+1. DISPOSICIONES GENERALES MÁS IMPORTANTES:
+- El propósito del Tomo 2 es regular los procedimientos administrativos para decisiones sobre permisos, consultas, transacciones de terrenos públicos, certificaciones, autorizaciones y documentos ambientales, mejorando la calidad y eficiencia del sistema integrado de permisos. (Sección 2.1.1.1)
+- Los procedimientos relacionados con permisos, consultas y transacciones de terrenos públicos son considerados adjudicativos. (Sección 2.1.1.1)
+
+2. ALCANCE DEL TOMO 2:
+- Aplica a todos los procedimientos administrativos ante la JP, OGPe, Junta Adjudicativa, Municipios Autónomos con Jerarquía de la I a la III, PA, y IA, según la Ley 161-2009. Incluye determinaciones finales, permisos, licencias, certificaciones, autorizaciones y cualquier trámite que afecte la operación de un negocio en Puerto Rico. (Sección 2.1.1.2)
+
+3. APLICACIÓN DE LA LEY 38-2017 LPAU:
+- La Ley 38-2017 se aplica a todos los procedimientos para la evaluación, otorgamiento o denegación de determinaciones finales y permisos, recomendaciones, certificaciones, licencias, certificados o autorizaciones similares, excepto cuando una ley especial excluya su aplicación o cuando el reglamento sea inconsistente con la Ley 38-2017. (Regla 2.1.5)
+
+4. SERVICIOS Y TRÁMITES - RESUMEN:
+- Permisos, Licencias, Consultas de Ubicación, Transacciones de Terrenos Públicos, Revisiones Administrativas, Querellas y Auditoría de Permisos. (Sección 2.1.8)
+
+5. CLASES DE SOLICITUDES:
+- Permisos, Licencias, Consultas de Ubicación, Transacciones de Terrenos Públicos, Revisiones Administrativas, Querellas. (Sección 2.1.8)
+
+6. PROCESOS ADJUDICATIVOS VS CUASI-LEGISLATIVOS:
+- Procesos adjudicativos: Decisiones sobre permisos, consultas y transacciones de terrenos públicos.
+- Procesos cuasi-legislativos: No especificado en el texto proporcionado, pero generalmente se refiere a la creación de normas o regulaciones.
+
+7. REQUISITOS PARA VISTAS PÚBLICAS:
+- No especificado en el texto proporcionado.
+
+8. ASUNTOS MINISTERIALES:
+- No especificado en el texto proporcionado.
+
+9. CLASES DE NOTIFICACIONES:
+- Notificaciones mediante correo electrónico, correo ordinario o presencial si no hay correo electrónico registrado. (Regla 2.1.7)
+
+10. SOLICITUDES DISCRECIONALES:
+- No especificado en el texto proporcionado.
+
+11. ELEMENTOS PARA DETERMINACIÓN FINAL:
+- No especificado en el texto proporcionado.
+
+=== CONCEPTOS CLAVE PARA CHATBOT ===
+- Procedimientos adjudicativos: Procesos relacionados con decisiones sobre permisos, consultas y transacciones de terrenos públicos.
+- Sistema Unificado de Información (SUI): Plataforma para tramitar y evaluar solicitudes relacionadas con desarrollo, construcción y uso de propiedades en Puerto Rico.
+
+=== PROCESOS PASO A PASO ===
+- No se proporcionaron procesos paso a paso específicos en el texto.
+
+=== PLAZOS Y TIEMPOS ===
+- Consultas de ubicación privadas: Vigencia de 2 años o 24 meses.
+- Consultas de ubicación o transacciones públicas: Vigencia de 4 años o 48 meses. (Regla 2.1.4)
+
+=== REFERENCIAS LEGALES ===
+- Ley 161-2009: Ley para la Reforma del Proceso de Permisos de Puerto Rico.
+- Ley 38-2017: Ley de Procedimiento Administrativo Uniforme del Gobierno de Puerto Rico.

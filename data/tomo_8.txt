@@ -1,0 +1,112 @@
+======================================================================
+ANÁLISIS TOMO 8 - BASE DE CONOCIMIENTO PARA CHATBOT
+Reglamento de emergencia
+======================================================================
+
+Fecha de análisis: 2025-07-29 10:03:22
+Caracteres procesados: 199,964
+Tomo: 8 - Edificabilidad
+
+=== RESPUESTAS DETALLADAS PARA CHATBOT ===
+
+1. ELEMENTOS SUJETOS A PARÁMETROS DE EDIFICABILIDAD:
+- Casas en hilera
+- Casas patio
+- Casas de apartamentos
+- Micro casas
+
+2. PARÁMETROS DE EDIFICABILIDAD COMPLETOS:
+1. Tamaño mínimo del solar
+2. Ancho mínimo del solar
+3. Densidad poblacional
+4. Área bruta de piso máxima
+5. Patio delantero
+6. Patio lateral
+7. Patio posterior
+8. Separación entre edificios
+9. Voladizos
+10. Edificios y usos accesorios
+11. Áreas de estacionamiento
+12. Espacio para cargar y descargar
+
+3. APLICACIÓN POR DISTRITO DE CALIFICACIÓN:
+- **Distritos R-B, R-1, R-U, RT-1 y RT-A**: Aplican los parámetros de diseño específicos para cada tipo de vivienda (casas en hilera, casas patio, casas de apartamentos).
+- **Casas en hilera**: Máximo de 6 unidades con fachadas iguales, hasta 10 con fachadas distintas.
+- **Casas patio**: Tamaño mínimo de solar de 250 m², densidad de 1-2 familias por solar.
+- **Casas de apartamentos**: Tamaño mínimo de solar de 250 m², separación entre edificios varía según el distrito.
+
+4. OTROS TRÁMITES DE EDIFICABILIDAD:
+- Publicación de enmiendas a mapas de calificación
+- Notificación y vigencia de enmiendas
+- Cumplimiento con el Reglamento de Cobro de la JP
+
+=== CATÁLOGO COMPLETO DE PARÁMETROS ===
+1. **Tamaño mínimo del solar**: 150 m² para casas en hilera, 250 m² para casas patio y apartamentos.
+2. **Ancho mínimo del solar**: 6 m para solares interiores, 8.5 m para extremos.
+3. **Densidad poblacional**: Una unidad de vivienda por solar para casas en hilera, 1-2 familias para casas patio.
+4. **Área bruta de piso máxima**: 150% para casas en hilera, 130% para casas patio.
+5. **Patio delantero**: Fondo de 3-4 m, 50% de área en siembra en RT-1 y RT-A.
+6. **Patio lateral**: Ancho mínimo de 3 m.
+7. **Patio posterior**: Fondo mínimo de 3 m.
+8. **Separación entre edificios**: Varía según el tipo de vivienda y distrito.
+9. **Voladizos**: Extensión máxima de 1 m dentro de patios.
+10. **Edificios y usos accesorios**: Localización en parte posterior.
+11. **Áreas de estacionamiento**: Cumplimiento con diseño del Capítulo 8.5.
+12. **Espacio para cargar y descargar**: 8x3 m por cada 40 unidades de vivienda.
+
+=== DEFINICIONES TÉCNICAS DE EDIFICABILIDAD ===
+- **Densidad poblacional**: Número de unidades de vivienda permitidas por área de solar.
+- **Área bruta de piso**: Superficie total construida sobre la primera planta.
+- **Voladizos**: Extensiones arquitectónicas como cornisas y aleros.
+
+=== PARÁMETROS POR CATEGORÍAS ===
+- **Dimensiones del solar**: Tamaño y ancho mínimo.
+- **Espacios exteriores**: Patios delantero, lateral y posterior.
+- **Construcción y diseño**: Área bruta de piso, voladizos.
+- **Usos y servicios**: Edificios accesorios, estacionamiento, carga y descarga.
+
+=== APLICACIÓN EN DISTRITOS RESIDENCIALES ===
+- **R-B, R-1, R-U, RT-1, RT-A**: Aplican todos los parámetros mencionados con especificaciones según el tipo de vivienda.
+
+=== APLICACIÓN EN DISTRITOS COMERCIALES ===
+- No especificado en el texto proporcionado.
+
+=== APLICACIÓN EN DISTRITOS INDUSTRIALES ===
+- No especificado en el texto proporcionado.
+
+=== PARÁMETROS DE ALTURA Y VOLUMEN ===
+- No especificado en el texto proporcionado.
+
+=== PARÁMETROS DE ÁREA Y DENSIDAD ===
+- Tamaño mínimo del solar, densidad poblacional, área bruta de piso máxima.
+
+=== PARÁMETROS DE RETIROS Y DISTANCIAS ===
+- Patios delantero, lateral y posterior, separación entre edificios.
+
+=== PARÁMETROS DE ESTACIONAMIENTO ===
+- Requisitos de áreas de estacionamiento y espacio para cargar y descargar.
+
+=== PARÁMETROS DE ÁREA VERDE ===
+- 50% de área en siembra en patios delanteros de RT-1 y RT-A.
+
+=== EXCEPCIONES Y VARIACIONES ===
+- No especificado en el texto proporcionado.
+
+=== TRÁMITES DE EDIFICABILIDAD ===
+- Publicación y notificación de enmiendas, cumplimiento con el Reglamento de Cobro de la JP.
+
+=== MEDIDAS Y VALORES NUMÉRICOS ===
+- Tamaño mínimo del solar: 150 m², 250 m²
+- Ancho mínimo del solar: 6 m, 8.5 m
+- Área bruta de piso máxima: 150%, 130%
+- Patios: 3-4 m de fondo, 50% en siembra
+
+=== CUMPLIMIENTO Y VERIFICACIÓN ===
+- No especificado en el texto proporcionado.
+
+=== CASOS ESPECIALES DE EDIFICABILIDAD ===
+- No especificado en el texto proporcionado.
+
+=== REFERENCIAS LEGALES Y TÉCNICAS ===
+- Sección 6.1.1.11 del Capítulo 6.1 en el Tomo VI
+- Reglamento de Cobro de la JP

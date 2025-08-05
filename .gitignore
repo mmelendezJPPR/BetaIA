@@ -1,0 +1,50 @@
+# Environment variables
+.env
+.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+.DS_Store
+Thumbs.db
+
+# Railway
+.railway/
+
+# Development files
+test_*.py
+debug_*.py
+
