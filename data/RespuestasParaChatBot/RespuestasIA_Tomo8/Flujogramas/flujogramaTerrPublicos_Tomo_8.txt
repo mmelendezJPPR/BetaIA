@@ -1,18 +1,41 @@
-Flujograma: Evaluación de transacciones de terrenos públicos por la Junta de Planificación
+### Guía de Referencia: Evaluación de Transacciones de Terrenos Públicos por la Junta de Planificación
 
-1. Inicio
-2. Solicitud de evaluación de transacción de terreno público por parte del solicitante
-3. Verificación de que el terreno en cuestión se encuentra dentro de los distritos R-B, R-1, R-U, RT-1 o RT-A
-4. Revisión de los parámetros de diseño aplicables a casas en hilera en los distritos mencionados
-5. Consideración por parte de la OGPe, el PA, la Junta Adjudicativa o el Municipio Autónomo con Jerarquía de la pertinencia del proyecto
-6. Determinación del número máximo de unidades de vivienda permitidas en un edificio para casas en hilera
-7. Verificación de que la nueva construcción cumple con los parámetros de diseño y lo dispuesto en la Regla 8.1.1 del Reglamento de Emergencia JP-RP-41
-8. Evaluación de los parámetros específicos para casas en hilera, como el ancho mínimo del solar, la densidad poblacional, el área bruta de piso máxima, entre otros
-9. Verificación de la existencia de patios delanteros, laterales y posteriores con las dimensiones mínimas requeridas
-10. Consideración especial para patios laterales que linden con vías públicas de cierto ancho
-11. Análisis de la presencia de áreas para estacionamiento de vehículos en el diseño
-12. Evaluación final de la conformidad del proyecto con los requisitos establecidos
-13. Emisión de la decisión de aprobación o rechazo de la transacción de terreno público
-14. Fin
+#### 1. **Inicio del Proceso**
+   - Solicitud de evaluación de transacción de terreno público por parte del solicitante
+   - ¿La solicitud cumple con los requisitos establecidos en el Reglamento de Emergencia JP-RP-41?
+     - **Sí:** Pasar al paso 2
+     - **No:** Solicitar correcciones al solicitante
 
-Este flujograma describe de manera simplificada los pasos a seguir en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación, conforme al Reglamento de Emergencia JP-RP-41.
+#### 2. **Evaluación Preliminar**
+   - Verificación de documentación presentada
+   - Análisis de la naturaleza de la transacción propuesta
+   - ¿La propuesta está dentro de los parámetros legales y reglamentarios?
+     - **Sí:** Pasar al paso 3
+     - **No:** Requerir ajustes o documentación adicional
+
+#### 3. **Análisis Técnico**
+   - Revisión por parte de la OGPe, el PA, la Junta Adjudicativa o el Municipio Autónomo según corresponda
+   - Evaluación del impacto en la planificación territorial
+   - ¿El proyecto cumple con los criterios técnicos establecidos?
+     - **Sí:** Pasar al paso 4
+     - **No:** Solicitar modificaciones
+
+#### 4. **Evaluación de Cumplimiento**
+   - Verificación de conformidad con las disposiciones del Reglamento de Emergencia JP-RP-41
+   - Análisis de compatibilidad con el uso del suelo
+   - ¿Cumple con todos los requisitos reglamentarios?
+     - **Sí:** Pasar al paso 5
+     - **No:** Denegar o solicitar correcciones
+
+#### 5. **Determinación Final**
+   - La Junta de Planificación emite la determinación final
+   - ¿Se aprueba la transacción?
+     - **Sí:** Establecer condiciones y requisitos
+     - **No:** Notificar las razones del rechazo
+
+#### 6. **Notificación y Seguimiento**
+   - Notificar la decisión al solicitante
+   - En caso de aprobación: establecer mecanismos de seguimiento
+   - Garantizar el cumplimiento de las condiciones establecidas
+
+Este flujograma describe los pasos generales para la evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación, conforme al Reglamento de Emergencia JP-RP-41.

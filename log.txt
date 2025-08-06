@@ -936,3 +936,149 @@ Si necesitas más detalles sobre cómo iniciar este proceso o tienes un caso esp
 ---
 📋 *Fuentes consultadas: Tomos de Referencia Histórica*
 ---
+[2025-08-06 15:27:40] Tipo: general-inteligente
+Pregunta: hola
+Respuesta: ¡Hola! Bienvenido. Estoy aquí para ayudarte con cualquier pregunta relacionada con las leyes de planificación en Puerto Rico. Recuerda que utilizo el Reglamento de Emergencia JP-RP-41 como fuente principal y vigente para proporcionarte la información más precisa. ¿En qué puedo asistirte hoy?
+---
+
+
+==== TABLA HTML GENERADA PARA TOMO 6 ====
+<div style="overflow-x:auto;"><table border="1" cellpadding="4" cellspacing="0" style="border-collapse:collapse; background:#fff; margin:10px 0;">
+<thead><tr><th style="background:#f0f0f0; padding:8px;">🔍 Fragmento 1:</th><th style="background:#f0f0f0; padding:8px;"></th></tr></thead>
+<tbody>
+<tr><td style="padding:6px;">Para ilustrar las columnas sobre cabida mínima y cabida máxima permitida para cada distrito de calificación</td><td style="padding:6px;">se puede crear una tabla como la siguien...
+==== FIN TABLA HTML ====
+
+
+
+==== TABLA HTML GENERADA PARA TOMO 1 ====
+<div class="tabla-container"><table class="tabla-moderna">
+<thead><tr><th>🔍 Fragmento 1:</th><th></th><th></th></tr></thead>
+<tbody>
+<tr><td>Distrito de Calificación</td><td>Cabida Mínima Permitida</td><td>Cabida Máxima Permitida</td></tr>
+<tr><td>Distrito I</td><td>200 m²</td><td>400 m²</td></tr>
+<tr><td>Distrito II</td><td>150 m²</td><td>300 m²</td></tr>
+<tr><td>Distrito III</td><td>100 m²</td><td>250 m²</td></tr>
+<tr><td>Distrito IV</td><td>120 m²</td><td>280 m²</td></tr>
+<tr><td>Distrito V</...
+==== FIN TABLA HTML ====
+
+
+
+==== TABLA HTML GENERADA PARA TOMO 1 ====
+<div class="tabla-container"><table class="tabla-moderna">
+<thead><tr><th>🔍 Fragmento 1:</th><th></th><th></th></tr></thead>
+<tbody>
+<tr><td>Distrito de Calificación</td><td>Cabida Mínima Permitida</td><td>Cabida Máxima Permitida</td></tr>
+<tr><td>Distrito I</td><td>200 m²</td><td>400 m²</td></tr>
+<tr><td>Distrito II</td><td>150 m²</td><td>300 m²</td></tr>
+<tr><td>Distrito III</td><td>100 m²</td><td>250 m²</td></tr>
+<tr><td>Distrito IV</td><td>120 m²</td><td>280 m²</td></tr>
+<tr><td>Distrito V</...
+==== FIN TABLA HTML ====
+
+
+
+==== TABLA HTML GENERADA PARA TOMO 1 ====
+<div class="tabla-container"><table class="tabla-moderna">
+<thead><tr><th>Distrito de Calificación</th><th>Cabida Mínima Permitida</th><th>Cabida Máxima Permitida</th></tr></thead>
+<tbody>
+<tr><td>Distrito I</td><td>200 m²</td><td>400 m²</td></tr>
+<tr><td>Distrito II</td><td>150 m²</td><td>300 m²</td></tr>
+<tr><td>Distrito III</td><td>100 m²</td><td>250 m²</td></tr>
+<tr><td>Distrito IV</td><td>120 m²</td><td>280 m²</td></tr>
+<tr><td>Distrito V</td><td>180 m²</td><td>350 m²</td></tr>
+</tbody></ta...
+==== FIN TABLA HTML ====
+
+[2025-08-06 15:42:28] Tipo: legal-general
+Pregunta: generar tabla con un resumen de cada calificación
+Respuesta: <strong>📊 CALIFICACIONES DE TERRENOS:</strong><br><div class="tabla-container"><table class="tabla-moderna">
+<thead><tr><th>📋 **TABLA DE CALIFICACIONES DE TERRENOS**</th><th></th><th></th><th></th></tr></thead>
+<tbody>
+<tr><td>Calificación</td><td>Descripción</td><td>Uso Principal</td><td>Observaciones</td></tr>
+<tr><td>Residencial de Baja Densidad</td><td>Calificación para áreas residenciales con baja densidad de población</td><td>Residencias unifamiliares</td><td>Densidad controlada</td></tr>
+<tr><td>Residencial Intermedio</td><td>Calificación para áreas residenciales de densidad intermedia</td><td>Residencias multifamiliares</td><td>Equilibrio urbano</td></tr>
+<tr><td>Residencial Urbano</td><td>Calificación para áreas residenciales en zonas urbanas</td><td>Apartamentos, condominios</td><td>Alta densidad</td></tr>
+<tr><td>Comercial General</td><td>Calificación para áreas comerciales</td><td>Comercios, oficinas</td><td>Servicios diversos</td></tr>
+<tr><td>Comercial Intermedio</td><td>Calificación para áreas con actividad comercial de intensidad media</td><td>Comercios locales</td><td>Impacto moderado</td></tr>
+<tr><td>Comercial Central</td><td>Calificación para áreas con alta concentración de actividades comerciales</td><td>Centros comerciales</td><td>Alto tráfico</td></tr>
+<tr><td>Industrial Liviano</td><td>Calificación para actividades industriales de bajo impacto</td><td>Manufacturas ligeras</td><td>Bajo impacto</td></tr>
+<tr><td>Industrial Pesado</td><td>Calificación para actividades industriales de alto impacto</td><td>Industria pesada</td><td>Alto impacto</td></tr>
+</tbody></table></div><br><br>💡 <i>Información basada en el Reglamento de Emergencia JP-RP-41</i>
+---
+[2025-08-06 15:45:31] Tipo: general-inteligente
+Pregunta: hola
+Respuesta: ¡Hola! Bienvenido. Estoy aquí para ayudarte con cualquier pregunta que tengas sobre leyes de planificación en Puerto Rico. Recuerda que mi fuente principal y vigente es el Reglamento de Emergencia JP-RP-41. ¿En qué puedo asistirte hoy?
+---
+
+
+==== TABLA HTML GENERADA PARA TOMO 1 ====
+<div class="tabla-container"><table class="tabla-moderna">
+<thead><tr><th>Distrito de Calificación</th><th>Cabida Mínima Permitida</th><th>Cabida Máxima Permitida</th></tr></thead>
+<tbody>
+<tr><td>Distrito I</td><td>200 m²</td><td>400 m²</td></tr>
+<tr><td>Distrito II</td><td>150 m²</td><td>300 m²</td></tr>
+<tr><td>Distrito III</td><td>100 m²</td><td>250 m²</td></tr>
+<tr><td>Distrito IV</td><td>120 m²</td><td>280 m²</td></tr>
+<tr><td>Distrito V</td><td>180 m²</td><td>350 m²</td></tr>
+</tbody></ta...
+==== FIN TABLA HTML ====
+
+[2025-08-06 15:47:11] Tipo: legal-hibrido
+Pregunta: ¿Qué es un permiso de construcción?
+Respuesta: ¡Hola! 😊 Entiendo que estás interesado en saber qué es un permiso de construcción en Puerto Rico. Permíteme explicártelo de manera clara y sencilla.
+
+Un permiso de construcción es una autorización oficial que necesitas obtener antes de comenzar cualquier proyecto de construcción en Puerto Rico. Este permiso es emitido por la Oficina de Gerencia de Permisos (OGPe), un Municipio Autónomo con Jerarquía de la I a la V, o por un Profesional Autorizado o Entidad Concernida. La razón principal para obtener este permiso es asegurarse de que tu proyecto cumpla con todas las normativas de zonificación, códigos de construcción, y otras regulaciones importantes que garantizan la seguridad y el bienestar de la comunidad. 🏗️
+
+El proceso para obtener un permiso de construcción implica presentar planos y documentos técnicos que describen tu proyecto. Estos documentos son revisados por las autoridades competentes para verificar que todo esté en conformidad con las normativas aplicables. Una vez que recibes la aprobación, puedes proceder con la construcción, siempre y cuando te mantengas dentro de los parámetros establecidos. 📝
+
+Es fundamental que obtengas este permiso antes de comenzar cualquier obra, ya que construir sin él puede resultar en sanciones, multas, o incluso la demolición de la obra no autorizada. Así que, si estás planeando un proyecto de construcción, asegúrate de seguir este paso crucial. 🚧
+
+Si necesitas más información sobre cómo iniciar el proceso o qué documentos específicos necesitas, te recomendaría contactar a la OGPe o al municipio correspondiente para obtener orientación detallada. ¡Espero que esta información te haya sido útil! 😊
+
+---
+📋 *Fuentes consultadas: Glosario Oficial, Tomos de Referencia Histórica*
+---
+
+
+==== TABLA HTML GENERADA PARA TOMO 1 ====
+<div class="tabla-container"><table class="tabla-moderna">
+<thead><tr><th>Distrito de Calificación</th><th>Cabida Mínima Permitida</th><th>Cabida Máxima Permitida</th></tr></thead>
+<tbody>
+<tr><td>Distrito I</td><td>200 m²</td><td>400 m²</td></tr>
+<tr><td>Distrito II</td><td>150 m²</td><td>300 m²</td></tr>
+<tr><td>Distrito III</td><td>100 m²</td><td>250 m²</td></tr>
+<tr><td>Distrito IV</td><td>120 m²</td><td>280 m²</td></tr>
+<tr><td>Distrito V</td><td>180 m²</td><td>350 m²</td></tr>
+</tbody></ta...
+==== FIN TABLA HTML ====
+
+
+
+==== TABLA HTML GENERADA PARA TOMO 10 ====
+<div class="tabla-container"><table class="tabla-moderna">
+<thead><tr><th>Distrito de Calificación</th><th>Cabida Mínima</th><th>Cabida Máxima</th></tr></thead>
+<tbody>
+<tr><td>San José</td><td>120 m²</td><td>350 m²</td></tr>
+<tr><td>Heredia</td><td>150 m²</td><td>400 m²</td></tr>
+<tr><td>Alajuela</td><td>130 m²</td><td>380 m²</td></tr>
+<tr><td>Cartago</td><td>140 m²</td><td>370 m²</td></tr>
+<tr><td>Guanacaste</td><td>160 m²</td><td>420 m²</td></tr>
+<tr><td>Puntarenas</td><td>170 m²</td><td>450 ...
+==== FIN TABLA HTML ====
+
+
+
+==== TABLA HTML GENERADA PARA TOMO 10 ====
+<div class="tabla-container"><table class="tabla-moderna">
+<thead><tr><th>Distrito de Calificación</th><th>Cabida Mínima</th><th>Cabida Máxima</th></tr></thead>
+<tbody>
+<tr><td>San José</td><td>120 m²</td><td>350 m²</td></tr>
+<tr><td>Heredia</td><td>150 m²</td><td>400 m²</td></tr>
+<tr><td>Alajuela</td><td>130 m²</td><td>380 m²</td></tr>
+<tr><td>Cartago</td><td>140 m²</td><td>370 m²</td></tr>
+<tr><td>Guanacaste</td><td>160 m²</td><td>420 m²</td></tr>
+<tr><td>Puntarenas</td><td>170 m²</td><td>450 ...
+==== FIN TABLA HTML ====
+

@@ -454,7 +454,35 @@ def buscar_flujograma(tipo_flujograma, tomo=None):
 def texto_a_tabla_html(texto):
     """Convierte texto tabular (separado por tabulaciones, comas o pipes) a una tabla HTML
     Mejorado con detección de markdown y otros formatos"""
-    lineas = [l for l in texto.strip().split('\n') if l.strip()]
+    
+    # MEJORA: Limpiar texto de fragmentos y marcadores residuales
+    texto = texto.strip()
+    
+    # Eliminar cualquier marcador de fragmento que pueda aparecer
+    texto = re.sub(r'🔍\s*[Ff]ragmento\s*\d*\s*:', '', texto)
+    texto = re.sub(r'[Ff]ragmento\s*\d*\s*:', '', texto)
+    texto = re.sub(r'FRAGMENTO\s*\d*\s*:', '', texto)
+    
+    # Eliminar líneas vacías al inicio y final
+    texto = texto.strip()
+    
+    # MEJORA CRÍTICA: Buscar y extraer SOLO la tabla, ignorando texto previo
+    lineas_originales = texto.strip().split('\n')
+    
+    # Buscar la primera línea que parece ser encabezado de tabla (con |)
+    inicio_tabla = -1
+    for i, linea in enumerate(lineas_originales):
+        if linea.strip().startswith('|') and '|' in linea.strip()[1:]:
+            inicio_tabla = i
+            break
+    
+    # Si encontramos inicio de tabla, usar solo desde ahí
+    if inicio_tabla >= 0:
+        texto_tabla = '\n'.join(lineas_originales[inicio_tabla:])
+        lineas = [l for l in texto_tabla.strip().split('\n') if l.strip()]
+    else:
+        lineas = [l for l in texto.strip().split('\n') if l.strip()]
+    
     if not lineas or len(lineas) < 2:
         return f'<pre>{texto}</pre>'  # No parece tabla, mostrar como pre
 
@@ -522,12 +550,39 @@ def texto_a_tabla_html(texto):
     else:
         return f'<pre>{texto}</pre>'  # No pudimos procesar como tabla
 
-    # MEJORA: Estilo mejorado para tabla
-    html = '<div style="overflow-x:auto;"><table border="1" cellpadding="4" cellspacing="0" style="border-collapse:collapse; background:#fff; margin:10px 0;">\n'
-    html += '<thead><tr>' + ''.join(f'<th style="background:#f0f0f0; padding:8px;">{col}</th>' for col in encabezado) + '</tr></thead>\n'
+    # MEJORA: Función auxiliar para detectar tipo de datos y aplicar clases CSS
+    def detectar_tipo_celda(contenido):
+        """Detecta el tipo de contenido de una celda y retorna la clase CSS apropiada"""
+        if not contenido or not contenido.strip():
+            return ""
+        
+        contenido = contenido.strip()
+        
+        # Detectar números
+        if re.match(r'^[\d\.,\$€£¥₹]+$', contenido) or re.match(r'^\d+(\.\d+)?$', contenido):
+            return ' class="numero"'
+        
+        # Detectar fechas
+        if re.match(r'\d{1,2}[/-]\d{1,2}[/-]\d{2,4}', contenido) or re.match(r'\d{2,4}[/-]\d{1,2}[/-]\d{1,2}', contenido):
+            return ' class="fecha"'
+        
+        # Detectar estados
+        contenido_lower = contenido.lower()
+        if contenido_lower in ['activo', 'aprobado', 'completado', 'si', 'sí', 'yes', 'vigente']:
+            return ' class="estado activo"'
+        elif contenido_lower in ['pendiente', 'en proceso', 'tramitando', 'revisión']:
+            return ' class="estado pendiente"'
+        elif contenido_lower in ['inactivo', 'rechazado', 'vencido', 'no', 'cancelado']:
+            return ' class="estado inactivo"'
+        
+        return ""
+    
+    # MEJORA: Estilo mejorado para tabla usando clases CSS modernas con detección de tipos
+    html = '<div class="tabla-container"><table class="tabla-moderna">\n'
+    html += '<thead><tr>' + ''.join(f'<th>{col}</th>' for col in encabezado) + '</tr></thead>\n'
     html += '<tbody>\n'
     for fila in cuerpo:
-        html += '<tr>' + ''.join(f'<td style="padding:6px;">{celda}</td>' for celda in fila) + '</tr>\n'
+        html += '<tr>' + ''.join(f'<td{detectar_tipo_celda(celda)}>{celda}</td>' for celda in fila) + '</tr>\n'
     html += '</tbody></table></div>'
     return html
 
@@ -540,7 +595,6 @@ def buscar_tabla_cabida(tomo=None):
     def crear_tabla_cabida_generica(tomo_num):
         """Crea una tabla de cabida genérica para mostrar cuando no se encuentra la real"""
         return f"""
-🔍 Fragmento {tomo_num}:
 A continuación se presenta una tabla con la cabida mínima y máxima permitida para cada distrito de calificación en Puerto Rico:
 
 | Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
@@ -663,10 +717,7 @@ def detectar_y_generar_tabla_automatica(entrada):
 
 def generar_tabla_calificaciones():
     """Genera una tabla con información sobre calificaciones de terrenos"""
-    contenido = """
-📋 **TABLA DE CALIFICACIONES DE TERRENOS**
-
-| Calificación | Descripción | Uso Principal | Observaciones |
+    contenido = """| Calificación | Descripción | Uso Principal | Observaciones |
 |--------------|-------------|---------------|---------------|
 | Residencial de Baja Densidad | Calificación para áreas residenciales con baja densidad de población | Residencias unifamiliares | Densidad controlada |
 | Residencial Intermedio | Calificación para áreas residenciales de densidad intermedia | Residencias multifamiliares | Equilibrio urbano |
@@ -683,10 +734,7 @@ def generar_tabla_calificaciones():
 
 def generar_tabla_permisos():
     """Genera una tabla con información sobre tipos de permisos"""
-    contenido = """
-📋 **TABLA DE TIPOS DE PERMISOS**
-
-| Tipo de Permiso | Descripción | Agencia Responsable | Tiempo Estimado |
+    contenido = """| Tipo de Permiso | Descripción | Agencia Responsable | Tiempo Estimado |
 |-----------------|-------------|---------------------|-----------------|
 | Permiso de Construcción | Autorización para construcción de estructuras | OGPe/Municipios | 30-60 días |
 | Permiso de Uso | Autorización para operación de negocios | OGPe/Municipios | 15-30 días |
@@ -703,10 +751,7 @@ def generar_tabla_permisos():
 
 def generar_tabla_agencias():
     """Genera una tabla con información sobre agencias gubernamentales"""
-    contenido = """
-📋 **TABLA DE AGENCIAS GUBERNAMENTALES**
-
-| Agencia | Siglas | Función Principal | Área de Competencia |
+    contenido = """| Agencia | Siglas | Función Principal | Área de Competencia |
 |---------|--------|-------------------|---------------------|
 | Junta de Planificación | JP | Planificación territorial | Zonificación, planes de uso |
 | Oficina de Gerencia de Permisos | OGPe | Expedición de permisos | Permisos de construcción y uso |

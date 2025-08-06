@@ -1,27 +1,52 @@
-A continuación se presenta un flujograma con los pasos a seguir para la evaluación de Sitios Históricos por parte de la Junta de Planificación, conforme al Reglamento de Emergencia JP-RP-41:
+### Flujograma: Evaluación de Sitios Históricos por la Junta de Planificación
 
-1. **Iniciar Evaluación de Sitio Histórico**
-   - Reunir documentación relevante sobre el Sitio Histórico.
+#### 1. **Inicio de la Evaluación**
+   - Recibir solicitud de evaluación de sitio histórico
+   - ¿La solicitud cumple con requisitos básicos del Reglamento de Emergencia JP-RP-41?
+     - **Sí:** Pasar al paso 2
+     - **No:** Solicitar documentación faltante
 
-2. **Verificar Cumplimiento de Parámetros de Diseño**
-   - Revisar que el proyecto cumpla con los parámetros de diseño establecidos en la Regla 8.1.1 del Reglamento.
+#### 2. **Verificación de Criterios de Elegibilidad**
+   - Revisar si el sitio cumple criterios históricos, arquitectónicos o culturales
+   - ¿El sitio tiene más de 50 años y significado histórico relevante?
+     - **Sí:** Pasar al paso 3
+     - **No:** Evaluar otros criterios o descartar
 
-3. **Análisis de Unidades de Vivienda en Casas en Hilera**
-   - Verificar el número de unidades de vivienda en casas en hilera y su distribución.
+#### 3. **Evaluación de Documentación**
+   - Reunir y analizar documentación histórica relevante
+   - Revisar estudios arqueológicos si aplican
+   - ¿La documentación respalda la designación histórica?
+     - **Sí:** Pasar al paso 4
+     - **No:** Solicitar estudios adicionales
 
-4. **Revisión de Parámetros de Edificios para Casas en Hilera**
-   - Evaluar si la construcción cumple con los parámetros de diseño especificados en la Tabla 8.1 del Reglamento.
+#### 4. **Análisis de Impacto y Conservación**
+   - Evaluar el impacto de desarrollos propuestos en el área
+   - Determinar medidas de conservación necesarias
+   - ¿El desarrollo es compatible con la preservación histórica?
+     - **Sí:** Pasar al paso 5
+     - **No:** Solicitar modificaciones al proyecto
 
-5. **Inspección de Espacios Exteriores**
-   - Verificar la existencia y cumplimiento de los patios delanteros, laterales y traseros requeridos para las casas en hilera.
+#### 5. **Consulta con Entidades Especializadas**
+   - Consultar con el Instituto de Cultura Puertorriqueña si aplica
+   - Revisar con entidades arqueológicas pertinentes
+   - ¿Las entidades especializadas aprueban la designación?
+     - **Sí:** Pasar al paso 6
+     - **No:** Revisar criterios o modificar propuesta
 
-6. **Determinar Cumplimiento de Requisitos**
-   - Evaluar si el proyecto cumple con todos los requisitos establecidos en el Reglamento para casas en hilera en los distritos correspondientes.
+#### 6. **Determinación Final de la Junta**
+   - La Junta de Planificación evalúa toda la información
+   - ¿Se aprueba la designación como sitio histórico?
+     - **Sí:** Proceder con designación formal
+     - **No:** Denegar con justificación
 
-7. **Emisión de Dictamen**
-   - Emitir un dictamen con la evaluación realizada y las recomendaciones pertinentes para el Sitio Histórico en cuestión.
+#### 7. **Implementación y Seguimiento**
+   - Establecer medidas de protección y conservación
+   - Crear plan de manejo del sitio histórico
+   - Implementar monitoreo continuo del estado del sitio
 
-8. **Comunicación de Resultados**
-   - Informar al solicitante del Sitio Histórico los resultados obtenidos en la evaluación, incluyendo los aspectos a corregir si fuera necesario.
+#### 8. **Comunicación de Resultados**
+   - Notificar al solicitante la decisión final
+   - Informar sobre restricciones y obligaciones de conservación
+   - Publicar la designación según normativas aplicables
 
-Este flujograma proporciona una guía general para el proceso de evaluación de Sitios Históricos por parte de la Junta de Planificación, asegurando que se cumplan los requerimientos y parámetros de diseño establecidos en el Reglamento de Emergencia JP-RP-41.
+Este flujograma proporciona una guía estructurada para la evaluación de Sitios Históricos por parte de la Junta de Planificación, conforme al Reglamento de Emergencia JP-RP-41.

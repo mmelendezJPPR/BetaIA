@@ -1,5 +1,4 @@
 
-🔍 Fragmento 1:
 Para ilustrar las columnas sobre cabida mínima y cabida máxima permitida para cada distrito de calificación, se puede crear una tabla como la siguiente:
 
 | Distrito de Calificación | Cabida Mínima Permitida (m²) | Cabida Máxima Permitida (m²) |

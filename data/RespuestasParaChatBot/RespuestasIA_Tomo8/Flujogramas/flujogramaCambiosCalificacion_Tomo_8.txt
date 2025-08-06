@@ -1,37 +1,48 @@
-A continuación se presenta un flujograma en relación a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, conforme al Reglamento de Emergencia JP-RP-41:
+### Flujograma: Evaluación de Cambios de Calificación Directo por la Junta de Planificación
 
----
+#### 1. **Inicio del Proceso**
+   - Iniciar solicitud de cambio de calificación directo por parte del promotor o propietario
+   - ¿La solicitud cumple con los requisitos básicos del Reglamento de Emergencia JP-RP-41?
+     - **Sí:** Pasar al paso 2
+     - **No:** Solicitar correcciones
 
-**Flujograma: Evaluación de cambios de calificación directo por la Junta de Planificación**
+#### 2. **Verificación de Parámetros de Diseño**
+   - Verificar que el proyecto cumple con los parámetros de diseño establecidos
+   - ¿El cambio propuesto es compatible con la zonificación existente?
+     - **Sí:** Pasar al paso 3
+     - **No:** Evaluar viabilidad o rechazar
 
-1. **Inicio del proceso**
-   - Iniciar solicitud de cambio de calificación directo por parte del promotor o propietario.
-   - Revisar si el cambio de calificación se adecua a los parámetros de diseño establecidos en el Reglamento de Emergencia JP-RP-41.
+#### 3. **Presentación de Documentación**
+   - Presentar toda la documentación requerida para la evaluación
+   - Incluir planos, especificaciones técnicas y estudios necesarios
+   - ¿La documentación está completa y cumple estándares?
+     - **Sí:** Pasar al paso 4
+     - **No:** Solicitar documentación adicional
 
-2. **Verificación de parámetros de diseño**
-   - Verificar que el proyecto cumple con los parámetros de diseño establecidos en el Reglamento de Emergencia JP-RP-41.
-   - Revisar específicamente los parámetros relacionados con casas en hilera en distritos R-B, R-1, R-U, RT-1 y RT-A.
+#### 4. **Análisis y Evaluación Técnica**
+   - La Junta de Planificación analiza la solicitud
+   - Verificación de cumplimiento con normativas vigentes
+   - ¿El proyecto es viable urbanística y legalmente?
+     - **Sí:** Pasar al paso 5
+     - **No:** Denegar o solicitar modificaciones
 
-3. **Presentación de documentación**
-   - Presentar toda la documentación requerida para la evaluación del cambio de calificación.
-   - Incluir planos, especificaciones técnicas y cualquier otro documento relevante.
+#### 5. **Emisión de Resolución**
+   - La Junta de Planificación emite resolución con la decisión
+   - En caso de aprobación: establecer condiciones y requisitos adicionales
+   - ¿Se aprueba el cambio de calificación?
+     - **Sí:** Proceder con notificación
+     - **No:** Notificar razones del rechazo
 
-4. **Análisis y evaluación por la Junta de Planificación**
-   - La Junta de Planificación analizará la solicitud y verificará si cumple con los requisitos establecidos.
-   - Se evaluará si el proyecto se ajusta a las normativas vigentes y es viable urbanísticamente.
+#### 6. **Notificación al Solicitante**
+   - Notificar al promotor o propietario la decisión tomada
+   - En caso de aprobación: indicar pasos para la ejecución del proyecto
+   - Establecer plazos y condiciones específicas
 
-5. **Emisión de resolución**
-   - La Junta de Planificación emitirá una resolución con la decisión tomada respecto al cambio de calificación solicitado.
-   - En caso de aprobación, se establecerán las condiciones y requisitos adicionales.
+#### 7. **Seguimiento y Cumplimiento de Condiciones**
+   - Asegurar el cumplimiento de las condiciones estipuladas
+   - Realizar seguimiento para garantizar desarrollo según lo autorizado
+   - Implementar mecanismos de control y verificación
 
-6. **Notificación al solicitante**
-   - Notificar al promotor o propietario la decisión tomada por la Junta de Planificación.
-   - En caso de ser aprobado, se indicarán los pasos a seguir para la ejecución del proyecto.
-
-7. **Seguimiento y cumplimiento de condiciones**
-   - Asegurar el cumplimiento de las condiciones estipuladas en la resolución de la Junta de Planificación.
-   - Realizar seguimiento para garantizar que el proyecto se desarrolle según lo autorizado.
-
----
+Este flujograma proporciona una guía estructurada para la evaluación de cambios de calificación directo, conforme al Reglamento de Emergencia JP-RP-41.
 
 Por favor, ten en cuenta que este flujograma se basa en la información proporcionada en el Reglamento de Emergencia JP-RP-41 y puede ser necesario complementarlo con detalles adicionales específicos de la normativa aplicable a cada caso concreto.
