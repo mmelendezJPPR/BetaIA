@@ -1,6 +1,4 @@
-
-🔍 Fragmento 1:
-Para facilitar la comprensión de los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación según el Reglamento Conjunto vigente, se presenta el siguiente flujograma. Este flujograma se basa en las secciones relevantes mencionadas en el texto proporcionado.
+Para facilitar la comprensión de los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación según el Reglamento de Emergencia JP-RP-41, se presenta el siguiente flujograma. Este flujograma se basa en las secciones relevantes mencionadas en el texto proporcionado.
 
 ---
 
@@ -35,4 +33,4 @@ Inicio
 
 ---
 
-Es importante tener en cuenta que este flujograma es una guía básica y que se deben seguir las disposiciones específicas del Reglamento Conjunto y las instrucciones proporcionadas por la Junta de Planificación para realizar estos trámites de manera correcta.
+Es importante tener en cuenta que este flujograma es una guía básica y que se deben seguir las disposiciones específicas del Reglamento de Emergencia JP-RP-41 y las instrucciones proporcionadas por la Junta de Planificación para realizar estos trámites de manera correcta.

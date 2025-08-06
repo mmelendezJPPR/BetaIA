@@ -1,6 +1,4 @@
-
-🔍 Fragmento 1:
-Según el Reglamento Conjunto vigente para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, se presenta el siguiente flujograma como guía de referencia:
+Según el Reglamento de Emergencia JP-RP-41 para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, se presenta el siguiente flujograma como guía de referencia:
 
 1. **Presentación de Solicitud:**
    a. Presentación electrónica en el portal único de tramitación digital.
@@ -22,4 +20,4 @@ Según el Reglamento Conjunto vigente para la evaluación de cambios de califica
    a. Determinación en un plazo máximo de cinco (5) días laborables desde la presentación.
    b. Notificación al solicitante mediante el sistema electrónico.
 
-Es importante seguir cada paso detenidamente y cumplir con los requisitos establecidos en el Reglamento Conjunto vigente para asegurar una evaluación acorde a los procedimientos establecidos.
+Es importante seguir cada paso detenidamente y cumplir con los requisitos establecidos en el Reglamento de Emergencia JP-RP-41 para asegurar una evaluación acorde a los procedimientos establecidos.

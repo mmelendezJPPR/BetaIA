@@ -1,6 +1,4 @@
-
-🔍 Fragmento 1:
-A continuación se presenta un flujograma con los pasos a seguir para la evaluación de cambios de calificación directo por parte de la Junta de Planificación de acuerdo al Reglamento Conjunto vigente:
+A continuación se presenta un flujograma con los pasos a seguir para la evaluación de cambios de calificación directo por parte de la Junta de Planificación de acuerdo al Reglamento de Emergencia JP-RP-41:
 
 1. **Iniciar el trámite de cambio de calificación directo por la Junta de Planificación:**
     - Presentar solicitud de recomendación sobre obras eléctricas.
@@ -15,7 +13,7 @@ A continuación se presenta un flujograma con los pasos a seguir para la evaluac
 
 2. **Revisión de la solicitud por parte de la Junta de Planificación:**
     - Evaluación de los documentos presentados.
-    - Verificación de cumplimiento con los requisitos establecidos en el Reglamento Conjunto.
+    - Verificación de cumplimiento con los requisitos establecidos en el Reglamento de Emergencia JP-RP-41.
   
 3. **Solicitud de permiso de construcción para obras eléctricas:**
     - Presentar archivo digital de los planos del proyecto en formato DXF.

@@ -1,5 +1,3 @@
-
-🔍 Fragmento 1:
 Flujograma de trámites y requerimientos en el proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación:
 
 1. Comienzo del proceso
@@ -27,4 +25,4 @@ Flujograma de trámites y requerimientos en el proceso de evaluación de transac
 7. Finalización del proceso
    - Concluir el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación.
 
-Este flujograma es una guía general y puede variar según la complejidad y particularidades de cada caso. Se recomienda consultar el Reglamento Conjunto vigente y seguir las instrucciones detalladas para un cumplimiento adecuado de los trámites y requerimientos establecidos.
+Este flujograma es una guía general y puede variar según la complejidad y particularidades de cada caso. Se recomienda consultar el Reglamento de Emergencia JP-RP-41 y seguir las instrucciones detalladas para un cumplimiento adecuado de los trámites y requerimientos establecidos.

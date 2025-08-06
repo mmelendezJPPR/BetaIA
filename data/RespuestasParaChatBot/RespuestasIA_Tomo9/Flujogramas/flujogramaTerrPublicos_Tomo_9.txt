@@ -1,5 +1,3 @@
-
-🔍 Fragmento 1:
 Flujograma: Proceso de evaluación de transacciones de terrenos públicos por la Junta de Planificación
 
 1. Inicia el proceso de solicitud de evaluación de transacciones de terrenos públicos.

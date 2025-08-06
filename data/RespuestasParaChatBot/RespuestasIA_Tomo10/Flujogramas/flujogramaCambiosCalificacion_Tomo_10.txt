@@ -1,6 +1,4 @@
-
-🔍 Fragmento 1:
-Para establecer una guía de referencia con flujograma a la luz del Reglamento Conjunto vigente referente a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación en relación a la conservación de recursos históricos y designación de sitios y zonas históricas, se puede seguir el siguiente flujograma:
+Para establecer una guía de referencia con flujograma a la luz del Reglamento de Emergencia JP-RP-41 referente a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación en relación a la conservación de recursos históricos y designación de sitios y zonas históricas, se puede seguir el siguiente flujograma:
 
 **Flujograma para la Evaluación de Cambios de Calificación Directo por parte de la Junta de Planificación en relación a Sitios y Zonas Históricas:**
 
@@ -46,4 +44,4 @@ Para establecer una guía de referencia con flujograma a la luz del Reglamento C
     
     - Fin del proceso de evaluación de cambios de calificación directo por parte de la Junta de Planificación.
 
-Este flujograma proporciona una guía clara de los pasos a seguir para la evaluación de cambios de calificación directo por parte de la Junta de Planificación en relación a la conservación de recursos históricos y designación de sitios y zonas históricas, siguiendo los criterios y procedimientos establecidos en el Reglamento Conjunto vigente.
+Este flujograma proporciona una guía clara de los pasos a seguir para la evaluación de cambios de calificación directo por parte de la Junta de Planificación en relación a la conservación de recursos históricos y designación de sitios y zonas históricas, siguiendo los criterios y procedimientos establecidos en el Reglamento de Emergencia JP-RP-41.

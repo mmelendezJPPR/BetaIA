@@ -1,6 +1,4 @@
-
-🔍 Fragmento 1:
-A continuación se presenta un flujograma con los procedimientos y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, en base al Reglamento Conjunto vigente:
+A continuación se presenta un flujograma con los procedimientos y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, en base al Reglamento de Emergencia JP-RP-41:
 
 ---
 
@@ -8,7 +6,7 @@ Flujograma: Evaluación de Cambios de Calificación Directo por la Junta de Plan
 
 1. Solicitud de cambio de calificación directo en solares o transacciones de terrenos públicos.
 
-2. Verificar que la solicitud cumple con los requisitos establecidos en el Reglamento Conjunto 2020 y la Ley 161-2009.
+2. Verificar que la solicitud cumple con los requisitos establecidos en el Reglamento de Emergencia JP-RP-41 y la Ley 161-2009.
 
 3. Enviar la solicitud a la Junta de Planificación (JP) o Municipios Autónomos con Jerarquía de la l a la ll para evaluación.
 
@@ -29,4 +27,4 @@ Flujograma: Evaluación de Cambios de Calificación Directo por la Junta de Plan
 
 ---
 
-Es importante tener en cuenta que este flujograma es una guía básica y general. Se recomienda consultar el Reglamento Conjunto 2020 y la Ley 161-2009 para obtener información detallada sobre los procedimientos y requisitos específicos en cuanto a la evaluación de cambios de calificación directo por parte de la Junta de Planificación.
+Es importante tener en cuenta que este flujograma es una guía básica y general. Se recomienda consultar el Reglamento de Emergencia JP-RP-41 y la Ley 161-2009 para obtener información detallada sobre los procedimientos y requisitos específicos en cuanto a la evaluación de cambios de calificación directo por parte de la Junta de Planificación.

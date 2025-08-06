@@ -1,5 +1,3 @@
-
-🔍 Fragmento 1:
 ## Guía de referencia para la evaluación de cambios de calificación directo por la Junta de Planificación
 
 ### Flujograma de trámites y requerimientos
@@ -26,7 +24,7 @@
    - En caso de aprobación, se garantiza el cumplimiento de las condiciones establecidas para el cambio de calificación.
 
 ### Información adicional
-- Todos los procesos de evaluación y determinación se realizan conforme al Reglamento Conjunto establecido en el año 2020.
+- Todos los procesos de evaluación y determinación se realizan conforme al Reglamento de Emergencia JP-RP-41.
 - Se establecen procedimientos de auditorías y querellas para garantizar la transparencia y legalidad de los procesos.
 - Se promueve la capacitación en Guías de diseño verde para los Profesionales Autorizados y otras partes interesadas en certificarse en Puerto Rico.
 

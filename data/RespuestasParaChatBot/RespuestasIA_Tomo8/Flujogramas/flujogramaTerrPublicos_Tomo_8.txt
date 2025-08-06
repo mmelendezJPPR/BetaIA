@@ -1,5 +1,3 @@
-
-🔍 Fragmento 1:
 Flujograma: Evaluación de transacciones de terrenos públicos por la Junta de Planificación
 
 1. Inicio
@@ -8,7 +6,7 @@ Flujograma: Evaluación de transacciones de terrenos públicos por la Junta de P
 4. Revisión de los parámetros de diseño aplicables a casas en hilera en los distritos mencionados
 5. Consideración por parte de la OGPe, el PA, la Junta Adjudicativa o el Municipio Autónomo con Jerarquía de la pertinencia del proyecto
 6. Determinación del número máximo de unidades de vivienda permitidas en un edificio para casas en hilera
-7. Verificación de que la nueva construcción cumple con los parámetros de diseño y lo dispuesto en la Regla 8.1.1 del Reglamento Conjunto vigente
+7. Verificación de que la nueva construcción cumple con los parámetros de diseño y lo dispuesto en la Regla 8.1.1 del Reglamento de Emergencia JP-RP-41
 8. Evaluación de los parámetros específicos para casas en hilera, como el ancho mínimo del solar, la densidad poblacional, el área bruta de piso máxima, entre otros
 9. Verificación de la existencia de patios delanteros, laterales y posteriores con las dimensiones mínimas requeridas
 10. Consideración especial para patios laterales que linden con vías públicas de cierto ancho
@@ -17,4 +15,4 @@ Flujograma: Evaluación de transacciones de terrenos públicos por la Junta de P
 13. Emisión de la decisión de aprobación o rechazo de la transacción de terreno público
 14. Fin
 
-Este flujograma describe de manera simplificada los pasos a seguir en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación, conforme al Reglamento Conjunto vigente.
+Este flujograma describe de manera simplificada los pasos a seguir en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación, conforme al Reglamento de Emergencia JP-RP-41.

@@ -1,6 +1,4 @@
-
-🔍 Fragmento 1:
-A continuación se presenta un flujograma en relación a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, conforme al Reglamento Conjunto vigente:
+A continuación se presenta un flujograma en relación a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, conforme al Reglamento de Emergencia JP-RP-41:
 
 ---
 
@@ -8,10 +6,10 @@ A continuación se presenta un flujograma en relación a los trámites y requeri
 
 1. **Inicio del proceso**
    - Iniciar solicitud de cambio de calificación directo por parte del promotor o propietario.
-   - Revisar si el cambio de calificación se adecua a los parámetros de diseño establecidos en el Reglamento Conjunto.
+   - Revisar si el cambio de calificación se adecua a los parámetros de diseño establecidos en el Reglamento de Emergencia JP-RP-41.
 
 2. **Verificación de parámetros de diseño**
-   - Verificar que el proyecto cumple con los parámetros de diseño establecidos en el Reglamento Conjunto.
+   - Verificar que el proyecto cumple con los parámetros de diseño establecidos en el Reglamento de Emergencia JP-RP-41.
    - Revisar específicamente los parámetros relacionados con casas en hilera en distritos R-B, R-1, R-U, RT-1 y RT-A.
 
 3. **Presentación de documentación**
@@ -36,4 +34,4 @@ A continuación se presenta un flujograma en relación a los trámites y requeri
 
 ---
 
-Por favor, ten en cuenta que este flujograma se basa en la información proporcionada en el Reglamento Conjunto vigente y puede ser necesario complementarlo con detalles adicionales específicos de la normativa aplicable a cada caso concreto.
+Por favor, ten en cuenta que este flujograma se basa en la información proporcionada en el Reglamento de Emergencia JP-RP-41 y puede ser necesario complementarlo con detalles adicionales específicos de la normativa aplicable a cada caso concreto.

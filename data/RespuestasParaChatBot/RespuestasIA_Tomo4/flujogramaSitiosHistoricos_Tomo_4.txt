@@ -1,6 +1,4 @@
-
-🔍 Fragmento 1:
-Para elaborar un flujograma de los trámites y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación, debemos tener en cuenta lo establecido en el Reglamento Conjunto 2020 mencionado en su consulta. A continuación, se presenta un ejemplo de guía de referencia con un posible flujo de procesos:
+Para elaborar un flujograma de los trámites y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación, debemos tener en cuenta lo establecido en el Reglamento de Emergencia JP-RP-41. A continuación, se presenta un ejemplo de guía de referencia con un posible flujo de procesos:
 
 ### Flujograma de Evaluación de Sitios Históricos por la Junta de Planificación
 
@@ -61,4 +59,4 @@ Para elaborar un flujograma de los trámites y requerimientos para la evaluació
 
 ---
 
-Este flujograma es una guía general y se puede adaptar según los procedimientos específicos y pasos detallados en el Reglamento Conjunto 2020. Recuerde consultar la normativa vigente y los requisitos específicos para la evaluación de Sitios Históricos por parte de la Junta de Planificación de Puerto Rico.
+Este flujograma es una guía general y se puede adaptar según los procedimientos específicos y pasos detallados en el Reglamento de Emergencia JP-RP-41. Recuerde consultar la normativa vigente y los requisitos específicos para la evaluación de Sitios Históricos por parte de la Junta de Planificación de Puerto Rico.

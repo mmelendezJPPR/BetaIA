@@ -1,6 +1,4 @@
-
-🔍 Fragmento 1:
-A continuación se presenta un flujograma que describe los pasos necesarios en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación de acuerdo al Reglamento Conjunto vigente:
+A continuación se presenta un flujograma que describe los pasos necesarios en el proceso de evaluación de transacciones de terrenos públicos por parte de la Junta de Planificación de acuerdo al Reglamento de Emergencia JP-RP-41:
 
 1. Inicio del proceso:
    - Solicitud de evaluación de transacción de terreno público.
@@ -34,4 +32,4 @@ A continuación se presenta un flujograma que describe los pasos necesarios en e
      - No:
        - Finalización del proceso sin designación.
 
-Con este flujograma, se busca brindar una guía visual de los pasos a seguir para la evaluación de transacciones de terrenos públicos en relación con sitios históricos, zonas históricas y recursos arqueológicos de acuerdo al Reglamento Conjunto vigente.
+Con este flujograma, se busca brindar una guía visual de los pasos a seguir para la evaluación de transacciones de terrenos públicos en relación con sitios históricos, zonas históricas y recursos arqueológicos de acuerdo al Reglamento de Emergencia JP-RP-41.

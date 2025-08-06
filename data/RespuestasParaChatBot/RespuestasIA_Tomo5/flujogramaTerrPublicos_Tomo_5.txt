@@ -1,9 +1,7 @@
-
-🔍 Fragmento 1:
 ### Guía de Referencia: Evaluación de Transacciones de Terrenos Públicos por la Junta de Planificación  
 
 #### 1. **Revisión de Solicitud**
-   - ¿La solicitud cumple con los requisitos establecidos en el Reglamento Conjunto vigente?  
+   - ¿La solicitud cumple con los requisitos establecidos en el Reglamento de Emergencia JP-RP-41?  
      - **Sí:** Pasar al paso 2.  
      - **No:** Solicitar al solicitante correcciones.
 
@@ -34,4 +32,4 @@
 #### 7. **Dispensa a Arrendamientos**
    - Evaluar los contratos de arrendamiento que no constituyen lotificaciones.
    
-Además, se debe tener en cuenta cualquier otra disposición relevante del Reglamento Conjunto 2020. En caso de dudas o situaciones no contempladas en esta guía, es recomendable consultar directamente el Reglamento para mayor claridad y precisión en el proceso de evaluación de transacciones de terrenos públicos.
+Además, se debe tener en cuenta cualquier otra disposición relevante del Reglamento de Emergencia JP-RP-41. En caso de dudas o situaciones no contempladas en esta guía, es recomendable consultar directamente el Reglamento para mayor claridad y precisión en el proceso de evaluación de transacciones de terrenos públicos.

@@ -1,9 +1,7 @@
+Para establecer una guía de referencia con flujograma a la luz del Reglamento de Emergencia JP-RP-41 referente a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, podemos seguir los siguientes pasos:
 
-🔍 Fragmento 1:
-Para establecer una guía de referencia con flujograma a la luz del Reglamento Conjunto vigente referente a los trámites y requerimientos para la evaluación de cambios de calificación directo por parte de la Junta de Planificación, podemos seguir los siguientes pasos:
-
-1. **Revisión del Reglamento Conjunto y Normativas**:
-   - Revisar detalladamente el Reglamento Conjunto vigente, en particular los apartados que regulan los cambios de calificación directo por parte de la Junta de Planificación.
+1. **Revisión del Reglamento de Emergencia JP-RP-41 y Normativas**:
+   - Revisar detalladamente el Reglamento de Emergencia JP-RP-41, en particular los apartados que regulan los cambios de calificación directo por parte de la Junta de Planificación.
 
 2. **Identificación de los Requerimientos**:
    - Identificar los requerimientos y criterios específicos establecidos en el Reglamento para la evaluación de cambios de calificación directo.
@@ -18,12 +16,12 @@ Para establecer una guía de referencia con flujograma a la luz del Reglamento C
    - Incluir en el flujograma los procedimientos a seguir en cada paso, así como la documentación específica que se debe presentar en cada etapa del proceso.
 
 6. **Revisión y Validación**:
-   - Validar el flujograma con profesionales familiarizados con el Reglamento Conjunto vigente para asegurar su precisión y consistencia con los requisitos establecidos.
+   - Validar el flujograma con profesionales familiarizados con el Reglamento de Emergencia JP-RP-41 para asegurar su precisión y consistencia con los requisitos establecidos.
 
 7. **Divulgación y Uso**:
    - Una vez validado, el flujograma debe ser divulgado ampliamente entre aquellos que puedan verse involucrados en solicitudes de cambios de calificación directo, para facilitar el entendimiento del proceso.
 
-A continuación, se presenta un ejemplo de flujograma simplificado que podría seguirse para la evaluación de cambios de calificación directo por la Junta de Planificación, basado en los pasos generales a considerar según el Reglamento Conjunto vigente:
+A continuación, se presenta un ejemplo de flujograma simplificado que podría seguirse para la evaluación de cambios de calificación directo por la Junta de Planificación, basado en los pasos generales a considerar según el Reglamento de Emergencia JP-RP-41:
 
 ---
 
@@ -52,4 +50,4 @@ Flujograma para la Evaluación de Cambios de Calificación Directo por la Junta 
 
 ---
 
-Es importante tener en cuenta que este flujograma es una guía general y que los pasos específicos y requisitos pueden variar dependiendo del Reglamento Conjunto vigente aplicable en cada caso concreto.
+Es importante tener en cuenta que este flujograma es una guía general y que los pasos específicos y requisitos pueden variar dependiendo del Reglamento de Emergencia JP-RP-41 aplicable en cada caso concreto.

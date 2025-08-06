@@ -1,7 +1,5 @@
-
-🔍 Fragmento 1:
-A continuación se presenta un flujograma con los pasos y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación, de acuerdo con el Reglamento Conjunto vigente:
+A continuación se presenta un flujograma con los pasos y requerimientos para la evaluación de Sitios Históricos por parte de la Junta de Planificación, de acuerdo con el Reglamento de Emergencia JP-RP-41:
 
 ![Flujograma de Evaluación de Sitios Históricos por la Junta de Planificación](https://raw.githubusercontent.com/Programmatic-Cleaner/privacy_policy/main/Flujograma-Evaluacion-Sitios-Historicos.png)
 
-Este flujograma tiene como objetivo brindar una guía visual de los pasos a seguir y las decisiones que se deben tomar durante el proceso de evaluación de Sitios Históricos. Es importante seguir detenidamente cada paso y cumplir con los requerimientos establecidos en el Reglamento Conjunto para garantizar una evaluación adecuada por parte de la Junta de Planificación.
+Este flujograma tiene como objetivo brindar una guía visual de los pasos a seguir y las decisiones que se deben tomar durante el proceso de evaluación de Sitios Históricos. Es importante seguir detenidamente cada paso y cumplir con los requerimientos establecidos en el Reglamento de Emergencia JP-RP-41 para garantizar una evaluación adecuada por parte de la Junta de Planificación.
