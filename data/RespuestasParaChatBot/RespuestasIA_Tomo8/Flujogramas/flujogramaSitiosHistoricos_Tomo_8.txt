@@ -1,0 +1,29 @@
+
+🔍 Fragmento 1:
+A continuación se presenta un flujograma con los pasos a seguir para la evaluación de Sitios Históricos por parte de la Junta de Planificación, conforme al Reglamento Conjunto vigente:
+
+1. **Iniciar Evaluación de Sitio Histórico**
+   - Reunir documentación relevante sobre el Sitio Histórico.
+
+2. **Verificar Cumplimiento de Parámetros de Diseño**
+   - Revisar que el proyecto cumpla con los parámetros de diseño establecidos en la Regla 8.1.1 del Reglamento.
+
+3. **Análisis de Unidades de Vivienda en Casas en Hilera**
+   - Verificar el número de unidades de vivienda en casas en hilera y su distribución.
+
+4. **Revisión de Parámetros de Edificios para Casas en Hilera**
+   - Evaluar si la construcción cumple con los parámetros de diseño especificados en la Tabla 8.1 del Reglamento.
+
+5. **Inspección de Espacios Exteriores**
+   - Verificar la existencia y cumplimiento de los patios delanteros, laterales y traseros requeridos para las casas en hilera.
+
+6. **Determinar Cumplimiento de Requisitos**
+   - Evaluar si el proyecto cumple con todos los requisitos establecidos en el Reglamento para casas en hilera en los distritos correspondientes.
+
+7. **Emisión de Dictamen**
+   - Emitir un dictamen con la evaluación realizada y las recomendaciones pertinentes para el Sitio Histórico en cuestión.
+
+8. **Comunicación de Resultados**
+   - Informar al solicitante del Sitio Histórico los resultados obtenidos en la evaluación, incluyendo los aspectos a corregir si fuera necesario.
+
+Este flujograma proporciona una guía general para el proceso de evaluación de Sitios Históricos por parte de la Junta de Planificación, asegurando que se cumplan los requerimientos y parámetros de diseño establecidos en el Reglamento Conjunto vigente.

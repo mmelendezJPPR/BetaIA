@@ -1,0 +1,2702 @@
+======================================================================
+ANÁLISIS TOMO 12 - GLOSARIO COMPLETO PARA CHATBOT
+REGLAMENTO CONJUNTO 2020
+======================================================================
+
+Fecha de análisis: 2025-07-29 10:29:21
+Caracteres procesados: 158,569
+Tomo: 12 - Glosario
+Definiciones extraídas automáticamente: 3
+
+=== DEFINICIONES EXTRAÍDAS AUTOMÁTICAMENTE ===
+
+**Corporación cuasi**: pública o Municipio del Estado Libre Asociado de Puerto Rico que solicite un permiso.
+
+**Desperdicios Domésticos (SIDDD)**: Conjunto de estructuras, equipo, unidades de tratamiento y
+disposición de los desperdicios domésticos que se generan en una vivienda individual que consiste de un
+tanque séptico y un sistema de disposición mediante inyección al subsuelo localizado en la misma parcela
+o propiedad que la vivienda individual. Este término también incluye sistemas alternos para el manejo de
+los desperdicios domésticos de una vivienda individual tal como los tanques de retención.
+
+**Fotovoltaica que se clasifica en tres grupos básicos**: a. Proyecto fotovoltaico a pequeña escala- proyecto para la producción de energía eléctrica mediante el
+uso de energía solar cuya capacidad sea hasta 100 kilovatios (kW- AC)
+
+
+=== ANÁLISIS COMPLETO CON IA ===
+
+
+
+=== FRAGMENTO 1 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**Patio o Retiro Cerrado**: Espacio abierto y desocupado, delimitado por paredes o por paredes y un lindero edificable.
+**CATEGORÍA**: Términos de planificación
+
+**Patio o Retiro Posterior**: Espacio abierto, desocupado u ocupado, con estructuras o usos permitidos, entre la línea posterior del solar y la proyección paralela a ésta de la extremidad más próxima al edificio y que se extiende hasta las líneas laterales del solar. En un solar de una esquina, este patio será escogido por el dueño o proyectista.
+**CATEGORÍA**: Términos de planificación
+
+**Patio Principal**: Aquel espacio que comunica directamente con la entrada de una residencia u otro uso principal y forma parte de la red de circulación pública del edificio.
+**CATEGORÍA**: Términos de planificación
+
+**Patio Semi-Cerrado**: Espacio abierto y desocupado, similar al patio cerrado, pero que tiene uno de sus lados abiertos hacia un retiro lateral o frontal, patio posterior, calle u otro espacio público.
+**CATEGORÍA**: Términos de planificación
+
+**Patios Interiores**: Cualquier espacio abierto y desocupado hacia donde den ventanas o puertas, circundado a todo su alrededor por un edificio o por un edificio y una línea lateral del solar. Su dimensión mínima será de tres (3) metros o de una quinta (1/5) parte de la distancia vertical entre el nivel más bajo del patio y el nivel máximo de cualquier pared, balcón o terraza que circunde o linde con dicho patio.
+**CATEGORÍA**: Términos de planificación
+
+**Patios Semi-Interiores**: Cualquier espacio abierto y desocupado hacia donde den ventanas o puertas, parecido a un patio interior, excepto que uno de sus lados da frente y abre hacia una vía u otro espacio abierto dentro del mismo solar.
+**CATEGORÍA**: Términos de planificación
+
+**Peatón**: Persona que transita a pie o en silla de ruedas.
+**CATEGORÍA**: Términos de planificación
+
+**Pecio**: Pedazo de una nave que ha naufragado o porción de lo que ella contiene.
+**CATEGORÍA**: Términos especializados
+
+**Pequeña Industria**: Actividad industrial relacionada a la manufactura de materiales previamente confeccionados, partes o productos terminados, incluyendo el procesamiento, fabricación, montaje, tratamiento, empaquetamiento, almacenaje incidental, venta y distribución de tales productos, excluyendo el procesamiento industrial básico.
+**CATEGORÍA**: Términos de planificación
+
+**Pequeña Instalación Inalámbrica**: Instalación inalámbrica que consiste de una antena o equipo de comunicación que transmite o recibe señales de radiofrecuencia, y demás equipos inalámbricos asociados que no tienen un volumen acumulado mayor de veintiocho (28) pies cúbicos.
+**CATEGORÍA**: Términos técnicos
+
+**Pérgola**: Estructura abierta formada por pie derechos, columnas o pilastras que soportan un enrejado adintelado.
+**CATEGORÍA**: Términos de construcción
+
+**Período de Recurrencia**: El tiempo promedio en el cual se iguala o excede una vez, un evento, tales como: lluvia, crecientes y marejadas.
+**CATEGORÍA**: Términos ambientales
+
+**Permeabilidad**: La determinación de la facilidad con que se mueven los líquidos a través del suelo.
+**CATEGORÍA**: Términos ambientales
+
+**Permiso**: Aprobación escrita autorizando el comienzo de una acción o actividad, expedida por la OGPe, Municipio Autónomo con Jerarquía de la I a la V o por un Profesional Autorizado o Entidad Concernida conforme a las disposiciones de este Reglamento.
+**CATEGORÍA**: Términos legales
+
+**Permiso básico federal**: Documento que expide el "Alcohol, Tobacco, Tax and Trade Bureau" autorizando al tenedor de dicho permiso a dedicarse a la actividad o negocio especificado en el mismo.
+**CATEGORÍA**: Términos legales
+
+**Permiso de Actividad Incidental a una Obra Autorizada**: Autorización escrita expedida por la OGPe, para extraer, excavar, remover o dragar componentes de la corteza terrestre en los casos donde sea necesario para llevar a cabo, en el mismo sitio, una obra autorizada.
+**CATEGORÍA**: Términos legales
+
+**Permiso de Actividad Incidental a una Obra de Infraestructura**: Autorización escrita expedida por la OGPe, para extraer, excavar, remover o dragar componentes de la corteza terrestre en los casos donde sea necesario para llevar a cabo, en el mismo sitio, obras de infraestructura promovidas por agencias cualificadas.
+**CATEGORÍA**: Términos legales
+
+**Permiso de Construcción**: Autorización escrita expedida por la OGPe, el Profesional Autorizado o Municipio Autónomo con Jerarquía de la I a la V, para actividades de construcción de obras o estructuras, reconstrucción, remodelación, demolición, obras de urbanización, entre otras.
+**CATEGORÍA**: Términos legales
+
+**Permiso de Descarga**: Permiso emitido por la Autoridad de Acueductos y Alcantarillados a usuarios significativos que descargan a granel desperdicios no domésticos, a acarreadores de desperdicios y a ciertos usuarios no significativos.
+**CATEGORÍA**: Términos legales
+
+**Permiso de Exportación**: Autorización escrita expedida por el Secretario del Departamento de Recursos Naturales y Ambientales, para enviar fuera del Estado Libre Asociado de Puerto Rico materiales de la corteza terrestre extraídos en terrenos privados.
+**CATEGORÍA**: Términos legales
+
+**Permiso de Mantenimiento de Obras de Infraestructura Pública**: Autorización escrita expedida por la OGPe, para extraer, excavar, remover o dragar componentes de la corteza terrestre con el fin de efectuar el mantenimiento necesario de obras de infraestructura pública.
+**CATEGORÍA**: Términos legales
+
+**Permiso Formal**: Autorización escrita para extraer, excavar, remover o dragar componentes de la corteza terrestre a gran escala o con fines comerciales, que amerite un mayor estudio o evaluación técnica y legal.
+**CATEGORÍA**: Términos legales
+
+**Permiso Provisional**: Beneficio otorgado por ley al concesionario de un permiso para continuar la actividad luego de finalizada la vigencia del permiso, hasta que se resuelva la solicitud de renovación.
+**CATEGORÍA**: Términos legales
+
+**Permiso Simple**: Autorización escrita expedida por la OGPe, para extraer, excavar, remover o dragar componentes de la corteza terrestre, sin fines comerciales, y a pequeña escala.
+**CATEGORÍA**: Términos legales
+
+**Permiso Único**: Permiso para el inicio o continuación de la operación de un negocio, construcción o actividad incidental al mismo, consolidando permisos, licencias, autorizaciones o certificaciones.
+**CATEGORÍA**: Términos legales
+
+**Permiso Único Automático**: Permiso que se emite cuando un Ingeniero o Arquitecto Licenciado certifica que el uso solicitado es permitido y cumple con los parámetros requeridos.
+**CATEGORÍA**: Términos legales
+
+**Permiso Único Incidental Operacional**: Permiso creado para simplificar y agilizar los trámites de ciertos permisos relacionados con obras y actividades.
+**CATEGORÍA**: Términos legales
+
+**Permiso Único PYMES**: Autorización solicitada por individuos o PYMES, expedida en un máximo de sesenta (60) días.
+**CATEGORÍA**: Términos legales
+
+**Permiso Único para Actividades Temporeras**: Autorización escrita para ocupar o utilizar una pertenencia por un máximo de seis (6) meses.
+**CATEGORÍA**: Términos legales
+
+**Permiso Único Verde**: Permisos para estructuras que cumplen con los parámetros necesarios para obtener una certificación de diseño de permiso verde.
+**CATEGORÍA**: Términos legales
+
+**Permisos Generales**: Permisos requeridos para atender aspectos ambientales para obras.
+**CATEGORÍA**: Términos legales
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Patio o Retiro Cerrado
+- Patio o Retiro Posterior
+- Patio Principal
+- Patio Semi-Cerrado
+- Patios Interiores
+- Patios Semi-Interiores
+- Peatón
+- Pecio
+- Pequeña Industria
+- Pequeña Instalación Inalámbrica
+- Pérgola
+- Período de Recurrencia
+- Permeabilidad
+- Permiso
+- Permiso básico federal
+- Permiso de Actividad Incidental a una Obra Autorizada
+- Permiso de Actividad Incidental a una Obra de Infraestructura
+- Permiso de Construcción
+- Permiso de Descarga
+- Permiso de Exportación
+- Permiso de Mantenimiento de Obras de Infraestructura Pública
+- Permiso Formal
+- Permiso Provisional
+- Permiso Simple
+- Permiso Único
+- Permiso Único Automático
+- Permiso Único Incidental Operacional
+- Permiso Único PYMES
+- Permiso Único para Actividades Temporeras
+- Permiso Único Verde
+- Permisos Generales
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos
+- Términos de planificación
+- Términos de construcción
+- Términos ambientales
+- Términos especializados
+
+=== REFERENCIAS CRUZADAS ===
+- Permiso de Actividad Incidental a una Obra Autorizada / Permiso de Actividad Incidental a una Obra de Infraestructura
+- Permiso Único / Permiso Único Automático / Permiso Único Incidental Operacional / Permiso Único PYMES / Permiso Único para Actividades Temporeras / Permiso Único Verde
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Planificación y Zonificación**: Patio o Retiro Cerrado, Patio o Retiro Posterior, Patio Principal, Patio Semi-Cerrado, Patios Interiores, Patios Semi-Interiores, Peatón, Pequeña Industria
+- **Construcción y Estructuras**: Pérgola
+- **Ambientales**: Período de Recurrencia, Permeabilidad
+- **Legales y Administrativos**: Permiso, Permiso básico federal, Permiso de Actividad Incidental a una Obra Autorizada, Permiso de Actividad Incidental a una Obra de Infraestructura, Permiso de Construcción, Permiso de Descarga, Permiso de Exportación, Permiso de Mantenimiento de Obras de Infraestructura Pública, Permiso Formal, Permiso Provisional, Permiso Simple, Permiso Único, Permiso Único Automático, Permiso Único Incidental Operacional, Permiso Único PYMES, Permiso Único para Actividades Temporeras, Permiso Único Verde, Permisos Generales
+- **Especializados**: Pecio
+
+=== FRAGMENTO 2 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**Permisos Relacionados a Desarrollo y Uso de Terrenos**  
+**DEFINICIÓN**: Aquellos permisos requeridos para realizar mejoras a terrenos u obras o para el uso de una pertenencia, estructura, rótulo, anuncio o edificio, los cuales no incluyen aquellos permisos que son requeridos para la operación de un establecimiento.  
+**CATEGORÍA**: Términos legales
+
+**Persona**  
+**DEFINICIÓN**: Toda persona natural o jurídica, pública o privada y cualquier agrupación de ellas.  
+**CATEGORÍA**: Términos legales
+
+**Persona con Impedimento**  
+**DEFINICIÓN**: Toda persona con un impedimento físico o mental que lo limite sustancialmente en una o más de las actividades principales del diario vivir o que tiene un historial de tal impedimento; que es considerada o atendida como una persona con tal impedimento.  
+**CATEGORÍA**: Términos legales
+
+**Persona con Impedimentos Físicos**  
+**DEFINICIÓN**: Toda persona que, como consecuencia o resultado de un defecto congénito, una enfermedad, deficiencia en su desarrollo, accidente o por cualquier otra razón, haya quedado limitada o privada de una o más de sus funciones físicas básicas.  
+**CATEGORÍA**: Términos legales
+
+**Persona de Edad Avanzada**  
+**DEFINICIÓN**: Toda persona de sesenta (60) años o más de edad.  
+**CATEGORÍA**: Términos legales
+
+**Persona encargada del levante**  
+**DEFINICIÓN**: La persona que tiene la autorización del Negociado para recoger la mercancía.  
+**CATEGORÍA**: Términos administrativos
+
+**Persona que Paga la Exacción**  
+**DEFINICIÓN**: Persona o su sucesor en interés, que emprende nuevos desarrollos que razonablemente pueda esperarse que tenga un impacto sobre las instalaciones dotacionales y que paga un cargo por impacto o por eslabonamiento, según los términos reglamentarios o cualquier exacción por impacto o programa de eslabonamiento adoptado por un Municipio Autónomo o Entidad Gubernamental de Infraestructura.  
+**CATEGORÍA**: Términos legales
+
+**Pertenencia**  
+**DEFINICIÓN**: Solar, estructura, edificio o combinación de estos.  
+**CATEGORÍA**: Términos de planificación
+
+**Peticionario**  
+**DEFINICIÓN**: Toda persona natural o jurídica, asociación o grupo de personas, Departamento, Agencia, Corporación cuasi-pública o Municipio del Estado Libre Asociado de Puerto Rico que solicite un permiso.  
+**CATEGORÍA**: Términos legales
+
+**Peticionario Cualificado**  
+**DEFINICIÓN**: Propietario de terrenos dentro de un área propuesta para un programa de reparcelación.  
+**CATEGORÍA**: Términos de planificación
+
+**Pie Derecho**  
+**DEFINICIÓN**: Apoyo vertical de madera o hierro.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Piscina**  
+**DEFINICIÓN**: Estanque de agua dedicado al baño o a la natación, bien sea al aire libre o bajo techo, conjuntamente con sus edificios e instalaciones anexas; ya sea que el estanque esté construido de hormigón, mampostería u otro material análogo.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Piscina de circulación continua**  
+**DEFINICIÓN**: Piscina en la que el agua fresca fluye continuamente.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Piscina de recirculación**  
+**DEFINICIÓN**: Piscina que tiene un sistema de tuberías, mecánicamente diseñado para remover el agua, filtrarla, desinfectarla y retornarla a la piscina.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Piscina intermitente o de vaciamiento periódico**  
+**DEFINICIÓN**: Piscina en la que el agua se usa por un cierto tiempo y luego se renueva por completo.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Piscina Pública**  
+**DEFINICIÓN**: Toda piscina operada por, o que sirva a campamentos, iglesias, municipios, centros de recreación o proyectos de viviendas que consistan de más de cinco unidades de viviendas, gimnasios, instituciones, parques, agencias gubernamentales, escuelas, hospitales, hoteles o cualquier otra entidad. También incluirá spas y jacuzzis. La admisión a dicha facilidad podrá ser mediante pago o gratuita.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plan de Área**  
+**DEFINICIÓN**: Plan de Ordenación para disponer el uso del suelo en áreas del municipio que requieran atención especial.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan de Cierre**  
+**DEFINICIÓN**: Conjunto de actividades a ser realizadas con el propósito de clausurar el sistema de disposición de desperdicios sólidos, cumpliendo con los requisitos de este reglamento y conforme con los requisitos reglamentarios estatales y federales aplicables.  
+**CATEGORÍA**: Términos ambientales
+
+**Plan de Ensanche**  
+**DEFINICIÓN**: Plan de Ordenación para disponer el uso del suelo urbanizable programado del municipio a convertirse en suelo urbano.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan de Ordenación**  
+**DEFINICIÓN**: Plan de un municipio para disponer el uso del suelo dentro de sus límites territoriales y promover el bienestar social y económico de la población e incluirá el Plan Territorial, el Plan de Ensanche y el Plan de Área.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan de Reciclaje**  
+**DEFINICIÓN**: Se refiere al Plan de Reducción, Reutilización y Reciclaje que debe ser elaborado por los municipios o consorcios, las agencias y el sector privado para cumplir con las disposiciones de la Ley Núm. 70 de 18 de septiembre de 1992, Ley para la Reducción de los Desperdicios Sólidos en PR, según enmendada. El Plan incluye los Programas de Recuperación y Separación en la fuente de materiales reciclables requeridos o elaborados para algún material reciclable en particular.  
+**CATEGORÍA**: Términos ambientales
+
+**Plan de Rehabilitación**  
+**DEFINICIÓN**: Plan aprobado por la Oficina de Ordenación Territorial de aquellos municipios con planes de área o zona histórica o la Directoría de Urbanismo con el asesoramiento de la Junta de Planificación y por el alcalde del Municipio para la rehabilitación del centro urbano.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan de Usos del Terreno**  
+**DEFINICIÓN**: Documento de política pública adoptado por la Junta y, que dependiendo de su alcance geográfico y propósito, designará la distribución, localización, extensión e intensidad de los usos del suelo y otros elementos, tales como: la infraestructura para propósitos urbanos, rurales, agrícolas, de explotación minera, bosques, conservación y para la protección de los recursos naturales, recreación, transportación y comunicaciones, generación de energía y para actividades residenciales, comerciales, industriales, educativas, públicas e institucionales, entre otros.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan de Vivienda**  
+**DEFINICIÓN**: Plan adoptado por la Junta de Planificación o por un Municipio Autónomo que identifica la necesidad de vivienda de interés social y los criterios para la localización de dicha vivienda, la cual recibirá el apoyo de fondos de eslabonamiento de vivienda.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan Especial de Intervención**  
+**DEFINICIÓN**: Plan preparado para cambiar la demarcación de la totalidad o una parte de una Zona de Intervención Especial. La adopción de este Plan Especial de Intervención, sometido como consulta de ubicación a la Junta de Planificación, envuelve cambios a los planos y normativas reglamentarias.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan Estratégico de Desarrollo**  
+**DEFINICIÓN**: Plan de acción narrativo para el desarrollo físico de una parcela de terreno, incluyendo, cuando sea apropiado, un plan para mercadear la propiedad a un desarrollador cualificado.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan Maestro**  
+**DEFINICIÓN**: Instrumento para relacionar distintas acciones de intervención sobre un territorio para la creación de condiciones ideales para el desarrollo urbano en donde se establecen criterios orientadores de acción, gestión e inversiones en pos de la materialización de una visión de desarrollo para el área de estudio. El plan se desarrolla mediante acciones/gestiones por etapas. Es un instrumento dinámico y flexible.  
+**CATEGORÍA**: Términos de planificación
+
+**Plan Territorial**  
+**DEFINICIÓN**: Plan de Ordenación Territorial que abarca un municipio en toda su extensión territorial, que enuncia y dispone la política pública sobre su desarrollo y uso del suelo.  
+**CATEGORÍA**: Términos de planificación
+
+**Planificador Profesional Licenciado**  
+**DEFINICIÓN**: Todo planificador que ha cumplido con los requisitos exigidos por ley para el ejercicio de tal profesión y que posee una licencia expedida por la Junta Examinadora que le autorice a ejercer como tal y figure inscrito en el Registro de ésta, a tenor con lo dispuesto en la Ley Núm. 160 de 23 de agosto de 1996, según enmendada.  
+**CATEGORÍA**: Términos legales
+
+**Plano de Área Urbana Central**  
+**DEFINICIÓN**: Plano o serie de planos donde se delimita las Áreas Urbanas Centrales de cada municipio.  
+**CATEGORÍA**: Términos de planificación
+
+**Plano de Calificación de Suelo**  
+**DEFINICIÓN**: Plano o serie de planos que formen parte del Plan Territorial y que identifican los usos generales de un sector.  
+**CATEGORÍA**: Términos de planificación
+
+**Plano de Clasificación de Suelo**  
+**DEFINICIÓN**: Plano o serie de plano que formen parte del Plan Territorial y que demarquen el suelo urbano, urbanizable y rústico.  
+**CATEGORÍA**: Términos de planificación
+
+**Plano de Construcción**  
+**DEFINICIÓN**: Dibujos con detalles, notas y leyendas, hechos a una escala conveniente, que representan gráficamente la naturaleza y extensión de la obra o construcción a realizarse y que requieren ser firmados por el diseñador que los preparó o confeccionó.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plano de Construcción Eléctrica o Planos de Diseño Eléctrico**  
+**DEFINICIÓN**: Dibujos detallados y precisos, hechos a una escala conveniente, que representan gráficamente la naturaleza y extensión de la obra o construcción a realizarse y que requieren el sello y la firma del diseñador que los elaboró. Éstos incluyen planos de situación, ubicación, instalaciones eléctricas y servidumbres, entre otros.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plano de Desarrollo de Forestación**  
+**DEFINICIÓN**: Plano que especifica dónde establecer siembras de arbustos y árboles.  
+**CATEGORÍA**: Términos ambientales
+
+**Plano de diseño (Layout Plan)**  
+**DEFINICIÓN**: Los planos de situación que consisten de dibujos que representan el solar de la obra de construcción respecto a los puntos cardinales. Estos dibujos representan los terrenos, edificios o estructuras colindantes al solar, así como las calles carreteras o accesos vehiculares al mismo.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plano de Ensamblajes**  
+**DEFINICIÓN**: Son aquellos que contienen las dimensiones exactas del cuarto de máquina, el pozo, o cualquier otra área. El Plano debe establecer el código y año de diseño con el cual cumple. Conocido en inglés como “shop drawings”.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plano de Inscripción**  
+**DEFINICIÓN**: Serie de documentos mediante los cuales se presenta el plano para su inscripción y archivo en el Registro de la Propiedad una vez aprobados por la OGPe o Municipio Autónomo con Jerarquía de la I a la V, según aplique. Incluye información exacta sobre coordenadas planas estatales, rumbos y distancias de los solares, calles y servidumbres, la cabida y usos de los solares a crearse y la rotulación de los predios a dedicarse o reservarse a uso público.  
+**CATEGORÍA**: Términos legales
+
+**Plano de Mensura y Topografía**  
+**DEFINICIÓN**: Plano que contiene información cartografiada sobre los diferentes niveles de un terreno, relativo a su elevación con relación al nivel medio del mar (MSL) expresada a través de líneas de contorno.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plano de Ordenación**  
+**DEFINICIÓN**: Plano que forma parte de un Plan de Ordenación Territorial y demarca gráficamente la aplicación geográfica del Reglamento de Ordenación y de las políticas públicas sobre el uso del suelo, este plano incluye la Red de Espacios Públicos, Distritos de Uso, Zonas de Edificabilidad y Zonas de Intervención Especial. Pueden ser específicos de un Sitio o Zona Histórica que cualifican las Normas Especiales de Ordenamiento particulares y que demarcan la aplicación de las distintas zonas de ordenamiento, los cuales pueden incluir, entre otros, usos, tamaño de solar, altura o niveles permitidos, área de ocupación, área bruta de piso y patios.  
+**CATEGORÍA**: Términos de planificación
+
+**Plano de Siembra**  
+**DEFINICIÓN**: Plano que especifica dónde establecer la siembra de árboles, arbustos, cubre suelos y grama.  
+**CATEGORÍA**: Términos ambientales
+
+**Plano de Sitio (Site Plan)**  
+**DEFINICIÓN**: Plano a escala que indica las dimensiones y configuración del solar y la forma geométrica y dimensiones de la obra proyectada. Se indicarán los patios propuestos, servidumbres y se identificará cualquier edificio o estructura, incluyendo líneas aéreas y soterradas, torres, postes y otros artefactos propios de las líneas de transmisión o distribución de energía eléctrica ubicadas en el solar y colindantes a este, indicando su uso presente y futuro si se proyecta algún cambio de uso. Se marcarán los espacios de estacionamientos de vehículos que se proponen en el solar y se identificarán las calles, carreteras y los accesos vehiculares existentes o propuestos con sus dimensiones. Además, se presenta la localización del proyecto con respecto a los puntos cardinales.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plano Oficial o Mapa Oficial**  
+**DEFINICIÓN**: Plano que indica la posición exacta de los trazados de unas vías según se establece en la Ley Núm. 75 de 24 de junio de 1975, según enmendada.  
+**CATEGORÍA**: Términos legales
+
+**Plano según construido (As Build)**  
+**DEFINICIÓN**: Plano final según construido después de terminado todo proyecto de construcción preparado por profesionales autorizados.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plano Topográfico**  
+**DEFINICIÓN**: Plano que representa de manera gráfica y precisa la configuración de la superficie del terreno, características culturales y naturales. Las elevaciones estarán referenciadas al datum oficial que requiera el proyecto.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Permisos Relacionados a Desarrollo y Uso de Terrenos
+- Persona
+- Persona con Impedimento
+- Persona con Impedimentos Físicos
+- Persona de Edad Avanzada
+- Persona encargada del levante
+- Persona que Paga la Exacción
+- Pertenencia
+- Peticionario
+- Peticionario Cualificado
+- Pie Derecho
+- Piscina
+- Piscina de circulación continua
+- Piscina de recirculación
+- Piscina intermitente o de vaciamiento periódico
+- Piscina Pública
+- Plan de Área
+- Plan de Cierre
+- Plan de Ensanche
+- Plan de Ordenación
+- Plan de Reciclaje
+- Plan de Rehabilitación
+- Plan de Usos del Terreno
+- Plan de Vivienda
+- Plan Especial de Intervención
+- Plan Estratégico de Desarrollo
+- Plan Maestro
+- Plan Territorial
+- Planificador Profesional Licenciado
+- Plano de Área Urbana Central
+- Plano de Calificación de Suelo
+- Plano de Clasificación de Suelo
+- Plano de Construcción
+- Plano de Construcción Eléctrica o Planos de Diseño Eléctrico
+- Plano de Desarrollo de Forestación
+- Plano de diseño (Layout Plan)
+- Plano de Ensamblajes
+- Plano de Inscripción
+- Plano de Mensura y Topografía
+- Plano de Ordenación
+- Plano de Siembra
+- Plano de Sitio (Site Plan)
+- Plano Oficial o Mapa Oficial
+- Plano según construido (As Build)
+- Plano Topográfico
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+
+=== REFERENCIAS CRUZADAS ===
+- Persona, Persona con Impedimento, Persona con Impedimentos Físicos, Persona de Edad Avanzada
+- Plan de Ordenación, Plan Territorial, Plan de Ensanche, Plan de Área
+- Plano de Construcción, Plano de Construcción Eléctrica o Planos de Diseño Eléctr
+
+=== FRAGMENTO 3 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**Planta Baja o Primera Planta**: La planta baja es la planta inmediatamente encima del nivel del terreno o del sótano o semisótano.
+**CATEGORÍA**: Términos de construcción
+
+**Planta de Filtración**: Instalación donde se provee tratamiento al agua para adecuarla al consumo humano. Se conoce, además, como planta de purificación de agua.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Planta de Hielo**: Todo lugar, estructura o establecimiento donde se elabora, se procesa o se empaca hielo para consumo humano.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Planta de Tratamiento de Aguas Residuales**: Instalación en las que se trata las aguas servidas antes de descargar las mismas al medio ambiente.
+**CATEGORÍA**: Términos ambientales
+
+**Planta o Piso**: La parte de un edificio comprendida entre la superficie de cualquier piso y la del siguiente piso superior o entre la superficie de un piso y el techo o azotea. Una planta en la que viven, trabajan, duermen o se congregan personas y cuyo plafón, cielo raso o techumbre se levanta más de un (1) metro sobre nivel del encintado se contará como una planta. Una planta que se eleva menos de un (1) metro sobre cualquier nivel del encintado no se contará al determinar el número de plantas. Las plantas que no se utilicen para los propósitos anteriormente mencionados podrán construirse hasta una altura mayor de un (1) metro sobre el nivel del encintado y no contarse como una planta, para los efectos de altura únicamente, siempre que la altura del edificio no exceda la permitida.
+**CATEGORÍA**: Términos de construcción
+
+**Planta Procesadora de Alimentos**: Una operación comercial donde se fabrican, empacan, etiquetan, o almacenan alimentos para el consumo humano, y proporciona alimentos para la venta o la distribución a otros sectores tales como establecimientos de comidas.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plantas generatrices**: Estructuras en las que se genera electricidad.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Plantas industriales**: Cualquier edificio o agrupación de edificios donde se lleve a cabo la destilación, producción o fabricación de productos tributables bajo el Subtítulo D del Código, tales como la destilación, rectificación, fábricas de vino, fábricas de cerveza, almacenaje y envase de espíritus destilados y bebidas alcohólicas.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Playa**: Ribera del mar u océano formada de arenales firmes, con pendiente suave y ocasionalmente grava e incluyendo la porción de agua contigua a esta ribera, son formaciones geológicamente inestables y pueden adentrar hacia el mar retirarse o desaparecer.
+**CATEGORÍA**: Términos ambientales
+
+**Playa Nadable**: Una playa con arena limpia, clara con aguas tranquilas, libre de corrientes y contracorrientes, de piedras y fango, segura para nadar y para el disfrute recreativo.
+**CATEGORÍA**: Términos ambientales
+
+**Plaza**: Área abierta destinada principalmente a la recreación pasiva, delimitada por estructuras y que forma parte integral del espacio público del pueblo o ciudad. También se refiere a espacios abiertos destinados a la recreación pasiva que conecta con una arcada o con una vía peatonal pública en la cual se crea un ambiente paisajista mediante la siembra de arbustos y plantas, puede formar parte del paisaje cultural, incluye plazuelas, parques o jardines diseñados.
+**CATEGORÍA**: Términos de planificación
+
+**Plaza de Recreo**: Lugar recreativo existente en el espacio urbano público principal del pueblo, definido dentro de la trama urbana en este por edificaciones, entre las cuales se encuentran usualmente, instituciones principales del pueblo como el Ayuntamiento e Iglesia, entre otras. Puede existir más de una plaza de recreo en una zona urbana de un municipio.
+**CATEGORÍA**: Términos de planificación
+
+**Población Especial**: Significa personas con discapacidades, edad avanzada o desventajadas, con acceso limitado al uso y disfrute de las instalaciones recreativas o deportivas.
+**CATEGORÍA**: Términos administrativos
+
+**Poblado**: Área edificada en forma gradual en la cual residen más de treinta (30) familias con una densidad de cuatro (4) o más familias por cuerda en un área comprendida en un círculo con radio de cien (100) metros.
+**CATEGORÍA**: Términos de planificación
+
+**Poblado Aislado**: Áreas urbanizadas fuera de los pueblos y ciudades que sostienen una vida en comunidad, donde existe un uso relativamente intenso del suelo y donde usualmente ocurre una variedad de usos para atender las necesidades del poblado. Comprende las áreas pobladas en la ruralía que se clasifican, o podrían clasificarse, como Áreas Desarrolladas o el territorio clasificado como Poblado Rústico por los Planes de Ordenación.
+**CATEGORÍA**: Términos de planificación
+
+**Poblado Autosuficiente**: Un poblado al que se le han provisto o se le proveerán servicios de vecindad y de comunidad y que cuenta, o contará, además, con fuentes de trabajo.
+**CATEGORÍA**: Términos de planificación
+
+**Poceto**: Una estructura del sistema de alcantarillado pluvial, provisto de aberturas con el propósito de permitir la entrada de la escorrentía superficial, a los conductos soterrados del sistema.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Poda**: Eliminación selectiva de las ramas de un árbol o parte de ellas con un propósito específico, de acuerdo a lo siguiente:
+- Acortar una rama (heading back): poda de una rama hasta una rama lateral que no sea lo suficientemente gruesa para asumir el rol de líder terminal.
+- Levantar la copa (crown raising): remoción de ramas bajas para permitir el movimiento de vehículos y peatones, permitir la vista de paisajes y reducir la interferencia de ramas con edificios, manteniendo el follaje en las dos terceras partes superiores del árbol.
+- Poda direccional (lateral o direccional pruning): remoción de ramas que están en contacto con el tendido eléctrico, edificios o estructuras, que interfieren con rótulos o señales de seguridad.
+- Poda de saneamiento (crown cleaning): remoción científica de las ramas secas, muertas, quebradas, enfermas, débiles en su estructura además de la remoción de los árboles epicórmicos que se encuentran en la copa del árbol. Incluye la remoción de tocones dejados en eventos de poda pasados.
+- Raleo de copa (crown thinning): poda selectiva de ramas en su punto de origen o acortar una rama o líder podando ésta hasta una rama lateral con un diámetro mayor de dos terceras partes del diámetro de la rama a remover, para que asuma el rol de líder terminal. Se usa para ralear el follaje, reducir el peso de ramas grandes, reducir la altura del árbol, aumentar la penetración de la luz a través de la copa y permitir la entrada de aire a través de la copa, de modo que se disminuya la resistencia de la misma al viento reteniéndose la forma natural del árbol.
+- Reducción de copa (crown reduction): poda de ramas para reducir el tamaño de la copa del árbol, removiendo el líder central, acortando ramas principales o raleando ramas laterales.
+- Restauración de copa (crown restoration): poda de ramas para mejorar la estructura y la apariencia del árbol, para tratar árboles con múltiples brotes, los cuales crecen como consecuencia de la pérdida de ramas principales por rotura de éstas, descope, daños por fenómenos naturales o por podas masivas e inadecuadas.
+**CATEGORÍA**: Términos ambientales
+
+**Polígono**: Unidad urbanística constituida por una superficie de terreno, delimitada para fines de valoración catastral, ordenación urbana, planificación industrial, comercial, residencial.
+**CATEGORÍA**: Términos de planificación
+
+**Portada**: Elemento arquitectónico que decora la entrada en la fachada principal de un edificio.
+**CATEGORÍA**: Términos de construcción
+
+**Portal**: Primera pieza de una casa, en la que está la puerta principal que comunica con la vía pública. Puede ser además un detalle arquitectónico entre el edificio y la línea lateral del solar o la línea posterior del solar en solares de esquina.
+**CATEGORÍA**: Términos de construcción
+
+**Porteador aéreo, marítimo o terrestre**: Significa cualquier persona que se dedique a proveer mediante paga servicios de transporte de artículos introducidos al Estado Libre Asociado de Puerto Rico. Este servicio puede, entre otras cosas, incluir la agrupación o consolidación de embarques, la distribución de los mismos, al igual que la responsabilidad de transportarlos desde el punto de entrada hasta su destino final.
+**CATEGORÍA**: Términos administrativos
+
+**Pórtico**: Espacio cubierto, con arcadas o columnas que se construye delante de la entrada principal de un edificio a lo largo de un muro de fachada o patio.
+**CATEGORÍA**: Términos de construcción
+
+**Posada**: Es una marca y programa de la Compañía de Turismo que tiene el objetivo de desarrollar una red de pequeñas y medianas hospederías de carácter temático dentro de la delimitación de un centro urbano tradicional, apelando a una experiencia de la historia y cultura del pueblo donde ubica la Posada, aportando a la revitalización económica del centro urbano. Contará con un mínimo de seis (6) y un máximo de cincuenta (50) habitaciones.
+**CATEGORÍA**: Términos administrativos
+
+**Poste para dispositivos inalámbricos pequeños**: Elemento vertical el cual podría ser de madera, hormigón, aluminio, acero o cualquier otro material que sostenga los dispositivos aquí propuestos. Su propiedad, administración u operación pertenece al solicitante. Se utiliza o se puede utilizar, en su totalidad o en parte, por o para comunicaciones fijas (“wireline”), cables de distribución eléctrica, señalización, para la colocación de un dispositivo inalámbrico pequeño o una función similar. No incluye estructuras de soporte inalámbrico tales como torres y valla publicitaria (“billboard”), entre otros.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Poste de dispositivos inalámbricos pequeños existente**: Cualquier poste de dispositivos inalámbricos pequeños que se encuentre erigido y en uso al momento en que se solicita la coubicación de una microcelda en este.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Poste de Semáforos**: Elemento vertical que sostiene uno o varios semáforos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Poste o Estructura de Soporte Eléctrica**: Elemento vertical del que se sostienen los cables de transmisión o distribución. Puede ser de madera, hormigón, aluminio o acero.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Poste Telefónico**: Poste que sirve de soporte a cables de distribución y a las cajas de distribución aéreas.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Pozo Filtrante**: Pozos que reciben desperdicios, los cuales tienen un fondo abierto y que a veces tienen los lados perforados, utilizados en viviendas individuales para la disposición de los desperdicios domésticos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Prácticas Agrícolas**: Labranza, cultivo de la tierra o prácticas agropecuarias cuya metodología sea recomendada por el Departamento de Agricultura de Puerto Rico.
+**CATEGORÍA**: Términos ambientales
+
+**Prácticas de Conservación**: Mejores prácticas de manejo para reducir, controlar o mantener la integridad de los recursos naturales. Se clasifican como: estructurales (ejemplo: zanja de ladera), vegetativas (ejemplo: siembra de pastos o árboles), mecánicas (ejemplo: arado a nivel) y de manejo (ejemplo: rotación de predios en pastoreo).
+**CATEGORÍA**: Términos ambientales
+
+**Pre-Autorización**: Trámite ante la Oficina de Gerencia de Permisos, Entidades Gubernamentales Concernidas o Municipio Autónomo con Jerarquía de la I a la V aplicable a trámites ministeriales o cuando se cuente con una consulta aprobada donde se evalúan los planos preliminares, puntos de conexión, recomendaciones y no representa autorización para comenzar construcción o demolición alguna. Este trámite no es ni será obligatorio para obtener un permiso de construcción o permiso de urbanización, pero podrá ser utilizado para cualquier propósito legal.
+**CATEGORÍA**: Términos administrativos
+
+**Precisión**: Valor estadístico que establece la cercanía al valor verdadero.
+**CATEGORÍA**: Términos técnicos
+
+**Pre-Consulta**: Orientación que, de solicitarse, será dada por la OGPe, una Entidad Gubernamental Concernida o Municipio Autónomo con Jerarquía I a la III previo a la radicación de una solicitud para un proyecto propuesto. En la pre-consulta se identificarán las disposiciones legales y reglamentarias aplicables a tal acción, actividad o proyecto propuesto, así como la información que conforme a ésta deberá, en su día, presentar el solicitante.
+**CATEGORÍA**: Términos administrativos
+
+**Pre-cualificación de Proyecto Verde**: Evaluación de un propuesto proyecto verde para determinar el cumplimiento del mismo con las Guías para Permiso Verde.
+**CATEGORÍA**: Términos ambientales
+
+**Predio Original**: El predio, parcela o finca de la cual un terreno formaba parte al 29 de junio de 1964.
+**CATEGORÍA**: Términos de planificación
+
+**Preservación**: Es el cuidado y la protección que se presta a un sector designado como un recurso natural, cultural, ecológico o ambiental único o importante con el propósito de mantener su integridad.
+**CATEGORÍA**: Términos ambientales
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Planta Baja o Primera Planta
+- Planta de Filtración
+- Planta de Hielo
+- Planta de Tratamiento de Aguas Residuales
+- Planta o Piso
+- Planta Procesadora de Alimentos
+- Plantas generatrices
+- Plantas industriales
+- Playa
+- Playa Nadable
+- Plaza
+- Plaza de Recreo
+- Población Especial
+- Poblado
+- Poblado Aislado
+- Poblado Autosuficiente
+- Poceto
+- Poda
+- Polígono
+- Portada
+- Portal
+- Porteador aéreo, marítimo o terrestre
+- Pórtico
+- Posada
+- Poste para dispositivos inalámbricos pequeños
+- Poste de dispositivos inalámbricos pequeños existente
+- Poste de Semáforos
+- Poste o Estructura de Soporte Eléctrica
+- Poste Telefónico
+- Pozo Filtrante
+- Prácticas Agrícolas
+- Prácticas de Conservación
+- Pre-Autorización
+- Precisión
+- Pre-Consulta
+- Pre-cualificación de Proyecto Verde
+- Predio Original
+- Preservación
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+- Términos de zonificación
+- Otros términos especializados
+
+=== REFERENCIAS CRUZADAS ===
+- Planta de Filtración / Planta de purificación de agua
+- Playa / Playa Nadable
+- Poda / Tipos de poda
+
+=== DEFINICIONES POR TEMÁTICA ===
+- Construcción: Planta Baja o Primera Planta, Planta o Piso, Portada, Portal, Pórtico
+- Técnicas: Planta de Filtración, Planta de Hielo, Planta Procesadora de Alimentos, Plantas generatrices, Plantas industriales, Poceto, Poste para dispositivos inalámbricos pequeños, Poste de dispositivos inalámbricos pequeños existente, Poste de Semáforos, Poste o Estructura de Soporte Eléctrica, Poste Telefónico, Pozo Filtrante
+- Planificación: Plaza, Plaza de Recreo, Poblado, Poblado Aislado, Poblado Autosuficiente, Polígono, Predio Original
+- Administrativas: Población Especial, Porteador aéreo, marítimo o terrestre, Posada, Pre-Autorización, Pre-Consulta
+- Ambientales: Planta de Tratamiento de Aguas Residuales, Playa, Playa Nadable, Poda, Prácticas Agrícolas, Prácticas de Conservación, Pre-cualificación de Proyecto Verde, Preservación
+
+=== FRAGMENTO 4 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**Preservar**: Evitar o proteger anticipadamente de daño o peligro un Sitio o Zona Histórica para garantizar su perpetuidad para el disfrute de las próximas generaciones.
+**CATEGORÍA**: Términos de planificación
+
+**Presidente**: Miembro Asociado de la Junta de Planificación de Puerto Rico, nombrado y designado por el gobernador, con el consejo y consentimiento del Senado, para dirigir la Junta, conforme a los deberes, funciones y facultades establecidos por la Ley Núm. 75 de 24 de junio de 1975, según enmendada, quien a su vez ocupará tal cargo a su voluntad.
+**CATEGORÍA**: Términos administrativos
+
+**Pretil**: Pared, antepecho o baranda sobre o en el techo de un edificio o estructura.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Pretratamiento**: Reducción de la cantidad de contaminantes, la eliminación de contaminantes o la alteración de la naturaleza de las propiedades de los contaminantes en las aguas residuales antes, o en vez, de descargar o de otro modo introducir dichos contaminantes en una operación de tratamiento. La reducción o alteración puede obtenerse mediante procesos físicos, químicos o biológicos o mediante cambios en los procesos o por otros medios, excepto la dilución, según se prohíbe en el Reglamento sobre los Servicios de Agua y Alcantarillado de la AAA. La tecnología apropiada de pretratamiento incluye equipo de control, como tanques o instalaciones de igualación, para la protección contra descargas de impacto que puedan interferir, o de otro modo ser incompatibles, con las operaciones de tratamiento.
+**CATEGORÍA**: Términos ambientales
+
+**Procedimiento Administrativo**: La formulación de reglas y reglamentos, la adjudicación formal de toda controversia o planteamiento ante la consideración de una agencia, el otorgamiento de licencias y cualquier proceso investigativo que inicie una agencia dentro del ámbito de su autoridad legal.
+**CATEGORÍA**: Términos legales
+
+**Procesamiento de Componentes de la Corteza Terrestre**: Conjunto de fases sucesivas para la elaboración, transformación y clasificación de los componentes de la corteza terrestre en productos de agregados, u otros similares, utilizados en la industria de la construcción, utilizando equipo o maquinaria portátil o permanente, lo cual requiere una consulta de ubicación.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Procesamiento de Desperdicios**: Cualquier método, sistema o tratamiento utilizado para alterar las características físicas o el contenido químico de los desperdicios sólidos, incluyendo la remanufactura de productos y la utilización de los mismos como fuente de energía.
+**CATEGORÍA**: Términos ambientales
+
+**Procesamiento de Hielo**: Moler, triturar, aplastar, escamar, picar, empacar en cubos o cualquier otra operación que cambie las características físicas del hielo para consumo humano.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Proceso de Planificación Ambiental**: Proceso mediante el cual una entidad gubernamental o municipal obtiene, evalúa y analiza toda la información necesaria para asegurar que se tomen en cuenta los impactos ambientales a corto y largo plazo, de sus decisiones. Esta herramienta de planificación sirve como marco de referencia para la toma de decisiones informadas y para garantizar el cumplimiento con la Política Pública Ambiental de Puerto Rico. El proceso de planificación ambiental es un procedimiento informal, sui generis, excluido de la aplicabilidad de la Ley de Procedimiento Administrativo Uniforme.
+**CATEGORÍA**: Términos de planificación
+
+**Proceso Urbanizador**: Todo desarrollo que transforme un suelo no urbano con obras, tales como: desarrollo de vías, provisión de acueductos y alcantarillado sanitario, suministro de energía eléctrica, movimiento de tierra y desarrollo de estructuras agrupadas que le otorguen características de suelo urbano.
+**CATEGORÍA**: Términos de planificación
+
+**Producción Agrícola**: Todo producto obtenido de la actividad agrícola y agroindustrial de Puerto Rico.
+**CATEGORÍA**: Términos de planificación
+
+**Producto Reciclado**: Producto final listo para el consumo.
+**CATEGORÍA**: Términos ambientales
+
+**Profesional Autorizado (PA)**: Serán Agrimensores, Arquitectos, Ingenieros, Geólogos y Planificadores, todos licenciados, que obtengan la autorización, así como cualquier profesional licenciado en áreas relacionadas a la construcción y que cumplen con los requisitos que establezca mediante reglamento la Oficina de Gerencia de Permisos.
+**CATEGORÍA**: Términos administrativos
+
+**Profesional de Siembra**: Aquel profesional capacitado, como el arquitecto paisajista, agrónomo, arbolista, dasónomo, horticultor u otros que evidencien que tienen estudios especializados en la materia.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Profesional Licenciado**: Todo profesional cualificado y autorizado por diversas leyes y reglamentos que les permiten certificar entre otros planos de construcción, planos de agrimensura, ciertos permisos o planes, a riesgo de severas sanciones penales y de perder sus licencias.
+**CATEGORÍA**: Términos administrativos
+
+**Profundidad Crítica**: Aquella profundidad particular del flujo en un canal con una energía específica mínima para una descarga dada.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Profundidad de Edificación**: Es la distancia entre la línea de fachada y la parte posterior de la estructura.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Programa de Ensanche**: Programa en el Plan Territorial que cuantifique y cualifique las necesidades de desarrollo urbano en un terreno a urbanizarse y que sirva de fundamento a un Plan de Ensanche.
+**CATEGORÍA**: Términos de planificación
+
+**Programa de Parques Nacionales**: Organismo Gubernamental creado mediante la Ley Núm.10 de 8 de abril de 2001, según enmendada, conocida como Ley de la Compañía de Parques Nacionales, integrada como programa al DRNA mediante la Ley Núm. 171 de 2 de agosto de 2018, ley para implementar el “Plan de Reorganización del Departamento de Recursos Naturales y Ambientales de 2018”.
+**CATEGORÍA**: Términos administrativos
+
+**Programa de Reparcelación**: Procedimiento por el cual más de una finca se agrupa con el fin ulterior de modificar sus colindancias o cabidas, para crear nuevas fincas a ser segregadas de acuerdo con un proyecto de reparcelación aprobado por la entidad competente.
+**CATEGORÍA**: Términos de planificación
+
+**Programas Promocionales**: Programa de Promoción que provee la Compañía de Turismo a todas las instalaciones de alojamiento u hospederías que cumplan con lo establecido en la reglamentación vigente. Entre estos están los Paradores de Puerto Rico y Posadas. La inclusión de una hospedería en un programa promocional es una prerrogativa discrecional de la Compañía de Turismo. Una hospedería podrá ser considerada parador puertorriqueño o posada, solamente después de que inicie sus operaciones.
+**CATEGORÍA**: Términos administrativos
+
+**Propiedad**: Cualquier bien material o derecho sujeto a dominio. En el caso de inmueble, incluye tierras, solares, casas y otras construcciones y mejoras adheridas al suelo, así como todo lo que esté unido a un inmueble, de una manera fija, de suerte que no pueda separarse de él sin quebrantamiento de la materia o deterioro del objeto. En el caso de muebles incluye aquellos bienes que son susceptibles de apropiación y que pueden transportarse de un sitio a otro sin menoscabo del inmueble a que estuvieron unidos. Esto incluye, sin limitarse a, créditos o dinero pagadero al contribuyente, salarios y depósitos bancarios pagaderos o pertenecientes al contribuyente. También, se considera propiedad cualquier derecho real que puede ser vendido, cedido, arrendado o transmitido por cualquier medio cónsono con leyes y reglamentos del Gobierno de Puerto Rico.
+**CATEGORÍA**: Términos legales
+
+**Propiedad Circundante**: Toda propiedad que se encuentra alrededor de una parcela o solar. Para propósitos del Instituto de Cultura Puertorriqueña también incluye toda propiedad que se encuentra alrededor de una plaza haciéndose extensivo al bloque al cual pertenece la propiedad. Los bloques circundantes son los que contienen y delimitan el espacio de la plaza en la trama urbana y forman parte del paisaje cultural.
+**CATEGORÍA**: Términos de planificación
+
+**Propiedad Elegible**: Propiedad de valor histórico que podría satisfacer los criterios de elegibilidad como sitio histórico para ser designada como tal, individualmente. Una zona histórica incluye un número relativamente alto de propiedades elegibles.
+**CATEGORÍA**: Términos de planificación
+
+**Propiedad Federal**: Incluye aquellos terrenos públicos y edificios pertenecientes al Gobierno de los Estados Unidos.
+**CATEGORÍA**: Términos legales
+
+**Propiedad Histórica**: Cualquier zona, lugar, yacimientos, edificio, estructura u objeto, prehistórico o histórico, que tengan significado para la historia, arquitectura, arte arqueología, ingeniería o cultura del país y que contribuyan a explicar los fundamentos del mismo, elegible para ser incluido en el Registro de Sitios y Zonas Históricas. El término incluye artefactos, documentos y restos que estén relacionados con y localizados en esas propiedades.
+**CATEGORÍA**: Términos de planificación
+
+**Propiedad No-elegible**: Propiedad que no satisface los criterios de elegibilidad para ser designada como sitio histórico.
+**CATEGORÍA**: Términos de planificación
+
+**Propiedad o Pertenencia**: Terreno, edificio, estructura o cualquier combinación de éstos, incluye sitios históricos.
+**CATEGORÍA**: Términos legales
+
+**Propietario**: Cualquier persona, natural o jurídica, que sea dueño de un interés legal o un uso productivo sobre propiedad inmueble.
+**CATEGORÍA**: Términos legales
+
+**Proponente**: Cualquier persona natural o jurídica, propietario o dueña de un terreno o con un contrato de opción a compra o arrendamiento, que inicie un procedimiento de adjudicación.
+**CATEGORÍA**: Términos legales
+
+**Protector de Estaciones**: Elemento de conexión con el abonado, que sirve para demarcar el límite y proteger la propiedad del abonado de descargas eléctricas.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Proveedor de infraestructura inalámbrica**: Persona autorizada a proveer servicio de comunicaciones en Puerto Rico, que construye o instala facilidades para la provisión de servicios inalámbricos pero que no es un proveedor de servicios inalámbricos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Proveedor de servicios de comunicaciones**: Proveedor de servicios de información, tal como se establece en el Artículo 153(24) del Título 47 del U.S.C.; un operador de telecomunicaciones, tal como se establece en el Artículo 153(51) del Título 47 del U.S.C.; un proveedor de servicios inalámbricos; o un operador de cable, tal como se establece en el Artículo 522(5) del Título 47 del U.S.C. También, significará cualquier persona, natural o jurídica, autorizada por el Negociado de Telecomunicaciones a proveer servicios de telecomunicaciones, de televisión por cable en la jurisdicción de Puerto Rico o es un proveedor inalámbrico.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Proveedor de servicios inalámbricos**: Cualquier persona, natural o jurídica, registrada en el Negociado de Telecomunicaciones a proveer servicios inalámbricos en la jurisdicción de Puerto Rico.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Proveedor inalámbrico**: Proveedor de infraestructura inalámbrica o un proveedor de servicios inalámbricos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Proyectista**: Ingeniero o arquitecto licenciado y colegiado que prepara y certifica, bajo su supervisión o coordinación, los planos y documentos de obras de construcción, inscripción y las certificaciones necesarias para la expedición de permisos, el agrimensor que prepara y certifica los planos relacionados a su profesión o el planificador profesional licenciado que prepara y certifica documentos relacionados a su profesión.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Proyecto**: Toda propuesta sobre uso de terrenos, incluyendo construcción o instalación de infraestructura o de cualquier otro aditamento, consultas de ubicación, planos de construcción, lotificaciones, urbanizaciones y construcción de edificios o estructuras.
+**CATEGORÍA**: Términos de planificación
+
+**Proyecto Comercial**: Aquellos proyectos dedicados a proveer ventas y servicios.
+**CATEGORÍA**: Términos de planificación
+
+**Proyecto de Construcción**: Obra a realizarse conforme a planos de construcción certificados bajo las disposiciones de este reglamento. El término proyecto de construcción será interpretado como si fuera seguido de la frase: o parte del mismo.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Proyecto de Construcción Eléctrica**: Obra a realizarse conforme con planos de construcción preparados y certificados por un licenciado y colegiado o arquitecto licenciado y colegiado, bajo las disposiciones de este reglamento y de los reglamentos de la Autoridad de Energía Eléctrica.
+**CATEGORÍA**: Términos técnicos de construcción
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Preservar
+- Presidente
+- Pretil
+- Pretratamiento
+- Procedimiento Administrativo
+- Procesamiento de Componentes de la Corteza Terrestre
+- Procesamiento de Desperdicios
+- Procesamiento de Hielo
+- Proceso de Planificación Ambiental
+- Proceso Urbanizador
+- Producción Agrícola
+- Producto Reciclado
+- Profesional Autorizado (PA)
+- Profesional de Siembra
+- Profesional Licenciado
+- Profundidad Crítica
+- Profundidad de Edificación
+- Programa de Ensanche
+- Programa de Parques Nacionales
+- Programa de Reparcelación
+- Programas Promocionales
+- Propiedad
+- Propiedad Circundante
+- Propiedad Elegible
+- Propiedad Federal
+- Propiedad Histórica
+- Propiedad No-elegible
+- Propiedad o Pertenencia
+- Propietario
+- Proponente
+- Protector de Estaciones
+- Proveedor de infraestructura inalámbrica
+- Proveedor de servicios de comunicaciones
+- Proveedor de servicios inalámbricos
+- Proveedor inalámbrico
+- Proyectista
+- Proyecto
+- Proyecto Comercial
+- Proyecto de Construcción
+- Proyecto de Construcción Eléctrica
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+
+=== REFERENCIAS CRUZADAS ===
+- Proveedor de infraestructura inalámbrica, Proveedor de servicios inalámbricos, Proveedor inalámbrico
+- Propiedad, Propiedad o Pertenencia
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Planificación y Desarrollo**: Proceso de Planificación Ambiental, Proceso Urbanizador, Programa de Ensanche, Programa de Reparcelación, Proyecto, Proyecto Comercial
+- **Construcción y Técnicas**: Pretil, Procesamiento de Componentes de la Corteza Terrestre, Procesamiento de Hielo, Profundidad Crítica, Profundidad de Edificación, Proyectista, Proyecto de Construcción, Proyecto de Construcción Eléctrica
+- **Administración y Regulación**: Presidente, Procedimiento Administrativo, Profesional Autorizado (PA), Profesional Licenciado, Programas Promocionales
+- **Propiedad y Derechos**: Propiedad, Propiedad Circundante, Propiedad Elegible, Propiedad Federal, Propiedad Histórica, Propiedad No-elegible, Propiedad o Pertenencia, Propietario, Proponente
+- **Medio Ambiente y Recursos**: Preservar, Pretratamiento, Procesamiento de Desperdicios, Producción Agrícola, Producto Reciclado, Programa de Parques Nacionales
+
+=== FRAGMENTO 5 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**TÉRMINO**: Proyecto de Desarrollo
+**DEFINICIÓN**: Cualquier cambio o modificación física que haga el ser humano a un solar, predio, parcela de terreno o estructura, mejoradas o sin mejorar, incluyendo sin que se entienda como una limitación, la segregación de solares, la construcción, ampliación o alteración de estructuras, el incremento en la intensidad de los usos del suelo o de las estructuras y las obras de utilización o alteración del terreno, tales como: agricultura, minería, dragado, relleno, deforestación, nivelación, pavimentación, excavación y perforaciones.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Proyecto de Urbanización
+**DEFINICIÓN**: Todo proyecto relacionado con urbanización, según este término se define en este reglamento.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Proyecto Gubernamental
+**DEFINICIÓN**: Proyectos para instalaciones propuestas por las Agencias, Departamentos, Corporaciones Públicas, Municipios y subdivisiones políticas del Estado Libre Asociado de Puerto Rico, los cuales no estarán sujetos al cargo de exacción por impacto.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Proyecto Industrial
+**DEFINICIÓN**: Proyecto donde un edificio, estructura o porción de éstos se designen para el uso, ensamblaje, desmantelamiento, fabricación, terminación, manufactura, empaque, reparación, operaciones de proceso; y cualquier segregación, división o subdivisión de un predio de terreno con instalaciones físicas de tipo industrial.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Proyecto Institucional o Cívico
+**DEFINICIÓN**: Proyecto designado para el uso relacionado a actividades de uso comunal, públicas o privadas tales como, pero sin limitarse a: bibliotecas, estaciones de correo, centros culturales, escuelas, universidades, hospitales, estructuras religiosas y teatros, entre otros.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Proyecto Residencial
+**DEFINICIÓN**: Proyecto designado para el uso exclusivo de unidades de vivienda los cuales incluyen sin limitarse a: urbanizaciones, casas de apartamentos, casas de dos familias, casas en hilera, casas patio, cualquier edificio convertido al régimen de propiedad horizontal y comunidades rurales; los cuales componen grupos de residencia fuera del ámbito de expansión urbana con el fin de alojar personas o familias.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Proyecto Turístico Residencial
+**DEFINICIÓN**: Es un concepto de desarrollo turístico que combina usos mixtos de hospedería y residencias tales como alojamiento y desayuno (Bed and Breakfast), condohotel o residencias de alquiler (tipo “rental management”) que forme parte integral y esté asociado a un desarrollo turístico que incluye por lo menos una hospedería tipo hotel o villas turísticas.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Proyecto Vacacional de Casas Remolques
+**DEFINICIÓN**: Desarrollo de un solar con instalaciones mínimas, orientado al alojamiento, para proveer seis (6) o más espacios de estacionamiento a unidades compactas de vivienda, con todas o parte de las instalaciones ordinarias de una vivienda, montada permanentemente sobre un chasis que puede ser arrastrado por otro vehículo o que puede moverse por sí mismo. Este desarrollo podrá formar parte de otro tipo de desarrollo.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Prueba de Percolación
+**DEFINICIÓN**: El método utilizado para determinar las características de absorción del suelo.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: PRVD 02
+**DEFINICIÓN**: Datum vertical para Puerto Rico que define el nivel promedio del mar desde 1982 hasta 2001.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Pueblo
+**DEFINICIÓN**: Poblado urbanizado que constituye la sede gubernamental de un municipio.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Puerto
+**DEFINICIÓN**: Significa todo muelle, embarcadero, desembarcadero, terminal, zona o punto aéreo o marítimo de entrada de artículos y personas del exterior, incluyendo todos los almacenes, negocios, tiendas, estructuras, instalaciones y predios de éstos.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Punto de Control
+**DEFINICIÓN**: Monumento de agrimensura de función base para la medición relativa.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: PYMES
+**DEFINICIÓN**: Permisos para pequeñas y medianas empresas de 50 empleados o menos.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Quebrada
+**DEFINICIÓN**: Curso de agua que forma parte del sistema de tributarios de un río o que descarga a un lago, laguna, mar y océano.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Querella
+**DEFINICIÓN**: Reclamación alegando violación de ley o reglamento ante el foro con jurisdicción.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Querellado
+**DEFINICIÓN**: Persona contra la cual se dirige una querella.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Querellante
+**DEFINICIÓN**: Persona que insta una querella.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Radiofrecuencia
+**DEFINICIÓN**: Cualquier frecuencia dentro del espectro de las ondas electromagnéticas, estas son típicamente asociadas con la propagación de ondas empleadas en las telecomunicaciones tales como radio, televisión, telefonía, banda ancha y tecnologías futuras. Estas se transmiten en la forma de ondas de radio y microondas.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Rampa Peatonal
+**DEFINICIÓN**: Superficie para caminar con pendiente que conecta diferentes niveles y que puede ser parte de una salida o una entrada.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Rasante
+**DEFINICIÓN**: Línea de nivel considerada en su inclinación o paralelismo respecto del plano horizontal de una vía o interior de una propiedad.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Rasgos Arquitectónicos
+**DEFINICIÓN**: Todas las características propias de una estructura, incluyendo materiales, elementos y detalles arquitectónicos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Real y Efectiva Construcción
+**DEFINICIÓN**: Cuando para la estructura principal en la cual se llevará a cabo la actividad comercial principal, se haya obtenido el permiso de construcción y, conforme a ese permiso, se hayan iniciado las obras de construcción sobre el terreno, más allá de la etapa de excavación, tales como: el vaciado de la losa de piso o de cimientos, el hincado de pilotes, la construcción de columnas o cualquier obra o la colocación de una casa manufacturada en sus cimientos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Receptor de GPS
+**DEFINICIÓN**: Equipo que recibe y recopila la información emitida por medio de una señal satelital codificada.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Reciclaje
+**DEFINICIÓN**: Proceso mediante el cual los desperdicios sólidos son separados, procesados y reutilizados en forma de materia prima o productos diferentes o similares al original.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Recipiente/Receptáculo/Contenedor
+**DEFINICIÓN**: Cualquier envase portátil en el que los materiales reciclables o desperdicios sólidos puedan ser recuperados, almacenados, transportados o dispuestos. Los mismos podrán ser de metal, plástico o cualquier otro material resistente.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Recomendación
+**DEFINICIÓN**: Comunicación escrita no vinculante de una Entidad Gubernamental, Municipio, Gerente de Permisos, Director de División de Cumplimiento Ambiental y Oficial de Permiso, según aplique, sobre una acción propuesta indicando exclusivamente la conformidad o no de dicha acción con las leyes y reglamentos aplicables bajo su jurisdicción y que no constituirá una autorización para la construcción de la obra.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Recomendación Ambiental
+**DEFINICIÓN**: Comunicación escrita de los Gerentes de Permisos, Director de División de Cumplimiento Ambiental, según aplique, sobre una acción propuesta indicando exclusivamente la conformidad o no de dicha acción con las leyes y reglamentos aplicables bajo su jurisdicción relacionadas al contenido del documento ambiental. Es un requisito compulsorio previo a la radicación de una Evaluación o declaración de Impacto Ambiental.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reconstrucción
+**DEFINICIÓN**: Significa producción fidedigna de una edificación o parte de ella que ha dejado de existir o está en estado de ruina irreparable. Al tratar propiedades de valor histórico o arquitectónico se refiere al acto o proceso de representar, por medio de nueva construcción, la forma, los elementos y los detalles de un sitio, paisaje, estructura, edificio y objeto no sobreviviente con el propósito de replicar su apariencia en un periodo específico de la historia y en su ubicación histórica.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Recreación Comercial Extensa
+**DEFINICIÓN**: Comercio dedicado a la recreación como actividad principal para la diversión de adultos o niños por la cual se cobra la entrada o servicios, o ambos y que podrían incluir el expendio de bebidas alcohólicas, tales como, pero sin limitarse a bolera, salón de juegos con 6 o más equipos (billares, tragamonedas y máquinas de video, entre otros.), casino, club nocturno, salón de actividades (con o sin música), hipódromo, rodeo, pista de aceleración, carreras de autos, motoras o cualquier otro usos de carácter similar que no violen las leyes vigentes al proveer sus servicios.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Recreación Comercial Simple
+**DEFINICIÓN**: Comercio dedicado a la recreación como actividad principal para la diversión de adultos o niños por la cual se cobra la entrada o servicios, o ambos y que podrían incluir el expendio de bebidas alcohólicas, tales como: cafetín, cafetería, barra, restaurante, colmado o cualquier otro uso de carácter similar que no violen las leyes vigentes al proveer sus servicios.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Rectificador
+**DEFINICIÓN**: Es toda persona que utilice espíritus destilados para elaborar bebidas alcohólicas por métodos que no sean la destilación original de baticiones fermentadas, exceptuando las operaciones en la fabricación de vino o cerveza.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Recuperar
+**DEFINICIÓN**: Serie de operaciones tendentes a recobrar una estructura para su uso original o nuevo. En el caso de los desperdicios sólidos, se refiere al proceso mediante el cual se rescata el material de la corriente de desperdicios sólidos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Recurso Arqueológico
+**DEFINICIÓN**: Aquel sitio, objeto, yacimiento, artefacto, documento o material, ya sea material de la naturaleza o construido por el hombre, que exista o se encuentre en o bajo la superficie de la tierra que pueda dar información de importancia para el estudio científico de la prehistoria, historia y cultura del ser humano. Se considera recursos arqueológicos aquello que tenga cien (100) años o más y que contiene información arqueológica relevante al conocimiento sobre la arqueología de la región en que se ubica.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Recurso Cultural
+**DEFINICIÓN**: Todo aquello del ambiente físico, natural y edificado, que tiene valor cultural de algún tipo a algún grupo sociocultural.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Recursos Naturales
+**DEFINICIÓN**: Son aquellos bienes de naturaleza, tales como: el agua, el aire, la luz solar, el mar, las playas, la tierra (el suelo), los bosques, la vida silvestre, los minerales y los recursos naturales combustibles, entre otros; los cuales poseen una importancia singular para la especie humana por ser fuente de materia prima, alimento, energía y para la satisfacción de otras de sus necesidades físicas y espirituales.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reducción
+**DEFINICIÓN**: Se refiere al resultado de la eliminación o cambios al diseño, manufactura, empaque, utilización y manejo de productos, de forma que se disminuya su volumen, cantidad o peligrosidad.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reducción en la Fuente
+**DEFINICIÓN**: La reducción o eliminación de residuos en su fuente de generación, usualmente dentro del proceso de producción o durante el ofrecimiento de servicios.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reestructuración de Fachada
+**DEFINICIÓN**: Aquellas obras que modifican la propiedad elegible para la reconstrucción tipológica de la fachada o que modifican la propiedad no elegible para cumplir con la totalidad de las normas con relación a la fachada o frente de una estructura.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Reestructuración de Propiedades Elegibles
+**DEFINICIÓN**: Aquellas obras que modifican las propiedades elegibles sobre las cuales se ha intervenido en forma discordante con su fisionomía y carácter original. Aplicable a todas aquellas construcciones que conservan algunos elementos tipológicos pero que han sido, afectados en su volumetría, estructura, espacio y composición, entre otros., de tal forma que no sería justificable la conservación de ninguna de sus partes originales sin recuperar sus características tipológicas. Toda acción deberá tender a recuperar la tipología original perdida de cualquiera de sus elementos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Reestructuración de Propiedades No Elegibles
+**DEFINICIÓN**: Aquellas obras que modifican las estructuras de propiedades no elegibles, las cuales no armonizan con normas y criterios establecidos con posterioridad a su construcción por la Junta de Planificación y por el Instituto de Cultura Puertorriqueña y que se reestructurarían total o parcialmente para armonizarlas a estos criterios.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Reestructuración Integral
+**DEFINICIÓN**: Aquellas obras que modifican la propiedad elegible para su total reconstrucción o reconstrucción tipológica o que modifican la propiedad no elegible para cumplir con la totalidad de las normas con relación a la fachada.
+**CATEGORÍA**: Términos técnicos de construcción
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- PRVD 02
+- Proyecto de Desarrollo
+- Proyecto de Urbanización
+- Proyecto Gubernamental
+- Proyecto Industrial
+- Proyecto Institucional o Cívico
+- Proyecto Residencial
+- Proyecto Turístico Residencial
+- Proyecto Vacacional de Casas Remolques
+- Prueba de Percolación
+- Pueblo
+- Puerto
+- Punto de Control
+- PYMES
+- Quebrada
+- Querella
+- Querellado
+- Querellante
+- Radiofrecuencia
+- Rampa Peatonal
+- Rasante
+- Rasgos Arquitectónicos
+- Real y Efectiva Construcción
+- Receptor de GPS
+- Reciclaje
+- Recipiente/Receptáculo/Contenedor
+- Recomendación
+- Recomendación Ambiental
+- Reconstrucción
+- Recreación Comercial Extensa
+- Recreación Comercial Simple
+- Rectificador
+- Recuperar
+- Recurso Arqueológico
+- Recurso Cultural
+- Recursos Naturales
+- Reducción
+- Reducción en la Fuente
+- Reestructuración de Fachada
+- Reestructuración de Propiedades Elegibles
+- Reestructuración de Propiedades No Elegibles
+- Reestructuración Integral
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+
+=== REFERENCIAS CRUZADAS ===
+- Querella, Querellado, Querellante
+- Reestructuración de Fachada, Reestructuración de Propiedades Elegibles, Reestructuración de Propiedades No Elegibles, Reestructuración Integral
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Proyectos**: Proyecto de Desarrollo, Proyecto de Urbanización, Proyecto Gubernamental, Proyecto Industrial, Proyecto Institucional o
+
+=== FRAGMENTO 6 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**TÉRMINO**: Reestructuración u Obras de Reestructuración
+**DEFINICIÓN**: Se refiere a las obras que modifican tanto el espacio interior, fachadas o volumetría de edificios tradicionales que han sido alterados o de estructuras contemporáneas que no armonizan con su entorno, incluyendo la sustitución parcial o total de los elementos estructurales con el objetivo de adecuarlos al entorno tradicional edificado o para devolverles sus características tradicionales.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Referéndum
+**DEFINICIÓN**: Procedimiento mediante el cual un Miembro de Junta somete a la consideración una decisión o acuerdo sobre un asunto en particular y luego los demás Miembros firman ratificando ese acuerdo.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Reforestación
+**DEFINICIÓN**: Repoblar zonas o áreas que estaban cubiertas de árboles o arbustos, que han sido eliminados por diversos motivos.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reforma
+**DEFINICIÓN**: Conjunto de operaciones tendiendo a dar una nueva forma a un edificio, estructura o espacio arquitectónico. En las propiedades de valor histórico y arquitectónico podría implicar que se mantengan elementos y rasgos distintivos significativos a estos valores.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Refugio de Vida Silvestre
+**DEFINICIÓN**: Terrenos administrados y custodiados por el Departamento, con el fin principal de conservar especies silvestres y sus habitáculos naturales.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Refugio para animales
+**DEFINICIÓN**: Lugares donde se alojan animales realengos recogidos y los animales domésticos enviados allí por sus dueños, los cuales deberá mantenerse en estrictas condiciones sanitarias.
+**CATEGORÍA**: Términos de bienestar animal
+
+**TÉRMINO**: Regalía
+**DEFINICIÓN**: Pago por material de la corteza terrestre extraído, excavado, removido y dragado en terrenos de dominio público.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Región
+**DEFINICIÓN**: Cada una de las partes geográficas en que se divide el territorio de Puerto Rico.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Registro de Alcantarillado Sanitario
+**DEFINICIÓN**: Cámara de inspección soterrada, en hormigón, construida en todo cambio de dirección, material, pendiente, diámetro, elevación o intersección con otras cloacas.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Registro de Determinaciones Finales y Recomendaciones
+**DEFINICIÓN**: Registro público, que podrá ser electrónico, que incluirá las determinaciones finales y recomendaciones expedidos por el Secretario Auxiliar de la OGPe y por los Profesionales Autorizados, según aplique.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Registro de Limpieza de Alcantarillado Sanitario
+**DEFINICIÓN**: Abertura con tapa, provista para permitir examinar, limpiar o reparar la tubería de una acometida sanitaria.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Registro de Profesionales e Inspectores Autorizados
+**DEFINICIÓN**: Registro electrónico público que incluirá una lista de todos los Profesionales e Inspectores Autorizados, así como información sobre cualquier acción disciplinaria que la Oficina de Gerencia de Permisos haya tomado con relación a éstos.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Registro de Sitios y Zonas Históricas de Puerto Rico
+**DEFINICIÓN**: Inventario de las propiedades históricas conocidas que han sido designadas por la Junta de Planificación, en conjunto con el Instituto de Cultura Puertorriqueña, y los declarados monumentos históricos por la Asamblea Legislativa, entre otros. En el mismo se incluyen edificios, estructuras, yacimientos, objetos y lugares que poseen importancia histórica, arquitectónica, de ingeniería, arqueológica o cultural. El Registro es administrado por la Junta y copia del mismo se mantiene en el Instituto.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Registro Telefónico
+**DEFINICIÓN**: Cuarto soterrado, con cubierta circular, que permite acceso a una o varias troncales soterradas, permitiendo uniones y cambios de dirección.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Regla o Reglamento
+**DEFINICIÓN**: Cualquier norma o conjunto de normas de una agencia que sea de aplicación general, en la que se ejecute o interprete la política pública o la ley o que regule los requisitos de los procedimientos o prácticas de una agencia. El término incluye la enmienda, revocación o suspensión de una regla existente.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Reglamento Conjunto de Permisos
+**DEFINICIÓN**: Reglamento Conjunto para la Evaluación y Expedición de Permisos Relacionados al Desarrollo y Uso de Terrenos y Operación de Negocios, adoptado por la Junta de Planificación.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Reglamento de Ordenación
+**DEFINICIÓN**: Serán las disposiciones que indiquen las normas sobre el uso de suelo aplicables a un Plan de Ordenación, e incluirán normas sobre el uso e intensidad, y sobre las características de las estructuras y el espacio público, normas sobre las lotificaciones y sobre otras determinaciones de ordenación territorial relacionados con procesos, mecanismos, aprovechamientos y otros factores relacionados en un Municipio Autónomo.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Reglamento para la Designación de Hábitat Natural
+**DEFINICIÓN**: Instrumento de trabajo utilizado para evaluar y establecer las categorías de hábitats descritas en el Reglamento para Regir la Conservación y el Manejo de la Vida Silvestre, las Especies Exóticas y la Caza en el Estado Libre Asociado de Puerto Rico, Reglamento Número 6765 de 11 de febrero de 2004.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reglamentos Aplicables
+**DEFINICIÓN**: Todos aquellos reglamentos promulgados y adoptados o aprobados por los distintos organismos gubernamentales, publicados de acuerdo con la ley y que sean de aplicación al caso específico.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Reglamentos de Planificación
+**DEFINICIÓN**: Los reglamentos aprobados y firmados por el Gobernador, promulgados y adoptados por la Junta de Planificación de Puerto Rico, conforme a la autoridad que le confiere la Ley Núm. 75 de 1975, la Ley 161-2009 o la Ley 38-2017, según enmendadas, o la que le confiera cualquier otra ley.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Rehabilitación
+**DEFINICIÓN**: Acto o proceso de retornar una propiedad en desuso a un estado de utilidad, mediante reparación o alteración, haciendo posible un uso eficiente. En el caso de las propiedades históricas se preservan aquellas porciones o elementos que transmiten sus valores históricos, culturales o arquitectónicos.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Reintegración
+**DEFINICIÓN**: Se utiliza en el proceso de restauración para describir el proceso de volver a integrar elementos originales pero dislocados o caídos. Se conoce también como anastilosis.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Relleno
+**DEFINICIÓN**: Material adecuado capaz de ser compactado a un 90% para ser depositado en terrenos que necesitan ser nivelados.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Remoción
+**DEFINICIÓN**: Actividad o acción de pasar, trasladar o mover material de la corteza terrestre de un lugar a otro o “in situ”. Algunos ejemplos de remoción “in situ” son: rebatir, arar y mezclar.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Remodelación
+**DEFINICIÓN**: Conjunto de operaciones llevadas a cabo para modificar una propiedad de forma diferente a la existente. Al tratar propiedades de valor histórico o arquitectónico se refiere a las operaciones llevadas a cabo para preservar los elementos y rasgos distintivos de la forma primitiva de una propiedad, pero que introduce alteraciones que se desvían de la forma original.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Remodelación Substancial
+**DEFINICIÓN**: Conjunto de operaciones llevadas a cabo para modificar una propiedad cuya inversión equivale a más del cincuenta por ciento (50%) del valor de tasación en el mercado, descontando el valor del suelo. Puede incluir remodelaciones, rehabilitaciones, reconstrucciones, restauraciones, y otros tipos de construcción.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Renovación de Permiso
+**DEFINICIÓN**: Autorización escrita expedida por el Secretario Auxiliar de la OGPe o el Municipio Autónomo con Jerarquía de la I a la V para que el concesionario continúe las actividades en la finca previamente aprobadas.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Reparación
+**DEFINICIÓN**: Sustitución de obra menor existente en una estructura, sin incluir trabajo adicional que constituya una alteración estructural, no estructural o de fachada, ampliación en área o altura o cambio a los medios de salida.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Reparación de Automóviles
+**DEFINICIÓN**: Establecimientos que se dedican principalmente a la reparación mecánica y eléctrica de los autos. Este establecimiento no se permitirá en ninguna de las zonas del Condado.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Reparcelación
+**DEFINICIÓN**: Procedimiento por el cual más de una finca se agrupa con el fin ulterior de modificar sus colindancias o cabidas, para crear nuevas fincas a ser segregadas de acuerdo con un proyecto de Reparcelación aprobado por la entidad competente.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Representación Gráfica de la Siembra
+**DEFINICIÓN**: Plano conceptual aprobado por la OGPe o por el Municipio Autónomo, en donde se identificarán las especies seleccionadas para la siembra, los árboles a conservarse, a trasplantarse y cualquiera otra área que vaya a permanecer en su estado natural; el cual deberá estar certificado por un Inspector Autorizado de Siembra.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Representante de Servicios
+**DEFINICIÓN**: Serán funcionarios de la Oficina de Gerencia de Permisos, designados por el Secretario Auxiliar para verificar el cumplimiento de los Gerentes de Permisos con los términos establecidos en el Reglamento Conjunto de Permisos para el trámite de la evaluación, aprobación o denegación de determinaciones finales y permisos en la Oficina de Gerencia.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Resalto
+**DEFINICIÓN**: Parte que sobresale de la superficie de una fachada.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Reserva
+**DEFINICIÓN**: Toda determinación o actuación de un organismo gubernamental competente, mediante la cual se separan terrenos públicos o privados para uso público.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Reserva Agrícola
+**DEFINICIÓN**: Terrenos comprendidos en determinada área geográfica delimitada por la Junta de Planificación en coordinación con el Departamento de Agricultura que en su mayoría son terrenos agrícolas o que pueden convertirse en agrícola e incluye terrenos para usos no agrícolas cuyo desarrollo se controla con el fin ulterior de evitar los efectos adversos en los terrenos agrícolas.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Reserva Hídrica
+**DEFINICIÓN**: Áreas esenciales para la captación, recarga y almacenamiento de las aguas superficiales y subterráneas, y para la protección y mantenimiento de su calidad. Estas áreas se deben proteger del desarrollo urbanístico intenso y deben mantener una cubierta forestal y suelos libres de impermeabilización para promover la percolación del agua en los mismos.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reserva Marina
+**DEFINICIÓN**: Áreas en el mar designadas por el Departamento de Recursos Naturales y Ambientales o por Ley y protegida del impacto de actividades humanas, incluyendo, pero no limitando a la prohibición de la pesca deportiva y comercial, con el propósito de permitir la recuperación del área, y el mantenimiento de la biodiversidad.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reserva Natural
+**DEFINICIÓN**: Aquellas áreas designadas mediante resolución por la Junta de Planificación a tono con la Ley Núm.75 de 24 de junio de 1975, según enmendada y que son recomendadas por el Departamento de Recursos Naturales y Ambientales (DRNA) o cualquier otra Agencia Federal, que por sus características físicas, ecológicas, geográficas y por el valor social de los recursos naturales existentes en ellas, ameritan su conservación, preservación o restauración a su condición natural, así como las áreas designadas mediante leyes especiales.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Reserva Natural Estuarina
+**DEFINICIÓN**: Aquellas áreas protegidas del impacto de actividades humanas, las cuales permiten la recuperación, el mantenimiento de la biodiversidad y reducen conflictos de uso al separar actividades compatibles (Ley Núm. 112 de 30 de septiembre de 2012).
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Residente
+**DEFINICIÓN**: Persona natural que reside en la urbanización y que puede o no ser el dueño de la propiedad que ocupa. Para propósitos de votación, cada residente se referirá a cada jefe de familia o la persona en quien él delegue.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Resiliencia
+**DEFINICIÓN**: Capacidad de un sistema, comunidad o sociedad expuestos a una amenaza para resistir, absorber, adaptarse y recuperarse de sus efectos de manera oportuna y eficaz, lo que incluye la preservación, la restauración de sus estructuras y funciones básicas.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Resolución
+**DEFINICIÓN**: Documento que contiene las determinaciones de hechos y conclusiones de derecho aplicables al caso y la decisión adoptada por la Junta de Planificación, la OGPe o Municipio Autónomo que adjudique una controversia o solicitud ante su consideración o la orden interlocutoria, parcial o final o que imponga una penalidad administrativa. Contiene, además, el apercibimiento sobre los derechos procesales de reconsideración, apelación o revisión, según apliquen a las partes y los términos para ejercerlos.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Resolución Adjudicativa
+**DEFINICIÓN**: Es aquélla donde se determina los derechos, obligaciones o privilegios de una parte o que imponga sanciones administrativas o que determina los que podría o no estar sujetos a revisión.
+**CATEGORÍA**: Términos legales
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Reestructuración u Obras de Reestructuración
+- Referéndum
+- Reforestación
+- Reforma
+- Refugio de Vida Silvestre
+- Refugio para animales
+- Regalía
+- Región
+- Registro de Alcantarillado Sanitario
+- Registro de Determinaciones Finales y Recomendaciones
+- Registro de Limpieza de Alcantarillado Sanitario
+- Registro de Profesionales e Inspectores Autorizados
+- Registro de Sitios y Zonas Históricas de Puerto Rico
+- Registro Telefónico
+- Regla o Reglamento
+- Reglamento Conjunto de Permisos
+- Reglamento de Ordenación
+- Reglamento para la Designación de Hábitat Natural
+- Reglamentos Aplicables
+- Reglamentos de Planificación
+- Rehabilitación
+- Reintegración
+- Relleno
+- Remoción
+- Remodelación
+- Remodelación Substancial
+- Renovación de Permiso
+- Reparación
+- Reparación de Automóviles
+- Reparcelación
+- Representación Gráfica de la Siembra
+- Representante de Servicios
+- Resalto
+- Reserva
+- Reserva Agrícola
+- Reserva Hídrica
+- Reserva Marina
+- Reserva Natural
+- Reserva Natural Estuarina
+- Residente
+- Resiliencia
+- Resolución
+- Resolución Adjudicativa
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Tér
+
+=== FRAGMENTO 7 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**TÉRMINO**: Resort
+**DEFINICIÓN**: Hotel o complejo turístico que cuenta con restaurantes, espacios abiertos y jardines, espacios comerciales; área para recibir grupos de convenciones, variedad de actividades deportivas y recreativas (acuáticas, ecuestre y golf, entre otros), actividades para niños, piscinas, y distintas amenidades que satisfagan las necesidades del huésped en un mismo complejo.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Restauración u Obras de Restauración
+**DEFINICIÓN**: Significa las necesarias para dotar a un edificio de su imagen y condiciones originales, llevándose a cabo a base de documentación o conocimientos comprobados. Además, es el conjunto de operaciones llevadas a cabo para recuperar la forma original de un edificio, estructura o lugar de valor histórico o arquitectónico basándose en documentación o conocimiento comprobable. No admite en el proceso aportaciones de nuevo diseño. Las reparaciones o alteraciones reproducen las condiciones originales de los elementos tratados.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Restauración de Terrenos
+**DEFINICIÓN**: Acción de reparar o enmendar el menoscabo del área alterada por la extracción, excavación, remoción y dragado de los componentes de la corteza terrestre para mejorarla, estabilizarla o llevarla al estado más cercano al original con la intención de mantener la integridad o restituir los recursos naturales asociados.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Restaurante
+**DEFINICIÓN**: Establecimiento cerrado, usado para el expendio de comidas para su consumo dentro o fuera del local, cuya actividad principal puede incluir expendio de bebidas alcohólicas como una actividad incidental relacionada.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Restaurante o Café al Aire Libre
+**DEFINICIÓN**: Establecimiento al aire libre que se dedica a la venta al por menor de bebida y comida preparada para consumo en los predios del local en la cual se podrán servir bebidas alcohólicas como actividad incidental. El solar donde se autorice este uso no podrá colindar lateralmente con ningún distrito residencial.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Retallo
+**DEFINICIÓN**: Resalto o escalón que queda en el paramento de un muro donde se disminuye su espesor.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Retranqueo o Retiro Parcial de Fachada
+**DEFINICIÓN**: Retroceso total o parcial de una fachada en planta alta con respecto a la fachada existente en la planta inferior.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Reversible
+**DEFINICIÓN**: Cualidad de una alteración o ampliación a una propiedad elegible, cuando dicha alteración o ampliación puede ser removida, desmantelada o demolida totalmente sin afectar la integridad de dicha propiedad elegible.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Revisión a Plan de Ordenación
+**DEFINICIÓN**: Recopilación de nuevos datos, inventarios y necesidades; la enunciación de nuevas políticas o la promulgación de reglamentos que sustituyan, amplíen o limiten significativamente, un Plan de Ordenación vigente.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Revocar
+**DEFINICIÓN**: Dejar sin efecto un permiso o una resolución emitida.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Riesgo
+**DEFINICIÓN**: Probabilidad latente de que ocurra un hecho que produzca ciertos efectos, la combinación de la probabilidad de la ocurrencia de un evento y la magnitud del impacto que puede causar, así mismo es la incertidumbre frente a la ocurrencia de eventos y situaciones que afecten los beneficios de una actividad.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Río
+**DEFINICIÓN**: Curso de agua que sirve de desagüe principal a una cuenca y que descarga a otro río, lago, laguna, mar u océano.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Río Patrimonial
+**DEFINICIÓN**: Aquel río o tramo de este, designado por el Secretario(a) del Departamento de Recursos Naturales y Ambientales, cuyos atributos naturales estén lo más cercano a los de un cuerpo de agua prístino, que no posea en su cauce principal una represa mayor y que tenga salida al mar. Además, debe poseer las características de los Ríos de Alto Valor Natural o de Ríos Recreacionales, donde cuente con un caudal libre, valor recreacional, valor pintoresco y valor ecológico. Adicionalmente, un valor cultural o histórico.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Ríos de Alto Valor Natural
+**DEFINICIÓN**: Río o tramos de este, de importancia ecológica, con atributos naturales (bióticos y abióticos) en el cauce y sus riberas, que fomentan la biodiversidad de las especies acuáticas, que ameritan ser protegidos y tengan su caudal libre (Ley Núm. 180 de 29 de octubre de 2014).
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Ríos Recreacionales
+**DEFINICIÓN**: Ríos de fácil acceso, poseen en el cauce elementos de geomorfología ideales para la recreación al aire libre y el contacto con la naturaleza tales como: pozas, rápidos y áreas llanas (Ley Núm. 180 de 29 de octubre de 2014).
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Rocas Mineralizadas
+**DEFINICIÓN**: Rocas que han pasado por un proceso de cambio químico y que, por ende, contienen concentraciones de minerales metalíferos, tales como, pero sin limitarse a: cobre, hierro y plomo.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Rodaje
+**DEFINICIÓN**: La parte de la vía destinada al tránsito de vehículos. Se conoce también, como área de rodaje, área rodada o superficie rodada.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Rotor
+**DEFINICIÓN**: Compuesto por varias palas, el rotor transforma la energía cinética del viento en un momento torsor en el eje del equipo.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Rotulación
+**DEFINICIÓN**: Significará cualquier exposición de materia manuscrita, impresa o gráfica, adherida al empaque inmediato o empaque original del fabricante; también se refiere a todo requisito que se imponga en virtud de la autoridad conferida en reglamento y leyes federales que apliquen, para que aparezcan en el rótulo cualquier palabra, manifestación, declaración o información de otra índole. No se considerará aprobada ninguna rotulación a menos que toda palabra, declaración u otra información sea fácilmente legible y aparezca en el empaque y en la envoltura para la venta al detal.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Rotulista
+**DEFINICIÓN**: Persona a la cual se le ha expedido una licencia para dedicarse a la fabricación, instalación, mantenimiento y remoción de rótulos y anuncios de conformidad con las disposiciones reglamentarias vigentes.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Rótulo
+**DEFINICIÓN**: Todo letrero, pizarra electrónica, escritura, impresos, pintura, emblema, dibujo, lámina, o cualquier tipo de comunicación gráfica cuyo propósito sea llamar la atención hacia una actividad comercial, negocio, institución, servicio, recreación o profesión que se ofrece, vende o lleva cabo en el solar o predio donde este ubica colocado con el propósito que sea visto desde una vía pública y se excluye de su cobertura aquellas comunicaciones gráficas comúnmente utilizadas en el punto de venta, como lo son las planchas de plástico (tipo "Sintra"), carteles, rejillas ("racks") y otros similares. En los casos que la instalación de un Rótulo conlleve la erección de un armazón, en cualquier material, de aditamentos eléctricos y de otro tipo y otros accesorios, se entenderá que estos forman parte integrante del mismo y para todos los efectos legales se considerarán como una unidad.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Rótulo Animado
+**DEFINICIÓN**: Cualquier rótulo que utiliza cambios en la iluminación o movimiento para representar una acción o crear una escena o efectos especiales.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Rótulo de Construcción
+**DEFINICIÓN**: Rótulo temporero que identifica el tipo y detalle de las obras a realizarse, su financiamiento y los corredores de bienes raíces, contratistas, ingenieros o arquitectos interventores en la obra. Este rótulo no podrá contener anuncio o propaganda comercial de clase alguna.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Rótulo de Poste
+**DEFINICIÓN**: Rótulo sobre el terreno sostenido mediante columnas, postes u otra estructura de apoyo no adosada al edificio.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Rótulo Intermitente
+**DEFINICIÓN**: Rótulo que contiene una fuente de luz intermitente o de destellos consecutivos con el fin principal de atraer la atención. No incluye pizarras electrónicas con mensajes, rótulos animados o rótulos que, a través de la reflexión u otros medios, crean la ilusión de una luz intermitente.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Rótulo No Conforme
+**DEFINICIÓN**: Condición o uso de un rótulo que no está en armonía con las disposiciones reglamentarias vigentes.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Rótulo Temporero
+**DEFINICIÓN**: Rótulo cuya instalación no es permanente y está limitada a un periodo de tiempo, dependiendo de la naturaleza de su contenido, que en ningún caso excederá de sesenta (60) días.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Ruina
+**DEFINICIÓN**: Aquellos restos de una estructura que subsisten después de sufrir una destrucción parcial o total a causa del tiempo, de acciones de la naturaleza o del hombre y que su recuperación no sería posible técnicamente sin que sea necesario su reconstrucción con nuevos materiales.
+**CATEGORÍA**: Términos de construcción
+
+**TÉRMINO**: Ruta Escénica
+**DEFINICIÓN**: Área con recursos de gran belleza o desde la cual el paisaje es visible a gran distancia desde algún lugar apropiado, donde la mera contemplación de éstos produce en las personas gozo y bienestar.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Ruta Panorámica
+**DEFINICIÓN**: Ruta trazada por el Departamento de Transportación y Obras Públicas, conforme a las disposiciones de la Ley Núm. 71 de 23 de junio de 1965 y adoptada por la Junta de Planificación, mediante la Resolución P-180 del 18 de mayo de 1971. La Ruta parte de la Ciudad de Mayagüez, continúa de Oeste a Este tan cerca de la cumbre de la Cordillera Central, la Sierra de Cayey y la Cuchilla de Panduras como fue posible y utilizando en algunos lugares las carreteras existentes y en otros construyendo los tramos necesarios para el total desarrollo de la misma, terminaría en el camino Juan Martín de Yabucoa.
+**CATEGORÍA**: Términos de planificación
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Resort
+- Restauración u Obras de Restauración
+- Restauración de Terrenos
+- Restaurante
+- Restaurante o Café al Aire Libre
+- Retallo
+- Retranqueo o Retiro Parcial de Fachada
+- Reversible
+- Revisión a Plan de Ordenación
+- Revocar
+- Riesgo
+- Río
+- Río Patrimonial
+- Ríos de Alto Valor Natural
+- Ríos Recreacionales
+- Rocas Mineralizadas
+- Rodaje
+- Rotor
+- Rotulación
+- Rotulista
+- Rótulo
+- Rótulo Animado
+- Rótulo de Construcción
+- Rótulo de Poste
+- Rótulo Intermitente
+- Rótulo No Conforme
+- Rótulo Temporero
+- Ruina
+- Ruta Escénica
+- Ruta Panorámica
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+
+=== REFERENCIAS CRUZADAS ===
+- Rótulo, Rótulo Animado, Rótulo de Construcción, Rótulo de Poste, Rótulo Intermitente, Rótulo No Conforme, Rótulo Temporero
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Construcción**: Restauración u Obras de Restauración, Retallo, Retranqueo o Retiro Parcial de Fachada, Reversible, Rocas Mineralizadas, Rodaje, Rotor, Ruina
+- **Planificación**: Resort, Restaurante, Restaurante o Café al Aire Libre, Revisión a Plan de Ordenación, Ruta Escénica, Ruta Panorámica
+- **Administrativo**: Rotulación, Rotulista, Rótulo, Rótulo Animado, Rótulo de Construcción, Rótulo de Poste, Rótulo Intermitente, Rótulo No Conforme, Rótulo Temporero
+- **Ambiental**: Restauración de Terrenos, Río, Río Patrimonial, Ríos de Alto Valor Natural, Ríos Recreacionales
+- **Legal**: Revocar, Riesgo
+
+=== FRAGMENTO 8 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**SEMAFORO PEATONAL**: Instrumento eléctrico que, mediante el manejo de luces o indicaciones de diferentes colores, se utiliza para dirigir el cruce peatonal en una vía.
+**CATEGORÍA**: Términos de planificación
+
+**SEMI-SÓTANO**: Es la planta localizada debajo de la planta baja, pero que no está por completo bajo la rasante ni la sobrepasa por más de ciento veinte (120) centímetros.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**SEMI-SÓTANO HABITABLE**: Semisótano que se utiliza para área de trabajo, comercio o servicio y el cual se contabiliza como parte del área bruta de construcción permitida. Las áreas de almacén o estacionamiento no se consideran áreas habitables.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**SENDERO**: Vía estrecha, sin área de rodaje, cuya función primordial es proveer acceso peatonal a través o al interior de un bloque.
+**CATEGORÍA**: Términos de planificación
+
+**SEÑAL**: Dispositivo montado en un soporte, fijo o portátil, por el cual se transmite un mensaje específico mediante palabras o símbolos, instalado o erigido con el propósito de reglamentar, advertir u orientar el tránsito.
+**CATEGORÍA**: Términos de planificación
+
+**SEÑALES DE ORIENTACIÓN**: Rótulos utilizados por el Departamento de Transportación y Obras Públicas para indicar rutas, destinos, direcciones, distancias, servicios, puntos de interés y otros. Son esenciales para dirigir a los conductores a su destino de la manera más simple posible.
+**CATEGORÍA**: Términos de planificación
+
+**SEÑALES DE PRECAUCIÓN**: Rótulos utilizados por el Departamento de Transportación y Obras Públicas para indicar condiciones en o adyacentes a, una calle o carretera que son potencialmente peligrosas a las operaciones del tránsito. Se utilizan para la prevención de accidentes; se instalan en intersecciones, carreteras estrechas, confluencia de carriles, cruces ferrocarril, entradas y cruces, entre otros.
+**CATEGORÍA**: Términos de planificación
+
+**SEÑALES DE REGLAMENTACIÓN**: Rótulos utilizados por Departamento de Transportación y Obras Públicas para indicar leyes y reglamentaciones del tránsito. Incluyen señales de derecho de paso (pare, ceda), velocidad, movimiento (virajes, alineación, exclusión, tránsito), estacionamiento, peatones y misceláneas.
+**CATEGORÍA**: Términos de planificación
+
+**SEPARACIÓN DE LA FUENTE**: Se refiere a la clasificación sistemática de los desperdicios sólidos en el lugar donde se originan tales desperdicios.
+**CATEGORÍA**: Términos ambientales
+
+**SERVICARRO**: Comunicación entre un negocio o servicio y un vehículo de motor (mediante ventanilla, máquina, micrófonos o mecanismo similar) que permite realizar compra o transacciones directamente desde el vehículo de motor. El servicarro usualmente se utiliza en lugares de comida y bebida o en instituciones financieras. De efectuarse transacciones en servicarro, las mismas ocurrirán en el interior del solar y la ventanilla se localizará a una distancia mínima de veinte (20) metros de la línea de vía.
+**CATEGORÍA**: Términos de planificación
+
+**SERVICIO DE ACUEDUCTO**: Suministro de agua a los clientes.
+**CATEGORÍA**: Términos de infraestructura
+
+**SERVICIO DE ALCANTARILLADO SANITARIO**: Recolección y tratamiento de aguas residuales.
+**CATEGORÍA**: Términos de infraestructura
+
+**SERVICIOS**: Aquellas actividades para proveer asistencia directamente al público en general relacionado, entre otros, con finanzas, seguros, bienes raíces, transportación, comunicación, profesiones, oficios, actividades artísticas, cuidado de niños o envejecientes, reparación de equipo doméstico o restaurantes (expendio de comidas cocinadas). No incluye estaciones de servicio de automóviles.
+**CATEGORÍA**: Términos administrativos
+
+**SERVICIOS BÁSICOS**: Servicio de gas, energía eléctrica, conexión de acueducto o alcantarillado, telecomunicaciones u otros servicios análogos.
+**CATEGORÍA**: Términos de infraestructura
+
+**SERVICIOS DE EDUCCIÓN**: Son las actividades características del sector educativo que persiguen el objetivo de mejorar los conocimientos y aptitudes de las personas.
+**CATEGORÍA**: Términos administrativos
+
+**SERVICIOS DE INFRAESTRUCTURA**: Conjunto de elementos o servicios, públicos o privados, que se consideran necesarios para satisfacer alguna necesidad social y que no consiste en la producción de bienes materiales.
+**CATEGORÍA**: Términos de infraestructura
+
+**SERVICIOS DE SALUD**: Se refiere a los servicios que se ofrecen para promover, conservar, restaurar y rehabilitar la salud física y mental del individuo.
+**CATEGORÍA**: Términos administrativos
+
+**SERVICIOS DE SEGURIDAD**: Se refiere a la seguridad en términos de protección de una persona, bienes, empresas o eventos, públicos o privados.
+**CATEGORÍA**: Términos administrativos
+
+**SERVICIOS INALÁMBRICOS**: Cualquier servicio que se preste al público y que utilice un espectro con licencia o sin licencia, ya sea en una ubicación fija o móvil.
+**CATEGORÍA**: Términos de infraestructura
+
+**SERVIDUMBRE**: Gravamen impuesto sobre un inmueble en beneficio de otro perteneciente a distinto dueño. El inmueble a cuyo favor está constituida la servidumbre se llama predio dominante; y el que la sufre, predio sirviente. Dicha servidumbre puede incluir un paso en la acera, ocupar una franja o parte del terreno de una propiedad inmueble.
+**CATEGORÍA**: Términos legales
+
+**SERVIDUMBRE DE ACUEDUCTOS Y ALCANTARILLADOS**: Derecho real que se establece sobre las franjas o porciones de terreno, descritas gráficamente en los planos aprobados por la AAA, a ser utilizada para la instalación, operación, reparación, el paso y conservación de los sistemas de acueductos y alcantarillados los cuales estarán sujetos a las restricciones que se imponen mediante el Reglamento de Servidumbres de la Autoridad de Acueductos y Alcantarillados.
+**CATEGORÍA**: Términos legales
+
+**SERVIDUMBRE DE CONSERVACIÓN**: Gravamen impuesto sobre un inmueble en beneficio de una entidad gubernamental, persona o un predio que impone obligaciones, derechos y condiciones sobre el inmueble y su dueño para propósito de garantizar la protección de un área de valor natural o una propiedad con valor cultural o agrícola.
+**CATEGORÍA**: Términos legales
+
+**SERVIDUMBRE DE LA VÍA**: Porción de terreno preservado para la construcción de una vía mediante un plan vial. Por extensión, se entiende también, como servidumbre el ancho total de la vía, comprendiendo todo el terreno que fue dedicado a servidumbre pública.
+**CATEGORÍA**: Términos legales
+
+**SERVIDUMBRE DE LÍNEAS ELÉCTRICAS**: Derecho real que se establece sobre las franjas o porciones de terreno donde están ubicadas o se ubicarán las instalaciones de la Autoridad de Energía Eléctrica, tales como líneas, postes, torres, estructuras, equipos y aditamentos. Estas franjas o porciones de terreno están sujetas a las restricciones que se imponen en el Reglamento de Servidumbres para la Autoridad de Energía Eléctrica.
+**CATEGORÍA**: Términos legales
+
+**SERVIDUMBRE DE PASO**: Área que se encuentra sobre, debajo o por encima de una servidumbre municipal o estatal de utilidad pública, una calzada, una carretera, una calle, una acera, un callejón o una propiedad similar. Esta definición también incluye aquellas franjas de terreno a ser utilizadas para la construcción de la infraestructura que servirá para la instalación eventual o el mantenimiento de los sistemas de telecomunicaciones, así como para propósitos de servicios de utilidades o instalaciones de telecomunicaciones, típicamente encontrados en fincas o solares propuestos para proyectos nuevos de construcción o desarrollo de vivienda, industrial, institucional o comercios.
+**CATEGORÍA**: Términos legales
+
+**SERVIDUMBRE LEGAL**: Gravamen a la propiedad privada, impuestos por ley, que tienen por objeto la utilidad pública o el interés de particulares. Incluye, pero sin limitarse a: las servidumbres de vigilancia del litoral; las de servicio público de paso de energía eléctrica, de líneas telefónicas, instalaciones de acueductos y alcantarillados pluviales y sanitarios; y las de interés particular.
+**CATEGORÍA**: Términos legales
+
+**SERVIDUMBRE LEGAL DE PASO DE TELECOMUNICACIONES Y TELEVISIÓN POR CABLE**: Servidumbre de servicio público de paso de líneas de telecomunicaciones y televisión por cable, que tiene el carácter de legal, continua y aparente, conforme a la Ley Núm. 143 de 20 de julio de 1979, según enmendada. Esta servidumbre es aquella franja o franjas de terreno a ser utilizada para la construcción de la infraestructura que servirá para la instalación eventual y la conservación de los sistemas de telecomunicaciones y televisión por cable, que son descritos gráficamente en los Planos de Inscripción y que están sujetas a las disposiciones de este Reglamento.
+**CATEGORÍA**: Términos legales
+
+**SERVIDUMBRE PLUVIAL**: Aquella franja o franjas de terreno a ser utilizadas para la instalación y conservación del sistema de alcantarillado o desagüe pluvial, que son descritas gráficamente en los Planos de Inscripción.
+**CATEGORÍA**: Términos legales
+
+**SIEMBRA**: Acción y efecto de plantar o instalar árboles, arbustos o cubre-suelos para habilitar o rehabilitar un área, así como para evitar la erosión del terreno.
+**CATEGORÍA**: Términos ambientales
+
+**SIEMBRA PLANIFICADA**: Aquella actividad que se lleva a cabo para desarrollar áreas verdes, conforme a un plano con las debidas especificaciones, según se establece en este Reglamento y cualquier otro Reglamento de la Junta de Planificación.
+**CATEGORÍA**: Términos ambientales
+
+**SILVICULTURA**: Se refiere al cultivo de árboles para formar bosques, ya sea con propósitos recreativos o para cosechar madera.
+**CATEGORÍA**: Términos ambientales
+
+**SISTEMA BASADO EN DEMANDA**: Método para calcular las exacciones por impacto para carreteras, mediante el cual la demanda de carreteras se mide en términos del número de viajes en vehículo a lo largo de una distancia particular, traducido al número de carreteras (millas de carril), requeridas para poder proveer un movimiento vehicular eficiente y seguro al nivel de servicio seleccionado por la comunidad, basado en la fórmula establecida por Reglamento.
+**CATEGORÍA**: Términos de planificación
+
+**SISTEMA BASADO EN MEJORAS**: Método para calcular las exacciones por impacto de instalaciones dotacionales que asigna el costo de una lista específica de mejoras permanentes a nuevos desarrollos basados en la fórmula establecida por Reglamento.
+**CATEGORÍA**: Términos de planificación
+
+**SISTEMA BÁSICO DE ALCANTARILLADO PLUVIAL**: Aquel sistema diseñado para la relocalización, transportación y disposición del caudal ocasionado por la escorrentía superficial de las lluvias ordinarias, procedentes de un área de captación menor de 150 acres.
+**CATEGORÍA**: Términos de infraestructura
+
+**SISTEMA DE ACUEDUCTO**: Instalaciones, tuberías y accesorios que funcionan como una unidad a ser utilizadas para purificación y distribución de agua potable.
+**CATEGORÍA**: Términos de infraestructura
+
+**SISTEMA DE ALCANTARILLADO PLUVIAL**: Todas aquellas instalaciones utilizadas para la recolección, transportación y disposición de las aguas pluviales, desde y a través de un área de captación, hasta su punto final de descarga que puede consistir de conductos y estructuras relacionadas, canales, zanjas, quebradas, ríos, calles, tajeas, estaciones de bombas y otros.
+**CATEGORÍA**: Términos de infraestructura
+
+**SISTEMA DE ALCANTARILLADO SANITARIO**: Todos los sistemas, instalaciones o propiedades, utilizadas o utilizables, o que tienen la capacidad, al presente, para poder usarse en un futuro en conexión con la recolección y el acopio de las aguas residuales, que son propiedad de la Autoridad de Acueductos y Alcantarillados, operados o contratados por esta. El sistema de alcantarillado incluye estaciones de bombeo, líneas interceptoras, de recolección, laterales, de presión, colectoras y todos los accesorios y equipos necesarios, mejoras a cualesquiera de tales propiedades, construidas o adquiridas hasta el presente y en que el futuro se construyan o se adquieran, todas las propiedades y derechos, servidumbres y franquicias relacionadas con dichas instalaciones y consideradas necesarias o convenientes por la Autoridad de Acueductos y Alcantarillados para la operación de dicho sistema.
+**CATEGORÍA**: Términos de infraestructura
+
+**SISTEMA DE CONTROL**: Componentes que controlan el funcionamiento del equipo de manera correcta, segura y eficiente, la orientación de la góndola y la posición de las palas. Puede incluir anemómetros, veletas, mecanismos de orientación, unidades de refrigeración, sistemas de control de potencia y sistema de frenos, entre otros componentes.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**SISTEMA DE DISPOSICIÓN DE DESPERDICIOS EN VIVIENDAS INDIVIDUALES O SISTEMA DE DISPOSICIÓN DE DESPERDICIOS DOMÉSTICOS (SIDDD)**: Conjunto de estructuras, equipo, unidades de tratamiento y disposición de los desperdicios domésticos que se generan en una vivienda individual que consiste de un tanque séptico y un sistema de disposición mediante inyección al subsuelo localizado en la misma parcela o propiedad que la vivienda individual. Este término también incluye sistemas alternos para el manejo de los desperdicios.
+**CATEGORÍA**: Términos de infraestructura
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Semáforo Peatonal
+- Semi-Sótano
+- Semi-Sótano Habitable
+- Sendero
+- Señal
+- Señales de Orientación
+- Señales de Precaución
+- Señales de Reglamentación
+- Separación de la Fuente
+- Servicarro
+- Servicio de Acueducto
+- Servicio de Alcantarillado Sanitario
+- Servicios
+- Servicios Básicos
+- Servicios de Eductión
+- Servicios de Infraestructura
+- Servicios de Salud
+- Servicios de Seguridad
+- Servicios Inalámbricos
+- Servidumbre
+- Servidumbre de Acueductos y Alcantarillados
+- Servidumbre de Conservación
+- Servidumbre de la Vía
+- Servidumbre de Líneas Eléctricas
+- Servidumbre de Paso
+- Servidumbre Legal
+- Servidumbre Legal de Paso de Telecomunicaciones y Televisión por Cable
+- Servidumbre Pluvial
+- Siembra
+- Siembra Planificada
+- Silvicultura
+- Sistema Basado en Demanda
+- Sistema Basado en Mejoras
+- Sistema Básico de Alcantarillado Pluvial
+- Sistema de Acueducto
+- Sistema de Alcantarillado Pluvial
+- Sistema de Alcantarillado Sanitario
+- Sistema de Control
+- Sistema de Disposición de Desperdicios en Viviendas Individuales o Sistema de Disposición de Desperdicios Domésticos (SIDDD)
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+- Términos de infraestructura
+
+=== REFERENCIAS CRUZADAS ===
+- Servidumbre de Acueductos y Alcantarillados / Sistema de Alcantarillado Sanitario
+- Servidumbre de Líneas Eléctricas / Servicios Básicos
+- Sistema de Alcantarillado Pluvial / Servidumbre Pluvial
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Infraestructura**: Servicio de Acueducto, Servicio de Alcantarillado Sanitario, Servicios Básicos, Servicios de Infraestructura, Sistema de Acueducto, Sistema de Alcantarillado Pluvial, Sistema de Alcantarillado Sanitario, Sistema de Disposición de Desperdicios en Viviendas Individuales o Sistema de Disposición de Desperdicios Domésticos (SIDDD)
+- **Planificación y Zonificación**: Semáforo Peatonal, Sendero, Señal, Señales de Orientación, Señales de Precaución, Señales de Reglamentación, Servicarro, Sistema Basado en Demanda, Sistema Basado en Mejoras
+- **Construcción y Técnicos**: Semi-Sótano, Semi-Sótano Habitable, Sistema de Control
+- **Legales**: Servidumbre, Servidumbre de Acueductos y Alcantarillados, Servidumbre de Conservación, Servidumbre de la Vía, Servidumbre de Líneas Eléctricas, Servidumbre de Paso, Servidumbre Legal, Servidumbre Legal de Paso de Telecomunicaciones y Televisión por Cable, Servidumbre Pluvial
+- **Ambientales**: Separación de la Fuente, Siembra, Siembra Planificada, Silvicultura
+
+=== FRAGMENTO 9 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**Sistema de Energía Renovable**  
+**DEFINICIÓN**: Conjunto de equipos utilizados para convertir cualquier tipo de fuente de energía renovable en energía eléctrica utilizable para suplementar o sustituir las necesidades energéticas en residencias, comercios e industrias, entre otras.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema o proyecto de Generación de Energía Eólica**  
+**DEFINICIÓN**: Sistema o proyecto que incluye uno o más aerogeneradores y sus obras accesorias, clasificados en tres grupos básicos:  
+a. Proyecto eólico de pequeña escala: capacidad hasta 100 kilovatios (KW- AC).  
+b. Proyecto eólico a mediana escala: capacidad mayor de 100 kilovatios (kW) hasta un (1) megavatio (MW-AC).  
+c. Proyecto eólico de gran escala: capacidad mayor a un (1) megavatio (MW-AC).  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema o proyecto de Generación de Energía Fotovoltaica**  
+**DEFINICIÓN**: Sistema o proyecto clasificado en tres grupos básicos:  
+a. Proyecto fotovoltaico a pequeña escala: capacidad hasta 100 kilovatios (kW- AC).  
+b. Proyecto fotovoltaico a mediana escala: capacidad mayor de 100 kilovatios (KW) hasta un (1) megavatio (MW-AC).  
+c. Proyecto fotovoltaico de gran escala: capacidad mayor a un (1) megavatio (MW-AC).  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema de Generación Distribuida**  
+**DEFINICIÓN**: Conjunto de equipos que se conectan en las instalaciones privadas del cliente para producir energía eléctrica, incluyendo generadores, inversores, sistemas de protección y control, interconexión y demás equipos asociados, capaces de operar en paralelo con el sistema eléctrico de la Autoridad.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema de Llamada Única**  
+**DEFINICIÓN**: Sistema de comunicación operado por el Centro de Coordinación de Excavaciones y Demoliciones para recibir notificación de excavadores o demoledores interesados en excavar o demoler en un área específica, y difundir dicha notificación a los operadores de instalaciones soterradas para prevenir daños.  
+**CATEGORÍA**: Términos administrativos
+
+**Sistema de Relleno Sanitario**  
+**DEFINICIÓN**: Instalación donde se disponen desperdicios sólidos no peligrosos mediante esparcimiento y compactación en capas, separadas por material de relleno o cobertura alterna aprobada, para reducir riesgos a la salud, seguridad pública y el ambiente.  
+**CATEGORÍA**: Términos ambientales
+
+**Sistema Eléctrico Renovable**  
+**DEFINICIÓN**: Conjunto de equipos utilizados para transferir la energía eléctrica producida en un generador a base de una fuente renovable a un punto de uso. Sistema de gran escala: capacidad nominal mayor a 100 kW; sistema de pequeña escala: capacidad menor o igual a 100 kW.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema Eólico**  
+**DEFINICIÓN**: Conjunto de equipos utilizados para convertir energía eólica en energía eléctrica utilizable para suplementar o sustituir el servicio de energía eléctrica en residencias, comercios e industrias.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema Fotovoltaico**  
+**DEFINICIÓN**: Conjunto de equipos utilizados para convertir energía solar en energía eléctrica utilizable para suplementar o sustituir el servicio de energía eléctrica en residencias, comercios e industrias.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema Mayor de Alcantarillado Pluvial**  
+**DEFINICIÓN**: Cauce sistema que sirve para disponer del caudal ocasionado en el sistema básico de alcantarillado pluvial y de otras áreas adyacentes, cuyas áreas de captación sumen más de 150 acres.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema Público de Agua**  
+**DEFINICIÓN**: Sistema para proveer agua al público para consumo humano a través de tuberías u otro mecanismo, con al menos quince (15) conexiones de servicio o que regularmente sirve un promedio de al menos veinticinco (25) individuos, por al menos sesenta (60) días al año. Incluye facilidades para la colección, tratamiento, almacenamiento y distribución de agua.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema Soterrado**  
+**DEFINICIÓN**: Sistema de distribución telefónica, telecomunicaciones, televisión por cable o eléctrico que discurre bajo tierra, ya sea directamente enterrado o soterrado por conductos con envolturas de hormigón, arena o material selecto libre de piedras o rocas.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema Aislado (Stand-Alone)**  
+**DEFINICIÓN**: Sistema de energía renovable fuera de la red eléctrica de la Autoridad de Energía Eléctrica (AEE) para lugares que no estén equipados con un sistema de distribución de energía eléctrica o que no deseen estar incluidos en él, empleando almacenamiento de energía.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Sistema Unificado de Información (SUI)**  
+**DEFINICIÓN**: Sistema de información computadorizado creado por la Ley 4161, según enmendada.  
+**CATEGORÍA**: Términos administrativos
+
+**Sitio Arqueológico**  
+**DEFINICIÓN**: Localización de un recurso arqueológico.  
+**CATEGORÍA**: Términos de planificación
+
+**Sitio Arqueológico Designado**  
+**DEFINICIÓN**: Recurso arqueológico valorado como digno de conservación y protección mediante reglamentación, designado por la Junta de Planificación con el asesoramiento del Instituto de Cultura Puertorriqueña, incluido en el Registro de Sitios y Zonas Históricas de la Junta de Planificación.  
+**CATEGORÍA**: Términos de planificación
+
+**Sitio Histórico**  
+**DEFINICIÓN**: Propiedad valorada como digna de conservación, designada mediante proceso de nominación y designación, que puede incluir terrenos, estructuras, objetos históricos y entorno general, incluido en el Registro de Sitios y Zonas Históricas de Puerto Rico de la Junta de Planificación.  
+**CATEGORÍA**: Términos de planificación
+
+**Sitios y Recursos Arqueológicos Subacuáticos**  
+**DEFINICIÓN**: Incluye artefactos, evidencia de poblaciones de época histórica, barcos naufragados y sus restos, restos de habitación humana y objetos relacionados con la historia, gobierno o cultura de Puerto Rico en aguas bajo la jurisdicción del Gobierno de Puerto Rico.  
+**CATEGORÍA**: Términos de planificación
+
+**Solar de Esquina**  
+**DEFINICIÓN**: Solar en un bloque que da frente a dos vías que se interceptan o se unen.  
+**CATEGORÍA**: Términos de planificación
+
+**Solar Interior**  
+**DEFINICIÓN**: Cualquier solar que no sea de esquina.  
+**CATEGORÍA**: Términos de planificación
+
+**Solar Mínimo**  
+**DEFINICIÓN**: Superficie mínima que ha de tener un solar para que se autorice su segregación y se permita construir en él.  
+**CATEGORÍA**: Términos de planificación
+
+**Solar o Finca**  
+**DEFINICIÓN**: Predio de terreno inscrito o inscribible en el Registro de la Propiedad de Puerto Rico como una finca independiente o cuya lotificación haya sido aprobada conforme a las leyes y reglamentos aplicables.  
+**CATEGORÍA**: Términos de planificación
+
+**Solicitante o Peticionario**  
+**DEFINICIÓN**: Persona natural o jurídica, propietaria o dueña de un terreno o estructura o con un derecho real o arrendamiento, o su representante autorizado, que inicie un procedimiento de adjudicación sobre el mismo.  
+**CATEGORÍA**: Términos administrativos
+
+**Solicitud de Recomendación**  
+**DEFINICIÓN**: Petición solicitada a la OGPe previo a la radicación de un permiso de construcción certificado cuando este sea de carácter ministerial, de una consulta de ubicación o construcción, para verificar u obtener información sobre la disponibilidad de infraestructura o información especializada.  
+**CATEGORÍA**: Términos administrativos
+
+**Sótano**  
+**DEFINICIÓN**: Parte de un edificio situada bajo el nivel del encintado o en parte sobre dicho nivel, donde la distancia vertical desde el nivel del encintado hasta el piso es igual o mayor que la distancia vertical desde dicho nivel hasta el cielo raso o techo.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Subestación Eléctrica**  
+**DEFINICIÓN**: Componente del sistema eléctrico localizado en un lugar determinado, que incluye conexiones de las líneas de transmisión o distribución, interruptores, transformadores y las instalaciones necesarias para la seguridad y el control del sistema.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Subestaciones de Infraestructura**  
+**DEFINICIÓN**: Subestación de electricidad o gas, estación de bombeo de agua o aguas usadas, estación repetidora de teléfono, o estructura similar utilizada como intermediaria de distribución, subalimentación o transferencia de servicios entre el punto de generación o tratamiento y el usuario final.  
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Suburbio**  
+**DEFINICIÓN**: Área especializada de la ciudad desarrollada a baja densidad y donde existe una segregación y separación de usos.  
+**CATEGORÍA**: Términos de planificación
+
+**Sucursal**  
+**DEFINICIÓN**: Negocio adicional a la matriz dedicado a la compra o venta de vehículos de motor o arrastres.  
+**CATEGORÍA**: Términos administrativos
+
+**Suelo**  
+**DEFINICIÓN**: Superficie de la tierra con relación a su uso, incluyendo el terreno, cuerpos de agua, espacio sobre éstos y área bajo ellos.  
+**CATEGORÍA**: Términos de planificación
+
+**Suelo Rústico**  
+**DEFINICIÓN**: Clasificación del terreno en el Plan de Ordenación, constituido por terrenos que deben ser protegidos del proceso urbanizador por su valor agrícola, natural, ecológico, arqueológico, recreativo, o por riesgos a la seguridad o salud pública. Incluye Suelo Rústico Común y Suelo Rústico Especialmente Protegido.  
+**CATEGORÍA**: Términos de planificación
+
+**Suelo Superficial (Top Soil)**  
+**DEFINICIÓN**: Cubierta del suelo por tipo orgánico (Horizonte “0”) o mineral (Horizonte A).  
+**CATEGORÍA**: Términos de planificación
+
+**Suelo Urbanizable**  
+**DEFINICIÓN**: Clasificación del terreno en el Plan de Ordenación, constituido por terrenos aptos para ser urbanizados para acomodar el crecimiento del municipio en un período de ocho (8) años. Incluye suelo urbanizable programado y no programado.  
+**CATEGORÍA**: Términos de planificación
+
+**Suelo Urbano**  
+**DEFINICIÓN**: Clasificación del terreno en el Plan de Ordenación, constituido por terrenos con acceso vial, abastecimiento de agua, suministro de energía eléctrica y otra infraestructura necesaria para actividades administrativas, económicas y sociales.  
+**CATEGORÍA**: Términos de planificación
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Sistema de Energía Renovable
+- Sistema o proyecto de Generación de Energía Eólica
+- Sistema o proyecto de Generación de Energía Fotovoltaica
+- Sistema de Generación Distribuida
+- Sistema de Llamada Única
+- Sistema de Relleno Sanitario
+- Sistema Eléctrico Renovable
+- Sistema Eólico
+- Sistema Fotovoltaico
+- Sistema Mayor de Alcantarillado Pluvial
+- Sistema Público de Agua
+- Sistema Soterrado
+- Sistema Aislado (Stand-Alone)
+- Sistema Unificado de Información (SUI)
+- Sitio Arqueológico
+- Sitio Arqueológico Designado
+- Sitio Histórico
+- Sitios y Recursos Arqueológicos Subacuáticos
+- Solar de Esquina
+- Solar Interior
+- Solar Mínimo
+- Solar o Finca
+- Solicitante o Peticionario
+- Solicitud de Recomendación
+- Sótano
+- Subestación Eléctrica
+- Subestaciones de Infraestructura
+- Suburbio
+- Sucursal
+- Suelo
+- Suelo Rústico
+- Suelo Superficial (Top Soil)
+- Suelo Urbanizable
+- Suelo Urbano
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+- Términos de zonificación
+- Otros términos especializados
+
+=== REFERENCIAS CRUZADAS ===
+- Sistema de Energía Renovable, Sistema Eléctrico Renovable, Sistema Eólico, Sistema Fotovoltaico
+- Sitio Arqueológico, Sitio Arqueológico Designado, Sitio Histórico, Sitios y Recursos Arqueológicos Subacuáticos
+- Suelo, Suelo Rústico, Suelo Superficial (Top Soil), Suelo Urbanizable, Suelo Urbano
+
+=== DEFINICIONES POR TEMÁTICA ===
+- Energía: Sistema de Energía Renovable, Sistema Eléctrico Renovable, Sistema Eólico, Sistema Fotovoltaico
+- Agua y Alcantarillado: Sistema Mayor de Alcantarillado Pluvial, Sistema Público de Agua
+- Infraestructura: Sistema de Generación Distribuida, Sistema de Llamada Única, Sistema Soterrado, Subestación Eléctrica, Subestaciones de Infraestructura
+- Planificación y Zonificación: Sitio Arqueológico, Sitio Arqueológico Designado, Sitio Histórico, Sitios y Recursos Arqueológicos Subacuáticos, Solar de Esquina, Solar Interior, Solar Mínimo, Solar o Finca, Suelo, Suelo Rústico, Suelo Superficial (Top Soil), Suelo Urbanizable, Suelo Urbano
+- Administración: Solicitante o Peticionario, Solicitud de Recomendación, Sucursal
+
+=== FRAGMENTO 10 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**SUELO URBANO ATÍPICO**: Terrenos para usos que por su propia naturaleza no son compatibles con usos típicos urbanos, como es el residencial, necesitan estar ubicados en lugares estratégicos y necesitan de un proceso urbanizador, incluye además las áreas desarrolladas aisladas que generalmente están rodeadas de suelo que requiere ser clasificado rústico y demuestran ser producto de un proceso urbanizador.
+**CATEGORÍA**: Términos de zonificación
+
+**SUELOS RESIDUALES**: Formación “in-situ” de una capa de material relativamente suelto, resultado de la disolución y descomposición de la roca subyacente.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**SUMIDERO**: Depresión natural producto de los procesos de disolución química que ocurren en terrenos cársticos. Constituye un área de drenaje a través de la cual las aguas superficiales son transportadas rápidamente al subsuelo proveyendo así una fuente de recarga para el acuífero.
+**CATEGORÍA**: Términos ambientales
+
+**SUPERMANZANA**: Manzana de gran tamaño bordeada en su periferia por avenidas, calles principales, colectoras o marginales de vías expreso, que comprende setecientas (700) unidades de vivienda o más, bien sea, en casas gemelas, en hilera o de apartamentos; o que comprende no menos de dieciséis (16) manzanas regulares con igual número de viviendas al señalado anteriormente.
+**CATEGORÍA**: Términos de planificación
+
+**SUPRA-REGIONAL**: Proyecto que abarque más de una región o que tenga impacto a nivel Isla.
+**CATEGORÍA**: Términos de planificación
+
+**SUSPENDER**: Detener o diferir temporalmente la ejecución o efectividad de un permiso, una exención, una orden o una resolución mediante una Orden de Cese y Desista verbal o escrita.
+**CATEGORÍA**: Términos legales
+
+**SUSTITUCIÓN SENCILLA**: Son las obras que se expresan en este Reglamento, así como toda obra menor de 6,000 dólares y que tenga una duración no mayor de seis (6) meses.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**SUVENIR O “SOUVENIR”**: Objeto que sirve como recuerdo de la visita a algún lugar determinado.
+**CATEGORÍA**: Otros términos especializados
+
+**TABLERO DE ANUNCIOS (“BILLBOARD”)**: Lo constituye un marco para anunciar diferentes productos servicios que posee su propio armazón, de cualquier material, y cuya área para la exhibición de anuncios es mayor de veinticinco (25) pies cuadrados por cada lado.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TABLERO DE ANUNCIOS DIGITAL**: Lo constituye un tablero de anuncios que exponga anuncios mediante un formato digital, que tenga iluminación propia sin necesidad de alumbrado ajeno y que sea programable para presentar varios espacios de anuncios en sucesión de forma automatizada.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TANQUE DE DISTRIBUCIÓN DE ACUEDUCTOS**: Estructura que se utiliza para almacenar agua como reserva o como medio mecánico de aumentar la presión.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TANQUE DE RETENCIÓN**: Recipiente diseñado y construido para almacenar desperdicios domésticos por un período de tiempo definido para luego extraer los mismos para su disposición final en instalaciones autorizadas a estos fines por los reglamentos estatales y federales aplicables.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TANQUE SÉPTICO**: Un tanque que recibe los desperdicios domésticos, donde ocurre separación de líquidos y sólidos a través de un proceso de sedimentación, acción bacterial y flotación. La descarga de los desperdicios líquidos va a un sistema de inyección al subsuelo para la disposición final de los mismos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TAPIA**: Cerca compuesta por muros, principalmente sólida.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉCNICAMENTE FACTIBLE**: Ubicación propuesta para un dispositivo inalámbrico pequeño, en virtud de la ingeniería o el uso del espectro, por su diseño o ubicación del lugar puede implementarse sin una reducción en la funcionalidad del dispositivo inalámbrico pequeño.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TEJADILLO**: Pequeño tejado de una sola vertiente, adosado a un edificio que, por lo general, techa a un balcón o a una galería.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TEJADO**: Parte superior y exterior de un edificio.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TERMINACIÓN DE UN EJE VIAL**: Finalidad de un eje de calle que termina en uno o más solares.
+**CATEGORÍA**: Términos de planificación
+
+**TERMINAL DE DISTRIBUCIÓN TELEFÓNICA AÉREO**: Punto de interconexión entre sistema de distribución y abonados. Puede ocurrir en el mismo cable o en una caja de metal sujeta a los postes.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TERRENO**: Incluye tanto la tierra como cuerpos de agua, el espacio sobre los mismos o la tierra bajo ellos.
+**CATEGORÍA**: Términos de planificación
+
+**TERRENO DESARROLLABLE O TERRENO UTILIZABLE PARA DESARROLLO**: Terreno que está disponible para desarrollo, excluyendo terreno que esté sujeto a servidumbres, incluyendo servidumbres de paso, terreno propiedad de agencias públicas, terreno que esté sujeto a servidumbres de conservación u otros acuerdos restrictivos que prohíben el desarrollo, terrenos anegadizos, terrenos que queden bajo la elevación de la inundación base y terrenos con pendientes que exceden un 25%.
+**CATEGORÍA**: Términos de planificación
+
+**TERRENOS PATRIMONIALES**: Son los bienes del Gobierno de Puerto Rico, de la cual este puede disponer como si fueran propiedad privada. Éstos están sujetos a la ley habilitadora de la agencia, autoridad, corporación o entidad gubernamental que los administre.
+**CATEGORÍA**: Términos legales
+
+**TERRENOS PRIVADOS**: Terrenos de tenencia particular por persona natural o jurídica.
+**CATEGORÍA**: Términos legales
+
+**TERRENOS PÚBLICOS**: Terrenos propiedad del Gobierno de Puerto Rico, sus agencias, entidades o dependencias y los municipios. Se entiende también: calles, aceras, encintados, parques, plazas, isletas, servidumbres, intersecciones, patios de escuelas, estacionamientos y otros terrenos propiedad de las Agencias de Gobierno, Municipales o Estatales.
+**CATEGORÍA**: Términos legales
+
+**TERRENOS SUMERGIDOS**: Terrenos o suelo permanente o periódicamente cubiertos por agua hasta, pero no sobre, la línea media de la marea alta, en playas, bahías, lagunas, pantanos y otros cuerpos de agua.
+**CATEGORÍA**: Términos ambientales
+
+**TERRENOS SUMERGIDOS BAJO AGUAS NAVEGABLES**: Incluye terrenos sumergidos bajo extensiones de aguas navegables alrededor de la Isla de Puerto Rico y las islas adyacentes hasta una distancia mar afuera de tres (3) leguas marinas, equivalentes a nueve (9) millas náuticas y a diez con treinta y cinco centésimas (10.35) millas terrestres, medidas desde la línea de costa, según hayan sido o puedan ser modificadas por acrecimiento, erosión o retiro de las aguas.
+**CATEGORÍA**: Términos ambientales
+
+**TIEMPO COMPARTIDO (TIME SHARING)**: El derecho al uso de una unidad en edificio, estructura o villa por un periodo limitado de tiempo cada año y que cumple con los requisitos de un hotel según expuesto en la reglamentación vigente. Para este programa aplicará la Ley Núm. 252 de 26 de diciembre de 1995, según enmendada, conocida como Ley de Derecho de Multipropiedad y Clubes Vacacionales de Puerto Rico. Además, tendrá un mínimo de quince (15) habitaciones.
+**CATEGORÍA**: Términos legales
+
+**TIEMPO DE CONCENTRACIÓN**: El tiempo requerido para que las aguas de escorrentía fluyan desde el punto más remoto, del área de captación, hasta el punto de descarga o al punto bajo consideración.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TIEMPO DE FLUJO**: El tiempo requerido para que las aguas fluyan desde sus puntos de entrada en el sistema pluvial hasta que lleguen al punto bajo estudio.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TIEMPO DE POCETO**: Es el tiempo requerido para que las aguas de escorrentía fluyan desde el punto más remoto del área de captación hasta el poceto.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TIEMPO DE RETARDAMIENTO**: Tiempo de concentración.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TIENDA DE CONVENIENCIA**: Establecimiento para el expendio de artículos de primera necesidad.
+**CATEGORÍA**: Términos administrativos
+
+**TIENDA DE LICORES (LIGUOR STORE)**: Establecimiento que vende principalmente bebidas alcohólicas selladas para consumo fuera de los predios del lugar y que no se consumen en las inmediaciones del lugar.
+**CATEGORÍA**: Términos administrativos
+
+**TIENDA DE MERCANCÍA GENERAL**: Establecimiento que se dedica a la venta de mercancía variada.
+**CATEGORÍA**: Términos administrativos
+
+**TIENDA DE VARIEDADES**: Establecimiento que se dedica a la venta al por menor, a precios bajos y populares, de una variedad de mercancía. Por lo general, estas tiendas no venden una línea completa de mercancía ni están organizadas por departamentos.
+**CATEGORÍA**: Términos administrativos
+
+**TIENDA LIBRE DE IMPUESTOS**: Cualquier establecimiento comercial autorizado por el Director Ejecutivo de la Autoridad de los Puertos de Puerto Rico para operar en un terminal aéreo o marítimo de Puerto Rico y por el Secretario, para el almacenaje y venta de bebidas alcohólicas libre del pago de impuestos estatales, a personas que viajen fuera de los límites jurisdiccionales del Estado Libre Asociado de Puerto Rico.
+**CATEGORÍA**: Términos administrativos
+
+**TIENDAS POR DEPARTAMENTO**: Establecimiento que se dedica a la venta al por menor de mercancía variada organizada en distintos departamentos.
+**CATEGORÍA**: Términos administrativos
+
+**TIPO**: Conjunto de características dadas, visuales, funcionales y tectónicas, de una propiedad histórica en particular que permite su análisis, categorización y clasificación comparativa frente a otras propiedades, cercanas o colindantes o en otros lugares de Puerto Rico.
+**CATEGORÍA**: Términos de planificación
+
+**TIPOLOGÍA**: Estudio y clasificación de los tipos de características de propiedades elegibles relacionadas con la forma, proporciones y dimensiones de sus espacios, superficies y volúmenes y de los elementos que les definen; su interrelación estructural y funcional y su relación física y espacial con su parcela o el entorno circundante.
+**CATEGORÍA**: Términos de planificación
+
+**TOLDO**: Paño, lienzo o tapiz que se extiende fuera de la edificación a modo de cobertizo para cubrir, proteger de sol y lluvia o adorno una ventana, puerta o vano de una estructura. El toldo puede ser plegadizo o fijo.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TOMA DE AGUAS CRUDAS**: Mecanismo para extraer agua por gravedad de cuerpos de agua superficiales, antes de trasladarla a las plantas de filtración.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TOMA PRIMARIA / TOMA SECUNDARIA**: Conductor y equipo para proveer energía eléctrica desde el sistema eléctrico alimentador hasta la medición.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TOPOGRAFÍA**: Arte de escribir y delinear detalladamente la superficie de un terreno relativo a su elevación.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TORRE**: Edificación para la instalación y soporte de antenas, platos parabólicos, y equipos relacionados, y la góndola y el rotor en los sistemas de generación de energía eólica y soporte de líneas de transmisión eléctrica.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TORRE DE TELECOMUNICACIONES**: Cualquier torre que se sostenga por si sola o torre que esté sostenida por cables tensores (guy wires) o torre tipo unipolar que esté diseñada y construida primordialmente con el propósito de sostener una o más estaciones de transmisión radial “antenas” para fines de comunicación.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TORRE METEOROLÓGICA**: Torre construida, generalmente de manera temporera, con el propósito primordial de medir la velocidad del viento, su dirección y otros datos relevantes a la instalación y operación de aerogeneradores.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TRAFICANTE**: Cualquier persona que se dedique al negocio de venta o permuta de artículos, ya sea en sitio fijo o como ambulante, o que exhiba en número estrictamente indispensable, no cumplan otro propósito concebible que el de realizar la exhibición de estos artículos; o que adquiera artículos en cantidades comerciales por encima de sus necesidades normales de consumo. El término traficante no incluye a cualquier persona que se dedique al arrendamiento financiero o renta diaria de artículos y que incidentalmente a dicho negocio o negocios venda los artículos objetos del arrendamiento financiero o renta diaria.
+**CATEGORÍA**: Términos administrativos
+
+**TRAFICANTE AL DETAL O DETALLISTA**: Cualquier traficante que venda exclusivamente para el uso y consumo individual, sin intermediario.
+**CATEGORÍA**: Términos administrativos
+
+**TRAFICANTE AL POR MAYOR O MAYORISTA**: Cualquier persona que venda a un traficante, independientemente de que mantenga existencias de artículos en los sitios en que trafica o en relación a tal venta.
+**CATEGORÍA**: Términos administrativos
+
+**TRAFICANTE AMBULANTE**: Cualquier persona que se dedique al negocio de venta o permuta de artículos y cuya característica sea que dicho negocio no tenga lugar fijo para su operación.
+**CATEGORÍA**: Términos administrativos
+
+**TRAFICANTE AUTORIZADO**: Cualquier persona que se dedique al negocio de compraventa de vehículos de motor en cantidades mayores a sus necesidades normales y que posea una licencia para tales fines.
+**CATEGORÍA**: Términos administrativos
+
+**TRAFICANTE IMPORTADOR AL POR MAYOR**: Comprende todos los comerciantes que se dediquen a la importación, introducción distribución y venta de espíritus destilados y bebidas alcohólicas en el área geográfica de Puerto Rico.
+**CATEGORÍA**: Términos administrativos
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Suelo Urbano Atípico
+- Suelos Residuales
+- Sumidero
+- Supermanzana
+- Supra-regional
+- Suspender
+- Sustitución Sencilla
+- Suvenir o “souvenir”
+- Tablero de Anuncios (“billboard”)
+- Tablero de Anuncios Digital
+- Tanque de Distribución de Acueductos
+- Tanque de Retención
+- Tanque Séptico
+- Tapia
+- Técnicamente factible
+- Tejadillo
+- Tejado
+- Terminación de un Eje Vial
+- Terminal de Distribución Telefónica Aéreo
+- Terreno
+- Terreno Desarrollable o Terreno Utilizable para Desarrollo
+- Terrenos Patrimoniales
+- Terrenos Privados
+- Terrenos Públicos
+- Terrenos Sumergidos
+- Terrenos Sumergidos Bajo Aguas Navegables
+- Tiempo Compartido (Time Sharing)
+- Tiempo de Concentración
+- Tiempo de Flujo
+- Tiempo de Poceto
+- Tiempo de Retardamiento
+- Tienda de Conveniencia
+- Tienda de Licores (Liguor Store)
+- Tienda de Mercancía General
+- Tienda de Variedades
+- Tienda libre de impuestos
+- Tiendas por Departamento
+- Tipo
+- Tipología
+- Toldo
+- Toma de Aguas Crudas
+- Toma primaria / Toma Secundaria
+- Topografía
+- Torre
+- Torre de Telecomunicaciones
+- Torre Meteorológica
+- Traficante
+- Traficante al detal o detallista
+- Traficante al por mayor o mayorista
+- Traficante ambulante
+- Traficante autorizado
+- Traficante importador al por mayor
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+- Términos de zonificación
+- Otros términos especializados
+
+=== REFERENCIAS CRUZADAS ===
+- Tiempo de Concentración y Tiempo de Retardamiento
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Zonificación**: Suelo Urbano Atípico
+- **Construcción**: Suelos Residuales, Sustitución Sencilla, Tablero de Anuncios, Tablero de
+
+=== FRAGMENTO 11 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**TÉRMINO**: Transacción Pública
+**DEFINICIÓN**: Adquisición, venta, permuta, cesión gratuita o arrendamiento de terrenos o estructuras entre organismos gubernamentales o entre organismos gubernamentales y el sector privado.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Transferencia
+**DEFINICIÓN**: Acción que permite una modificación en el permiso, a los fines de sustituir un dueño u operador por otro, que ha consentido ante la OGPe tal acto.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Traslado de Estructuras
+**DEFINICIÓN**: Relocalización de una estructura a otra ubicación diferente a su localización original, que puede ser en el mismo solar.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Trasplante
+**DEFINICIÓN**: Trasladar árboles o arbustos del sitio en que están arraigados y plantarlos en otro lugar.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Tribuna
+**DEFINICIÓN**: Saliente de fachada en voladizo, de planta rectangular, poligonal o circular, cerrada por paredes formadas principalmente por cristales o persianas, que puede abarcar uno o varios pisos.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Tribunal de Primera Instancia
+**DEFINICIÓN**: Tribunal de Primera Instancia del Tribunal General de Justicia del Estado Libre Asociado de Puerto Rico.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Tribunal Supremo
+**DEFINICIÓN**: Tribunal Supremo del Estado Libre Asociado de Puerto Rico.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Tuberías de Alcantarillado Sanitario
+**DEFINICIÓN**: Sistema de tuberías, consistente de acometidas, cloacas, ramales y colectoras, que transportan las aguas usadas.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Turbidez Nefelométrica
+**DEFINICIÓN**: Unidad que se utiliza para medir la claridad del agua de una piscina.
+**CATEGORÍA**: Términos técnicos
+
+**TÉRMINO**: Turismo
+**DEFINICIÓN**: Comprende las actividades que realizan las personas (turistas) durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un periodo de tiempo consecutivo inferior a un (1) año, con fines de ocio, recreación, negocios u otros motivos.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Turismo Cultural
+**DEFINICIÓN**: El conjunto de actividades dirigidas para dar a conocer, preservar y disfrutar del patrimonio cultural, arquitectónico, natural y turístico de cada país. No solo es motor económico de los pueblos, sino también preservado de los valores y del patrimonio cultural de las naciones, desde una perspectiva que garantice el respeto y la conservación de los mismos a través de un mayor conocimiento entre los turistas, y de intercambios interculturales fructíferos que contribuyen al desarrollo económico, social y cultural de los pueblos.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Turismo Médico
+**DEFINICIÓN**: Todo viaje realizado por pacientes de otras jurisdicciones hacia Puerto Rico con el propósito de obtener cuidado y tratamiento médico en o a través de instalaciones de salud o instalaciones médicas debidamente certificadas y acreditadas para operar y ser proveedores de servicios de salud en Puerto Rico.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Turismo Náutico
+**DEFINICIÓN**: El conjunto de servicios a ser rendidos en contacto con el agua a turistas náuticos, los cuales incluyen, pero sin limitarse a: el arrendamiento o flete a turistas de embarcaciones de turismo náutico para el ocio, recreación o para fines educativos por turistas incluyendo excursiones; el arrendamiento de embarcaciones pequeñas, motoras acuáticas, kayaks, botes de vela u otras embarcaciones similares, motorizadas o no, a huéspedes de un hotel, condohotel, régimen de derecho de multipropiedad o club vacacional, o en una marina turística o en áreas cercanas a los lugares antes mencionados según disponga la Compañía de Turismo por reglamento; y la operación de un programa integrado de arrendamiento de embarcaciones.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Unidad Agrícola
+**DEFINICIÓN**: Área de terrenos que consiste de una o más fincas o porciones de fincas (no necesariamente contiguas), que funciona como una unidad operacional, así como las estructuras y usos necesarios incidentales a la misma.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Unidad de Alojamiento
+**DEFINICIÓN**: Habitación o conjunto de habitaciones que tienen un acceso común (llaves) de una hospedería.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Unidad de Inspección Independiente
+**DEFINICIÓN**: Un inspector o un grupo de técnicos dirigidos por un inspector que sea directamente responsable al director o jefe del organismo gubernamental que auspicia un proyecto de construcción.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Unidad de Refrigeración
+**DEFINICIÓN**: Ventilador eléctrico que enfría el generador. Puede contener una unidad refrigerante por aceite o por agua, que se usa para enfriar el propio aceite del multiplicador.
+**CATEGORÍA**: Términos técnicos
+
+**TÉRMINO**: Unidad de Vivienda
+**DEFINICIÓN**: Aquella vivienda de nueva construcción o propiedad de nueva construcción, apta para la convivencia familiar, que provea facilidades de vivienda con instalaciones independientes y completas para vivir, dormir, comer, cocinar y el saneamiento para una o más personas o una familia, que reúna los requisitos de construcción aplicables, y que cuente con los endosos, aprobaciones y permisos exigidos por ley o reglamentos aplicables.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Unidad de Vivienda Básica
+**DEFINICIÓN**: Concepto que se utiliza en las casas de apartamentos para obtener un nuevo cálculo para la densidad permitida en un solar a base del número de habitaciones de cada unidad de vivienda. Una unidad de vivienda básica se compone de una vivienda de tres (3) dormitorios.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Urbanización
+**DEFINICIÓN**: Toda segregación, división o subdivisión de un predio de terreno que, por las obras a realizarse para la formación de solares, no esté comprendida en el término “lotificación simple”, según se define en este Código, e incluirá, además, el desarrollo de cualquier predio de terreno para la construcción de cualquier edificio o edificios de once (11) o más viviendas; el desarrollo de instalaciones de usos comerciales, industriales, institucionales o recreativos que excedan dos mil (2,000) metros cuadrados de construcción o el desarrollo de instalaciones en terrenos que excedan cuatro mil (4,000) metros cuadrados. Toda segregación, división o subdivisión de un predio de terreno que, por las obras a realizarse para la formación de solares, no esté comprendida en el término urbanización vía excepción, e incluirá, además, el desarrollo de cualquier predio de terreno para la construcción de cualquier edificio o edificios de tres (3) o más viviendas; el desarrollo de instalaciones de usos comerciales, industriales, institucionales o recreativos que excedan dos mil (2,000) metros cuadrados de construcción o el desarrollo de instalaciones en terrenos que excedan cuatro mil (4,000) metros cuadrados.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Urbanización Aislada
+**DEFINICIÓN**: Desarrollos de terrenos, construidos fuera de los límites de expansión urbana adoptados por la Junta de Planificación, que constituye un área urbanizada donde no se vislumbra en un tiempo razonable desarrollo de urbanizaciones adicionales para formar un nuevo vecindario comunidad o aldea.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Urbanización Vía Excepción
+**DEFINICIÓN**: Aquella segregación en la cual ya estén construidas todas las obras de urbanización, o que éstas resulten ser muy sencillas, y que la misma no exceda de tres (3) solares o fincas, tomándose en consideración para el cómputo de los tres (3) solares o fincas la subdivisión de los predios originalmente formados y el remanente de la finca matriz o predio original, según la Ley Núm. 116 de 29 de junio de 1964, según surja de la certificación registral correspondiente. Cualquier segregación subsiguiente del remanente del predio original tendrá que cumplir con los requisitos aplicables a la urbanización de terrenos.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Uso
+**DEFINICIÓN**: El propósito para el cual una pertenencia fue diseñada, es ocupada, usada o se pretende usar u ocupar.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Accesorio
+**DEFINICIÓN**: Cualquier uso estrechamente relacionado o complementario al uso principal que se da a la pertenencia o propiedad.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Agrícola
+**DEFINICIÓN**: Uso perteneciente a la actividad agrícola.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Agroindustrial
+**DEFINICIÓN**: Actividad de manufactura cuya materia prima proviene directamente de la producción agrícola, donde se añade valor a los productos obtenidos de la agricultura, tales como: pasteurización de leche y elaboración de productos derivados, matanza, procesamiento y empaque de pollo, procesamiento y empaque de café, confección de sofrito.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Artesanal
+**DEFINICIÓN**: Uso relacionado con la manufactura y venta de artefactos creados con herramientas manuales o maquinaria eléctrica instalada en una mesa y que no produce olores o ruidos que sean perceptibles desde la acera o solar vecino.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Cívico
+**DEFINICIÓN**: Actividades comunales, públicas o privadas, tales como: pero sin limitarse a teatros, centros comunales y centros culturales.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Comercial
+**DEFINICIÓN**: Actividad relacionada a la venta de mercancía o a la venta o prestación de servicios.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Cultural
+**DEFINICIÓN**: Actividad que fomenta el conocimiento del modo de vida, costumbres, desarrollo artístico, científico, industrial, entre otras, de un grupo social.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso de Pequeña Industria
+**DEFINICIÓN**: Uso empleado en la manufactura de materiales previamente confeccionados, partes o productos terminados, incluyendo el procesamiento, fabricación, montaje, tratamiento, empaquetamiento, almacenaje incidental, venta y distribución de tales productos, excluyendo el procesamiento industrial básico y donde los efectos de la operación no trascienden el ámbito de la instalación.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso del Suelo
+**DEFINICIÓN**: Finalidad o utilidad a que se destine o dedique un terreno y con relación a los Planes de Ordenación, este término abarcará tanto el uso del suelo como también, las características de las estructuras y del espacio entre éstas, sea público o privado.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Dotacional
+**DEFINICIÓN**: Toda instalación física para proveer a una comunidad de los servicios básicos para su desenvolvimiento y bienestar general. Estas instalaciones podrán comprender, entre otras, establecimientos, planteles o instalaciones educativas, culturales, recreativas, deportivas, de salud, seguridad, transporte, mantenimiento de los asentamientos, recogido de desperdicios sólidos y limpieza de vías públicas, así como de servicios de infraestructura, tales como: agua, alcantarillado, red vial, teléfono y electricidad. De estos usos dotacionales se distinguen los que atienden las necesidades del municipio en general y que se identifican como dotaciones generales.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso General
+**DEFINICIÓN**: Aquél que se da mayoritariamente en su área, sin que ello quiera decir que no puedan existir otros usos secundarios o complementarios del principal. Los usos generales se dividen en usos dotacionales y en usos particulares, estos últimos se dividen en residencial, industrial y comercial.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Industrial Liviano
+**DEFINICIÓN**: Uso relacionado a la reparación, ensamblaje, o fabricación de artefactos, y que no produce contaminación atmosférica, ni olores o ruidos nocivos fuera de los límites del solar.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Institucional
+**DEFINICIÓN**: Actividades comunales, públicas o privadas, tales como: pero sin limitarse a bibliotecas, actividades docentes, instalaciones médico hospitalarias y de salud, asistencia a personas necesitadas, servicios al público en general, tales como oficinas de la Autoridad de Acueductos y Alcantarillados y Autoridad de Energía Eléctrica.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso No Conforme
+**DEFINICIÓN**: Ver No conforme.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso No Conforme Legal
+**DEFINICIÓN**: Ocupación o uso de una pertenencia que no está en armonía con las disposiciones reglamentarias pero que existía legalmente en esa situación a la fecha de vigencia de este Reglamento.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Principal
+**DEFINICIÓN**: Uso predominante a que se dedica la finca, el solar o edificio principal, el cual debe corresponder a uno de los usos permitidos en el distrito de zonificación en que radica la pertenencia.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Público
+**DEFINICIÓN**: Uso relacionado a actividades o servicios de agencias de gobierno estatales o municipales.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Recreativo
+**DEFINICIÓN**: Uso relacionado a actividades turísticas, deportivas, culturales, eventos y aquellas relacionadas con espacios naturales y las de puro esparcimiento.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Uso Residencial
+**DEFINICIÓN**: Uso relacionado al alojamiento permanente o temporero de personas.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Usuario de Descarga a Granel
+**DEFINICIÓN**: Un usuario que descarga en una operación de tratamiento por medio de un acarreador, por medio de camiones, tanques, bombas de succión, tanques particulares, contenedores o cualquier otro medio.
+**CATEGORÍA**: Términos técnicos
+
+**TÉRMINO**: Usuario Significativo
+**DEFINICIÓN**: Usuario que descarga aguas residuales no domésticas al sistema de la AAA que es: a. Un usuario sujeto a una Norma Nacional Categórica de Pretratamiento; o b. Un usuario que: [definición incompleta en el texto proporcionado].
+**CATEGORÍA**: Términos técnicos
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Transacción Pública
+- Transferencia
+- Traslado de Estructuras
+- Trasplante
+- Tribuna
+- Tribunal de Primera Instancia
+- Tribunal Supremo
+- Tuberías de Alcantarillado Sanitario
+- Turbidez Nefelométrica
+- Turismo
+- Turismo Cultural
+- Turismo Médico
+- Turismo Náutico
+- Unidad Agrícola
+- Unidad de Alojamiento
+- Unidad de Inspección Independiente
+- Unidad de Refrigeración
+- Unidad de Vivienda
+- Unidad de Vivienda Básica
+- Urbanización
+- Urbanización Aislada
+- Urbanización Vía Excepción
+- Uso
+- Uso Accesorio
+- Uso Agrícola
+- Uso Agroindustrial
+- Uso Artesanal
+- Uso Cívico
+- Uso Comercial
+- Uso Cultural
+- Uso de Pequeña Industria
+- Uso del Suelo
+- Uso Dotacional
+- Uso General
+- Uso Industrial Liviano
+- Uso Institucional
+- Uso No Conforme
+- Uso No Conforme Legal
+- Uso Principal
+- Uso Público
+- Uso Recreativo
+- Uso Residencial
+- Usuario de Descarga a Granel
+
+=== FRAGMENTO 12 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**Utensilios y Equipo**: Instrumentos utilizados en la elaboración o producción de hielo o de cualquier otro alimento para consumo humano y que entran en contacto con dicho alimento.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Valor Ambiental**: Valor de edificios y otras estructuras que se asocia a la fachada o elementos visibles desde la vía pública por su singularidad, carácter tradicional o por su notable articulación morfológica con el entorno y que contribuye sensiblemente a conformar determinado ambiente urbano o rústico, de especial belleza o sentido ambiental, siendo de interés público su presencia en el escenario urbano o en el paisaje a fin de preservar esas características ambientales del valor ambiental escénico o del paisaje natural.
+**CATEGORÍA**: Términos ambientales
+
+**Valor Arqueológico**: Valor que se asocia al lugar cuando se relaciona con méritos prehistóricos, históricos o culturales mediante el estudio y análisis del material recuperado en el predio.
+**CATEGORÍA**: Términos de planificación
+
+**Valor Arquitectónico**: Valor que se asocia a los edificios y otras estructuras cuando se relacionan con méritos arquitectónicos o artísticos que le hacen dignos de continuidad por la trascendencia que se le atribuye.
+**CATEGORÍA**: Términos de planificación
+
+**Valor Cultural**: Todo lo que expresa el cultivo de las tradiciones, conocimientos humanos y el ejercicio de su identidad, prácticas y comportamientos colectivos o sociales que han pervivido tras generaciones.
+**CATEGORÍA**: Términos de planificación
+
+**Valor de la Obra**: Costo total de la ejecución de cada parte del conjunto de la obra en que incurre el dueño de la obra. Incluye los costos directos de todos los contratos y las partidas de construcción necesarias para conferirse a la obra su uso particular, ya sean compradas o suministradas por el dueño de la obra, tomando como criterio el valor real en el mercado de cada partida. Se excluyen los honorarios y otros costos por concepto de servicios profesionales, el costo por adquisición de terrenos y servidumbres de paso, y los gastos administrativos y financiamiento.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Valor Histórico**: Valor que se asocia a los lugares, edificios y otras estructuras cuando cuentan con cincuenta (50) años de edad o más y cuando se relacionan con un suceso o personalidad pasada de relevancia que le hacen dignos de continuidad por la trascendencia que se le atribuye, incluye todas aquellas composiciones urbanas o estructuras que hacen que pueda seguir existiendo un firme vínculo de continuidad cultural e histórica entre el presente y el pasado.
+**CATEGORÍA**: Términos de planificación
+
+**Valor Justo en el Mercado**: Cantidad de dinero que un comprador dispuesto a comprar le pagaría a un vendedor dispuesto a vender por una parcela de terreno, sin que ninguna de las partes tenga la obligación de comprar o vender.
+**CATEGORÍA**: Términos legales
+
+**Valor Monumental**: Aquellos edificios, estructuras u objetos de gran valor arquitectónico e histórico que componen los hitos más significativos de la ciudad o de su entorno los cuales colaboran a dotarlo de identidad propia.
+**CATEGORÍA**: Términos de planificación
+
+**Valoración**: Enjuiciamiento sobre el tipo de valor histórico o arquitectónico de un Sitio Histórico o una Propiedad Elegible en una Zona Histórica que se hace a base de los criterios establecidos por la Junta de Planificación y el Instituto de Cultura Puertorriqueña.
+**CATEGORÍA**: Términos de planificación
+
+**Válvula de Acueductos**: Instrumento que se utiliza para aislar los circuitos en que se dividen las líneas de distribución de agua potable o para reducir el flujo.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Vano**: Hueco de un muro o pared o parte de ésta. Parte del muro en que no hay apoyo para el techo o la bóveda, tales como los huecos de ventanas y puertas.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Variación de Construcción o de Instalación de Rótulos y Anuncios**: Autorización que se concede para la construcción de una estructura o parte de esta, o a la instalación de rótulos o anuncios, que no satisfaga los reglamentos y planos de ordenación establecidos, pero que, debido a la condición del solar, la ubicación especial o el uso particular confronte una dificultad práctica y amerite una consideración especial, garantizándole que no exista perjuicio a las propiedades vecinas. La variación no podrá afectar las características propias de un distrito y no podrá tener el efecto de convertir un distrito en otro.
+**CATEGORÍA**: Términos de zonificación
+
+**Variación en Uso**: Autorización para utilizar una propiedad para un uso no permitido por las restricciones impuestas a una zona o distrito y que se concede para evitar perjuicios a una propiedad donde, debido a circunstancias extraordinarias, la aplicación estricta de la reglamentación equivaldría a una confiscación de la propiedad; que se concede por la necesidad reconocida o apremiante de algún uso por una comunidad debido a las circunstancias particulares de dicha comunidad que no puede ser satisfecha si no se concede dicha variación; o que se concede para satisfacer una necesidad pública de carácter inaplazable.
+**CATEGORÍA**: Términos de zonificación
+
+**Variaciones**: En estos casos la variación no va dirigida a alterar el uso, sino a dispensar al propietario del cumplimiento de uno o más de los requisitos que establece este reglamento para la zona donde radica el inmueble. Una persona que solicita una variación según este apartado, al contrario de aquel que invoca la variación en uso, desea seguir utilizando la propiedad para el uso permitido, pero necesita que se le exima de uno de los requisitos de calificación para asegurar la viabilidad del uso permitido.
+**CATEGORÍA**: Términos de zonificación
+
+**Vehículo**: Todo artefacto en el cual o por medio del cual cualquier persona o propiedad es o puede ser transportada o llevada por una vía pública.
+**CATEGORÍA**: Términos legales
+
+**Vehículo de motor**: Todo vehículo movido por fuerza propia que utilice las vías públicas de Puerto Rico según definido por la Ley Núm. 22 de Vehículos y Tránsito.
+**CATEGORÍA**: Términos legales
+
+**Vehículo Recreativo**: Vehículo de 400 pies cuadrados o menos, cuando es medido en sus proyecciones horizontales más grandes; construido en un solo armazón, diseñado para moverse por sí mismo o arrastrarle permanentemente por un camión liviano y diseñado principalmente para recreación, acampar o viajar.
+**CATEGORÍA**: Términos legales
+
+**Veleta**: Aparato para comprobar la dirección del viento.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Velocidad Crítica**: La velocidad correspondiente para determinado caudal, determinada forma de canal, a la profundidad crítica.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Vendedor Ambulante**: Persona, natural o jurídica, que opere o explote un negocio ambulante de su propiedad o como empleado, agente, arrendatario, concesionario, usufructuario o bajo cualquier otra forma.
+**CATEGORÍA**: Términos legales
+
+**Vendedor de vehículos de motor al detal (dealer)**: Traficante autorizado que se dedique a la venta de vehículos de motor al detal al público consumidor. También incluye aquellos traficantes autorizados que representan a un distribuidor en Puerto Rico y que venden al detal vehículos de ese distribuidor a quien representan.
+**CATEGORÍA**: Términos legales
+
+**Veneno Comercial**: Incluirá toda substancia o mezcla de substancia para aplicación en el ambiente y preparada para contrarrestar, destruir, repeler o mitigar la acción de cualquier vector, insecto, parásito o agente biológico potencialmente nocivo a las personas, animales o plantas incluye, entre otros, insecticidas, larvicidas, ovicidas, fungicidas, rodenticidas y herbicidas.
+**CATEGORÍA**: Términos ambientales
+
+**Veneno de uso restringido**: Cualquier veneno comercial clasificado bajo las disposiciones de la Ley 132 de 28 de junio de 1966, según enmendada y este Reglamento, o clasificado así por el Administrado de la Agencia de Protección Ambiental de los Estados Unidos, para uso exclusivo de aplicadores certificados o individuos trabajando bajo la supervisión directa de aplicadores certificados.
+**CATEGORÍA**: Términos ambientales
+
+**Venta**: Significa aquellas operaciones llevadas a cabo por toda industria o negocio mediante la cual se transfiere a dominio ajeno una cosa propia por un precio pactado.
+**CATEGORÍA**: Términos legales
+
+**Venta al Detal**: Transacción de compra y venta de bienes y servicios directamente al consumidor.
+**CATEGORÍA**: Términos legales
+
+**Ventanaje**: Conjunto de ventanas del edificio que establece la disposición y las proporciones en la relación vano/macizo o hueco/muro.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Verde**: Calificativo para acciones que son responsables al ambiente, que fomentan un desarrollo económico y social beneficioso para una mejor calidad de vida de las generaciones actuales y futuras.
+**CATEGORÍA**: Términos ambientales
+
+**Verja**: Cerca alta con área semi-sólida.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Verja de Fachada**: Cerca alta con base, pilastras de hormigón o mampostería, y área semi-sólida en metal, hormigón o bloque ornamental.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**Veterinario**: Profesional licenciado y colegiado, autorizado para ejercer como Médico Veterinario en Puerto Rico.
+**CATEGORÍA**: Términos legales
+
+**Vía de Libre Acceso**: Vías donde se permite, bajo determinada reglamentación, el libre acceso de vehículos y peatones desde las propiedades colindantes.
+**CATEGORÍA**: Términos de zonificación
+
+**Vía Pública**: Significará cualquier carretera, avenida, calle, camino, paseos, zaguanes, pasos para peatones, callejones, aceras y otros similares de uso público, ya sean municipales o estatales, excluyendo autopistas y carreteras expresos; y toda carretera, calle, callejón, puente, pavimento y suelo, residencial, conector, arteria, servidumbre u otro derecho de paso dentro del territorio municipal, pero bajo la jurisdicción y mando de una entidad gubernamental diferente al municipio.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías**: Veredas, sendas, callejones, paseos, caminos, calles, carreteras, viaductos, puentes, avenidas, bulevares, autopistas o cualquier otro acceso público o parte del mismo, utilizado por peatones o vehículos.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías Arteriales**: Las autopistas y carreteras, destinadas al tránsito rápido vehicular de comunicación interregional o de interconexión entre expresos, acceso a zonas portuarias, industriales o recreativas, establecida por la Junta de Planificación, mediante resolución al efecto.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías de Acceso Controlado**: Son vías de acceso total o parcialmente controlado, utilizadas principalmente para circulación vehicular, con múltiples carriles de rodaje, intersecciones mayormente a desnivel, de velocidad y continuidad considerables, que conectan distintas áreas urbanas o atraviesan un área urbana particular, permitiendo el movimiento rápido de vehículos entre sectores de esta área urbana. Se considerará como tales las vías que se identifican como Expresos, Autopistas, Autopistas de Peaje y Arteriales en los Planes de Usos de Terrenos, Mapas de Expansión Urbana, Planes de Ordenación Territorial o en el Mapa Oficial o aquellas que se definan como tales, por Resolución de la Junta de Planificación.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías de Sección Especial**: Vías con características particulares.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías NHS**: Vías públicas que forman parte del National Highway System, según la Federal Highway Administration.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías Privadas**: Vías operadas, conservadas o mantenidas por un Consejo, Asociación o Junta de Residentes, para beneficio de una urbanización u otra comunidad, sin que se utilicen fondos estatales o municipales para ello.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías Rurales**: Vías sin control de acceso localizadas en área rural. Se considerará como tales, las vías que se identifican como: carreteras estatales, carreteras municipales y vías rurales de sección especial (incluyendo rutas panorámicas) en los documentos de la Junta de Planificación o del Departamento de Transportación y Obras Públicas.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías Urbanas**: Vías que ocurren dentro del área urbana y que son normalmente propias para la circulación peatonal y vehicular.
+**CATEGORÍA**: Términos de zonificación
+
+**Vías Urbanas Primarias**: Vías de considerable continuidad dentro del área urbana que conectan de modo...
+**CATEGORÍA**: Términos de zonificación
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Utensilios y Equipo
+- Valor Ambiental
+- Valor Arqueológico
+- Valor Arquitectónico
+- Valor Cultural
+- Valor de la Obra
+- Valor Histórico
+- Valor Justo en el Mercado
+- Valor Monumental
+- Valoración
+- Válvula de Acueductos
+- Vano
+- Variación de Construcción o de Instalación de Rótulos y Anuncios
+- Variación en Uso
+- Variaciones
+- Vehículo
+- Vehículo de motor
+- Vehículo Recreativo
+- Veleta
+- Velocidad Crítica
+- Vendedor Ambulante
+- Vendedor de vehículos de motor al detal (dealer)
+- Veneno Comercial
+- Veneno de uso restringido
+- Venta
+- Venta al Detal
+- Ventanaje
+- Verde
+- Verja
+- Verja de Fachada
+- Veterinario
+- Vía de Libre Acceso
+- Vía Pública
+- Vías
+- Vías Arteriales
+- Vías de Acceso Controlado
+- Vías de Sección Especial
+- Vías NHS
+- Vías Privadas
+- Vías Rurales
+- Vías Urbanas
+- Vías Urbanas Primarias
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos ambientales
+- Términos de zonificación
+
+=== REFERENCIAS CRUZADAS ===
+- Vehículo, Vehículo de motor, Vehículo Recreativo
+- Valor Ambiental, Valor Arqueológico, Valor Arquitectónico, Valor Cultural, Valor Histórico, Valor Monumental
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Construcción**: Utensilios y Equipo, Válvula de Acueductos, Vano, Veleta, Ventanaje, Verja, Verja de Fachada
+- **Planificación y Zonificación**: Valor Ambiental, Valor Arqueológico, Valor Arquitectónico, Valor Cultural, Valor Histórico, Valor Monumental, Valoración, Variación de Construcción o de Instalación de Rótulos y Anuncios, Variación en Uso, Variaciones, Vía de Libre Acceso, Vía Pública, Vías, Vías Arteriales, Vías de Acceso Controlado, Vías de Sección Especial, Vías NHS, Vías Privadas, Vías Rurales, Vías Urbanas, Vías Urbanas Primarias
+- **Legales**: Valor Justo en el Mercado, Vehículo, Vehículo de motor, Vendedor Ambulante, Vendedor de vehículos de motor al detal (dealer), Venta, Venta al Detal, Veterinario
+- **Ambientales**: Verde, Veneno Comercial, Veneno de uso restringido
+
+=== FRAGMENTO 13 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**TÉRMINO**: Vías Urbanas Secundarias
+**DEFINICIÓN**: Vías urbanas con áreas de rodaje más limitadas que las vías urbanas primarias, cuya función primordial es proveer el acceso vehicular o peatonal a propiedades dentro de un barrio o sector del área urbana. La categoría incluye calles marginales, calles locales, Calles sin Salida, Callejones, Senderos y Calle de Sección Especial.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Vicepresidente
+**DEFINICIÓN**: Es un funcionario de carrera o de facto del Gobierno, o un hombre de negocios, que está debajo del presidente en la jerarquía organizacional. En el caso de la Junta de Planificación de Puerto Rico, el vicepresidente es un Miembro Asociado de la Junta, designado por el Presidente, el cual en casos de ausencia temporal o vacante en la presidencia o cuando el Presidente así lo determine, actuará como Presidente Interino. En caso de producirse simultáneamente vacantes o ausencias temporales en los cargos de Presidente y Vicepresidente, otro Miembro Asociado actuará como Presidente Interino.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Vida Silvestre
+**DEFINICIÓN**: Incluye cualquier organismo cuya propagación o supervivencia natural no dependa del celo, cuidado o cultivo del ser humano y se encuentre en estado silvestre; ya sea nativa o adaptada en Puerto Rico; o cualquier especie migratoria que visite Puerto Rico en cualquier época del año, así como también las especies exóticas según define la Ley de Vida Silvestre. Disponiéndose que esta definición incluye, pero no se limita a aves, reptiles terrestres o acuáticos, anfibios, invertebrados terrestres o plantas, así como cualquier parte, producto, nido, huevo, cría, flor, semilla, hoja, su cuerpo o parte de este.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Vigencia
+**DEFINICIÓN**: Se refiere al término de tiempo autorizado por el permiso, para llevar a cabo las actividades cubiertas bajo este Reglamento.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Vigilante
+**DEFINICIÓN**: Aquella persona que es miembro bonafide u honorario del Cuerpo de Vigilantes del Departamento de Recursos Naturales y Ambientales. También lo serán, por Reglamento, los miembros de la Policía de Puerto Rico, los Guardias Municipales, Defensa Civil y grupos ambientalistas.
+**CATEGORÍA**: Términos administrativos
+
+**TÉRMINO**: Villa Turística
+**DEFINICIÓN**: Cualquier tipo de edificación que cuenta con cocina, sala, instalaciones sanitarias y al menos un dormitorio. Tendrá un mínimo de seis (6) unidades de alojamiento (llaves) y proveerá servicios al huésped según las regulaciones de la Compañía de Turismo.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Vino
+**DEFINICIÓN**: Es el producto de la fermentación alcohólica normal del jugo de la uva fresca, o de las pasas, o de los jugos y derivados de otras frutas (con la excepción de las frutas tropicales) y productos agrícolas, incluyendo el champaña y vinos espumosos, carbonatados o fortificados.
+**CATEGORÍA**: Términos técnicos
+
+**TÉRMINO**: Vino de frutas tropicales
+**DEFINICIÓN**: Es el producto de la fermentación alcohólica normal del jugo de las frutas citrosas, piña, acerola, tomate, grosella, parcha y de la maceración de guayaba, mangó, guineo, papaya, guanábanas y de otras frutas de las que comúnmente se producen en la zona tropical y cuyo contenido alcohólico no exceda de 24 por ciento de alcohol por volumen (48 grados prueba). Este producto puede ofrecerse bien en forma simple o carbonatado.
+**CATEGORÍA**: Términos técnicos
+
+**TÉRMINO**: Violación
+**DEFINICIÓN**: Incumplimiento con las disposiciones reglamentarias.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Vista Administrativa
+**DEFINICIÓN**: Vista ordenada para oír a partes interesadas, reconocidas de antemano, sobre un asunto en particular. Esta vista está abierta al público en general, a menos que una parte someta una solicitud escrita, debidamente fundamentada, para que la vista sea privada y así lo autorice el Oficial Examinador.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Vista Pública
+**DEFINICIÓN**: Vista para considerar consultas de ubicación u otras acciones adjudicativas o cuasi legislativas, en todos los casos que se disponga por ley o reglamentación, o para aquellos casos en que así se estime pertinente, en la cual se permitirá la participación a cualquier persona interesada y que solicite expresarse sobre el asunto en consideración.
+**CATEGORÍA**: Términos legales
+
+**TÉRMINO**: Vivienda
+**DEFINICIÓN**: Edificación con instalaciones mínimas (cocina, servicio sanitario y dormitorio) para ser habitada por seres humanos.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Vivienda de Interés Social
+**DEFINICIÓN**: Unidad de vivienda para aquellas familias que, por sus características de ingresos, están impedidas o no cualifican para adquirir o gestionar una vivienda en el sector privado formal. Tipo de vivienda según definido en la Ley Núm. 47 de 26 de junio de 1987, según enmendada, conocida como “Ley de Coparticipación del Sector Público y Privado para la Nueva Operación de la Vivienda”.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Vivienda Pública
+**DEFINICIÓN**: Se refiere a un edificio o parte del mismo, proporcionado por el gobierno estatal, federal o municipal, para una familia o individuo.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Voladizo
+**DEFINICIÓN**: Elemento estructural u ornamental, con rasgos arquitectónicos, que sale de lo macizo en las paredes o edificios, tales como cornisas, aleros, tejados y balcones abiertos, entre otros.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Vulnerabilidad
+**DEFINICIÓN**: Capacidad disminuida de una persona o un grupo de personas para anticiparse, hacer frente y resistir a los efectos de un peligro natural o causado por la actividad humana, y para recuperarse de los mismos.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Yacimiento Arqueológico
+**DEFINICIÓN**: Propiedad o lugar digno de conservación donde se ubica o ha ubicado un evento significativo, una actividad u ocupación prehistórica o histórica donde en sí posee valor histórico o cultural dado la concentración de material arqueológico.
+**CATEGORÍA**: Términos de planificación
+
+**TÉRMINO**: Zaguán
+**DEFINICIÓN**: Espacio de una edificación inmediata a la puerta de entrada desde la vía pública y que comunica con espacios semi-públicos o de circulación vertical al interior de la propiedad.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Zanja de Reboso
+**DEFINICIÓN**: Zanja alrededor del perímetro interior de una piscina, que contiene drenajes para limpiar la superficie del agua.
+**CATEGORÍA**: Términos técnicos de construcción
+
+**TÉRMINO**: Zona
+**DEFINICIÓN**: Área designada por la Junta de Planificación y aprobada por el Gobernador de Puerto Rico, con un determinado propósito y que puede abarcar otras zonas, así como uno o más distritos de calificación.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona Cárstica
+**DEFINICIÓN**: Extensiones de terreno ubicadas en el norte como franja continua, en el sur como faja discontinua, las islas de Mona, Monito, parte de Caja de Muertos y afloramientos aislados en otras partes de la isla. Esta zona se caracteriza por una geología compuesta de rocas sedimentarias calcáreas, principalmente calizas. Posee una gran susceptibilidad a la disolución mediante el flujo de aguas superficiales y subterráneas para formar una fisiografía especial, negativa (depresiones), positivas (superficial) y subterránea.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Zona Costanera
+**DEFINICIÓN**: Franja de terreno costanero y las aguas adyacentes a Puerto Rico y de las islas dentro de su jurisdicción, delimitada por el Departamento de Recursos Naturales y Ambientales, aprobada por la Junta de Planificación y el Gobernador de Puerto Rico, que se extiende mil (1,000) metros lineales tierra adentro desde la línea de la costa y además, distancias adicionales, hasta donde sea necesario para asegurar que se incluyan los sistemas naturales claves de la costa, así como las aguas y el suelo oceánico o marítimo que se extiende tres (3) leguas marinas (10.35 millas terrestres) aguas adentro.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Zona de Aeropuerto
+**DEFINICIÓN**: Zona comprendida por la propiedad, las superficies de acercamiento a la pista y el espacio aéreo asociado a un aeropuerto incluirá toda el área comprendida en un radio de superficie de 20,000 pies lineales alrededor de una pista de aterrizaje en Puerto Rico medida desde cualquier punto en la orilla del pavimento de la pista.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona de Amortiguamiento
+**DEFINICIÓN**: Son aquellas áreas adyacentes a los límites de las áreas ecológicamente sensibles y protegidas que conforman espacios de transición entre las zonas protegidas y el entorno. Su ubicación estratégica obliga a que sean manejadas de tal manera que garanticen el cumplimiento de los objetivos de las áreas naturales protegidas. En el caso de los Valles Agrícolas, es la franja de terreno que ubica dentro de la delimitación de la Reserva Agrícola para proteger tanto el uso agrícola de los terrenos como para proteger recursos dentro de la Reserva que requieren ser protegidos o para proteger el uso no agrícola ya establecido.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Zona de Interés Turístico
+**DEFINICIÓN**: Cualquier área de Puerto Rico que disponga como parte integrante de su ubicación geográfica o dentro de las inmediaciones de su localización, una serie de atractivos naturales y artificiales que estén actualmente desarrollados o que tengan un potencial turístico, tales como: playas, lagos, bahías, proyectos agrícolas, lugares históricos, estructuras o ambientes de valor histórico o arquitectónico y parajes de gran belleza natural, dentro de la cual las estructuras, belleza natural y otros elementos son de básica y vital importancia para el desarrollo del turismo en Puerto Rico y que haya sido designada mediante resolución al efecto por la Junta de Planificación en coordinación con la Compañía de Turismo conforme a la Ley Núm. 374 de 14 de mayo de 1949, según enmendada. En una zona de interés turístico se podrían encontrar uno o más distritos de zonificación o calificación. Todo proyecto u obra dentro de una zona de interés turístico deberá contar con la recomendación de la Compañía de Turismo.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona de Ordenación
+**DEFINICIÓN**: Cada una de las demarcaciones espaciales en las cuales se subdivide un territorio junto a las normativas especiales para cada zona que ordenan los usos o estructuras permitidas.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona de Ordenamiento
+**DEFINICIÓN**: Cada una de las demarcaciones espaciales en las cuales se subdivide un territorio para delimitar la aplicación de las Normas Especiales de Ordenamiento de un sitio o Zona Histórica particular. Puede incluir zonas de uso o de parámetros de edificación.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona de Turismo Gastronómico (ZTG)
+**DEFINICIÓN**: Delimitación geográfica de una zona gastronómica de valor turístico, escénico, histórico, cultural o natural, donde ubica una concentración de establecimientos de venta de alimentos tales como: comida, bebida y productos agrícolas, entre otros, que es reconocido por el público o turistas como un destino gastronómico popular o de importancia. La ZTG será delimitada y designada por la JP, en coordinación con la Compañía de Turismo de Puerto Rico mediante los requisitos de elegibilidad establecidos.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona Escolar
+**DEFINICIÓN**: El área física que ocupa un núcleo escolar y el que la rodea, según designada y demarcada por la Junta de Planificación, que reúne unas características especiales de silencio, seguridad, neutralidad y orden en las horas de actividad escolar, que propenden aportar el desarrollo adecuado de los estudiantes. La zona escolar abarcará una distancia de cien (100) metros lineales a calcularse desde los accesos hábiles a los predios de la escuela en todas las direcciones de la vía pública, incluyendo las calles transversales o laterales, y doscientos (200) metros radiales desde los límites del predio de la escuela para usos que puedan afectar adversamente el desarrollo de la actividad escolar o la salud, bienestar y seguridad de los usuarios del plantel escolar.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona Histórica
+**DEFINICIÓN**: Un conjunto de más de un sitio histórico digno de ser conservado, designado como tal por la Junta de Planificación de Puerto Rico con la recomendación del Instituto de Cultura Puertorriqueña, según lo dispuesto por la Ley Núm. 374 de 14 de mayo de 1949, según enmendada.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona Histórica Discontinua
+**DEFINICIÓN**: Conjunto de áreas valoradas como dignas de ser conservadas que cumplen con los criterios de elegibilidad y están enmarcadas dentro del espacio urbano tradicional, conteniendo áreas separadas geográficamente que mantienen su integridad.
+**CATEGORÍA**: Términos de zonificación
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Vías Urbanas Secundarias
+- Vicepresidente
+- Vida Silvestre
+- Vigencia
+- Vigilante
+- Villa Turística
+- Vino
+- Vino de frutas tropicales
+- Violación
+- Vista Administrativa
+- Vista Pública
+- Vivienda
+- Vivienda de Interés Social
+- Vivienda Pública
+- Voladizo
+- Vulnerabilidad
+- Yacimiento Arqueológico
+- Zaguán
+- Zanja de Reboso
+- Zona
+- Zona Cárstica
+- Zona Costanera
+- Zona de Aeropuerto
+- Zona de Amortiguamiento
+- Zona de Interés Turístico
+- Zona de Ordenación
+- Zona de Ordenamiento
+- Zona de Turismo Gastronómico (ZTG)
+- Zona Escolar
+- Zona Histórica
+- Zona Histórica Discontinua
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos legales
+- Términos técnicos de construcción
+- Términos de planificación
+- Términos administrativos
+- Términos ambientales
+- Términos de zonificación
+
+=== REFERENCIAS CRUZADAS ===
+- Zona de Interés Turístico y Zona de Turismo Gastronómico (ZTG)
+- Zona Histórica y Zona Histórica Discontinua
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Zonificación**: Zona, Zona Cárstica, Zona Costanera, Zona de Aeropuerto, Zona de Amortiguamiento, Zona de Interés Turístico, Zona de Ordenación, Zona de Ordenamiento, Zona de Turismo Gastronómico (ZTG), Zona Escolar, Zona Histórica, Zona Histórica Discontinua
+- **Planificación**: Vías Urbanas Secundarias, Villa Turística, Vivienda, Vivienda de Interés Social, Vivienda Pública, Yacimiento Arqueológico
+- **Construcción**: Voladizo, Zaguán, Zanja de Reboso
+- **Administración**: Vicepresidente, Vigilante
+- **Ambiental**: Vida Silvestre, Vulnerabilidad, Zona Cárstica, Zona Costanera, Zona de Amortiguamiento
+- **Legal**: Vigencia, Violación, Vista Administrativa, Vista Pública
+
+=== FRAGMENTO 14 DEL GLOSARIO ===
+=== GLOSARIO COMPLETO PARA CHATBOT ===
+
+=== DEFINICIONES EXTRAÍDAS DEL TOMO 12 ===
+
+**TÉRMINO**: Zona Marítimo-Terrestre
+**DEFINICIÓN**: Es el espacio de las costas del Estado Libre Asociado de Puerto Rico que baña el mar, en donde son sensibles las mareas, y las mayores olas en los temporales; en donde las mareas no son sensibles e incluye los terrenos ganados al mar, las accesiones y aterramientos que ocasiona el mismo y las márgenes de los ríos hasta el sitio en que sean navegables o se hagan sensibles las mareas.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Zona No-Urbana
+**DEFINICIÓN**: Incluye el área o zona rural, que son todos los terrenos dentro de la jurisdicción de Puerto Rico que no estén designados por la Junta como distritos urbanos, tanto la tierra firme como los cuerpos de agua interiores, la zona costanera, excepto sus distritos urbanos, la zona marítimo-terrestre y el mar territorial de Puerto Rico.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona Portuaria
+**DEFINICIÓN**: Aquella parte de la zona marítimo-terrestre y otros terrenos adyacentes al Puerto que sean delimitados, por la Autoridad de los Puertos en consulta con el DRNA y con la aprobación de la Junta de Planificación, como zona portuaria.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona Rural
+**DEFINICIÓN**: Significa aquella zona cuya área de terrenos no ha sido clasificada por la Junta de Planificación de Puerto Rico como zona urbana, ni como zona sub-urbana. Es sinónimo de área rural y comprende todos los terrenos dentro de la jurisdicción de Puerto Rico que no han sido designados por la Junta de Planificación, zona urbana o aquel que ha sido definido como Suelo Rústico en un Plan de Ordenación; incluye la zona marítimo-terrestre y el mar territorial de Puerto Rico.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona Suburbana
+**DEFINICIÓN**: Significa aquella área de terrenos dentro de los límites que fueron fijados por la Junta de Planificación de Puerto Rico y clasificada por esta como zona urbana que no ha sido lotificada ni mejorada con edificaciones residenciales, comerciales e industriales. También incluye aquellas áreas a las salidas de los pueblos que están lotificadas y edificadas, pero fuera de los límites fijados y clasificados por la Junta de Planificación de Puerto Rico como zona urbana.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zona Susceptible a Inundaciones
+**DEFINICIÓN**: Aquellos terrenos que tendrían uno (1%) por ciento de probabilidades de ser inundados en cualquier año.
+**CATEGORÍA**: Términos ambientales
+
+**TÉRMINO**: Zona Urbana
+**DEFINICIÓN**: Significa aquella área de terreno lotificada y mejorada con edificaciones residenciales, comerciales e industriales dentro de los límites que fueron fijados por la Junta de Planificación de Puerto Rico y clasificados por esta como zona urbana.
+**CATEGORÍA**: Términos de zonificación
+
+**TÉRMINO**: Zonificación
+**DEFINICIÓN**: Instrumento para designar usos de terrenos, será sinónimo de Calificación.
+**CATEGORÍA**: Términos de planificación
+
+=== ÍNDICE ALFABÉTICO DE TÉRMINOS ===
+- Zona Marítimo-Terrestre
+- Zona No-Urbana
+- Zona Portuaria
+- Zona Rural
+- Zona Suburbana
+- Zona Susceptible a Inundaciones
+- Zona Urbana
+- Zonificación
+
+=== CATEGORÍAS DE DEFINICIONES ===
+- Términos ambientales
+- Términos de zonificación
+- Términos de planificación
+
+=== REFERENCIAS CRUZADAS ===
+- Zona Marítimo-Terrestre con Zona Portuaria
+- Zona No-Urbana con Zona Rural
+- Zona Urbana con Zona Suburbana
+
+=== DEFINICIONES POR TEMÁTICA ===
+- **Zonificación y Planificación**: Zonificación, Zona Urbana, Zona Suburbana, Zona Rural, Zona No-Urbana
+- **Ambiente y Riesgos Naturales**: Zona Marítimo-Terrestre, Zona Susceptible a Inundaciones, Zona Portuaria

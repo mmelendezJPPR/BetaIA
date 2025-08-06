@@ -1,0 +1,114 @@
+======================================================================
+ANÁLISIS TOMO 7 - BASE DE CONOCIMIENTO PARA CHATBOT
+Reglamento de emergencia
+======================================================================
+
+Fecha de análisis: 2025-07-29 09:48:19
+Caracteres procesados: 142,175
+Tomo: 7 - Procesos
+
+=== RESPUESTAS DETALLADAS PARA CHATBOT ===
+
+1. PROCESOS DE LA JUNTA DE PLANIFICACIÓN:
+   1. Transacciones públicas no exentas
+   2. Plan Maestro
+   3. Designaciones de Zonas de Interés Turístico (ZIT)
+   4. Designaciones de Zonas Históricas (ZH)
+   5. Designaciones de Zonas Escolares (ZE)
+   6. Designaciones de Zonas Portuarias (ZP)
+   7. Designaciones de Zonas de Riesgos (ZR)
+   8. Designaciones de Áreas de Planificación Especial (APE)
+   9. Designaciones de Zonas Especiales de Planificación (ZEP)
+   10. Designaciones de Reservas Naturales (RN)
+   11. Designaciones de Reservas Agrícolas (RA)
+   12. Cambios de Calificación
+
+2. REQUISITOS POR TIPO DE TRÁMITE:
+   - **Transacciones Públicas:**
+     - Presentación ante la Oficina de Secretaría
+     - Uso de formularios oficiales
+     - Evidencia de propiedad o autorización
+     - Memorial Explicativo
+     - Pago de derechos de presentación (excepto para organismos gubernamentales)
+   - **Plan Maestro y Designaciones:**
+     - Certificación por un Planificador Profesional Licenciado (PPL)
+     - Sello público del PPL en documentos
+     - Cumplimiento con políticas y estrategias de desarrollo
+
+3. DELIMITACIÓN DE ZONA COSTANERA:
+   - **Proceso paso a paso:**
+     1. Identificación de límites geográficos y características físicas
+     2. Evaluación de riesgos de inundación y marejadas
+     3. Consulta con entidades gubernamentales y expertos
+     4. Revisión de mapas y documentos técnicos
+     5. Aprobación por la Junta de Planificación
+
+=== CATÁLOGO COMPLETO DE PROCESOS ===
+1. Transacciones públicas no exentas
+2. Plan Maestro
+3. Designaciones de Zonas de Interés Turístico (ZIT)
+4. Designaciones de Zonas Históricas (ZH)
+5. Designaciones de Zonas Escolares (ZE)
+6. Designaciones de Zonas Portuarias (ZP)
+7. Designaciones de Zonas de Riesgos (ZR)
+8. Designaciones de Áreas de Planificación Especial (APE)
+9. Designaciones de Zonas Especiales de Planificación (ZEP)
+10. Designaciones de Reservas Naturales (RN)
+11. Designaciones de Reservas Agrícolas (RA)
+12. Cambios de Calificación
+
+=== CATEGORÍAS DE PROCESOS ===
+- Transacciones de Terrenos
+- Planificación y Designación de Zonas
+- Cambios de Calificación
+
+=== REQUISITOS DETALLADOS POR PROCESO ===
+- **Transacciones Públicas:**
+  - Documentación de propiedad
+  - Memorial Explicativo
+  - Pago de derechos
+- **Plan Maestro y Designaciones:**
+  - Certificación por PPL
+  - Sello público del PPL
+
+=== PROCESO DE DELIMITACIÓN ZONA COSTANERA ===
+- Identificación de límites y características
+- Evaluación de riesgos
+- Consulta con expertos
+- Revisión de mapas
+- Aprobación final
+
+=== CRITERIOS DE DELIMITACIÓN COSTANERA ===
+- Riesgos de inundación
+- Características geográficas
+- Impacto ambiental
+
+=== PLAZOS DE TRAMITACIÓN ===
+- Seis meses para resolver transacciones, interrumpido si falta información
+
+=== DOCUMENTACIÓN REQUERIDA ===
+- Escritura de Adquisición
+- Contrato de Opción de Compra
+- Certificación Registral
+- Declaratoria de Herederos
+
+=== AGENCIAS COORDINADORAS ===
+- Junta de Planificación
+- Entidades gubernamentales designadas
+
+=== DEFINICIONES TÉCNICAS ===
+- **Planificador Profesional Licenciado (PPL):** Profesional autorizado para certificar documentos de planificación.
+- **Memorial Explicativo:** Documento que discute la naturaleza y contexto de una transacción.
+
+=== ZONA COSTANERA - ASPECTOS TÉCNICOS ===
+- Definición y límites geográficos
+- Evaluación de riesgos naturales
+
+=== PROCESOS ESPECIALES ===
+- Transacciones exentas para entidades gubernamentales
+
+=== EXCEPCIONES Y CASOS ESPECIALES ===
+- Exenciones de pago para organismos gubernamentales
+
+=== REFERENCIAS LEGALES ===
+- Ley 38-2017, Ley 75, Ley 161-2009, Ley 160-1996

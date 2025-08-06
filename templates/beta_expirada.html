@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Versión Beta Expirada - Agente de Planificación</title>
+    <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #333;
+        }
+        
+        .expired-container {
+            background: white;
+            border-radius: 20px;
+            padding: 3rem 2rem;
+            max-width: 600px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            border: 2px solid #ffc107;
+        }
+        
+        .expired-icon {
+            font-size: 4rem;
+            color: #ffc107;
+            margin-bottom: 1.5rem;
+        }
+        
+        .expired-title {
+            font-size: 2rem;
+            font-weight: 700;
+            color: #dc3545;
+            margin-bottom: 1rem;
+        }
+        
+        .expired-message {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+            color: #666;
+        }
+        
+        .expired-date {
+            background: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 10px;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            font-weight: 600;
+            color: #856404;
+        }
+        
+        .contact-info {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .contact-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: navy;
+        }
+        
+        .contact-item {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            margin: 0.5rem 0;
+            color: #666;
+        }
+        
+        .jp-logo {
+            height: 80px;
+            margin-bottom: 1rem;
+            filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+        }
+        
+        @media (max-width: 768px) {
+            .expired-container {
+                margin: 1rem;
+                padding: 2rem 1.5rem;
+            }
+            
+            .expired-title {
+                font-size: 1.5rem;
+            }
+            
+            .expired-icon {
+                font-size: 3rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="expired-container">
+        <img src="{{ url_for('static', filename='JPlogo.png') }}" alt="Junta de Planificación" class="jp-logo">
+        
+        <div class="expired-icon">
+            <i class="fas fa-clock"></i>
+        </div>
+        
+        <h1 class="expired-title">Versión Beta Expirada</h1>
+        
+        <p class="expired-message">
+            La versión beta del <strong>Agente de Planificación</strong> ha llegado a su fecha de expiración 
+            y ya no está disponible para uso.
+        </p>
+        
+        <div class="expired-date">
+            <i class="fas fa-calendar-times"></i>
+            Fecha de expiración: {{ fecha_expiracion }}
+        </div>
+        
+        <div class="contact-info">
+            <h3 class="contact-title">
+                <i class="fas fa-envelope"></i>
+                Para obtener la versión completa
+            </h3>
+            
+            <div class="contact-item">
+                <i class="fas fa-phone"></i>
+                <span>Contacta al administrador del sistema</span>
+            </div>
+            
+            <div class="contact-item">
+                <i class="fas fa-globe"></i>
+                <span>Visita: jp.pr.gov</span>
+            </div>
+            
+            <div class="contact-item">
+                <i class="fas fa-info-circle"></i>
+                <span>Solicita acceso a la versión de producción</span>
+            </div>
+        </div>
+        
+        <div style="margin-top: 2rem; font-size: 0.9rem; color: #999;">
+            <p>&copy; 2025 Junta de Planificación de Puerto Rico</p>
+        </div>
+    </div>
+</body>
+</html>
