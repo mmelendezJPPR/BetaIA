@@ -1,0 +1,87 @@
+======================================================================
+ANÁLISIS TOMO 11 - BASE DE CONOCIMIENTO PARA CHATBOT
+Reglamento de emergencia
+======================================================================
+
+Fecha de análisis: 2025-07-29 10:14:31
+Caracteres procesados: 85,504
+Tomo: 11 - Querellas
+
+=== RESUMEN COMPLETO DEL TOMO 11 - QUERELLAS ===
+
+El Tomo 11 del Reglamento de emergencia de Puerto Rico aborda los procedimientos para la presentación, tramitación y resolución de revisiones administrativas, querellas, multas y auditorías. Este tomo establece las reglas para la radicación y adjudicación de revisiones administrativas ante la División de Revisiones Administrativas de la OGPe, conforme a la Ley 161-2009.
+
+=== DEFINICIÓN Y PROPÓSITO DE QUERELLAS ===
+Las querellas son procedimientos formales presentados por partes afectadas para revisar decisiones administrativas. Su propósito es garantizar que las decisiones de las agencias gubernamentales sean justas y conforme a derecho.
+
+=== TIPOS DE QUERELLAS ===
+1. Revisión Administrativa
+2. Revisión Administrativa Expedita
+
+=== PROCESOS DE PRESENTACIÓN ===
+- Las solicitudes de revisión administrativa deben presentarse electrónicamente a través del Sistema Unificado de Información (SUI).
+- La presentación debe incluir el pago de aranceles y la documentación requerida.
+
+=== REQUISITOS DOCUMENTALES ===
+- Evidencia del pago de aranceles.
+- Copia de la resolución a revisarse y notificación de la determinación final.
+- Información del peticionario y detalles del caso.
+
+=== PLAZOS Y TÉRMINOS ===
+- Solicitud de revisión administrativa: 20 días desde la notificación de la decisión.
+- Notificación a partes: 48 horas desde la presentación.
+- Envío del expediente: 10 días desde la solicitud de revisión.
+- Resolución de la solicitud: 90 días, prorrogables por 30 días adicionales.
+
+=== PROCEDIMIENTOS DE INVESTIGACIÓN ===
+- Evaluación de nueva evidencia.
+- Corrección de errores sustantivos o de procedimiento.
+
+=== PROCESOS DE RESOLUCIÓN ===
+- Acogida o rechazo de la solicitud dentro de 15 días.
+- Adjudicación de solicitudes acogidas en 90 días.
+- Posibilidad de vistas para recibir pruebas adicionales.
+
+=== SANCIONES Y REMEDIOS ===
+- No se especifican sanciones directas en el texto proporcionado, pero se mencionan medidas correctivas en la revisión de decisiones.
+
+=== DERECHOS DEL QUERELLANTE ===
+- Derecho a presentar evidencia y argumentos.
+- Derecho a ser notificado de las decisiones.
+
+=== DERECHOS DEL QUERELLADO ===
+- Derecho a ser notificado de la revisión y a presentar su posición.
+
+=== PROCEDIMIENTOS DE APELACIÓN ===
+- Las resoluciones pueden ser apeladas ante el Tribunal de Apelaciones mediante recurso de revisión judicial.
+
+=== AGENCIAS INVOLUCRADAS ===
+- Oficina de Gerencia de Permisos (OGPe)
+- Junta Adjudicativa
+- Municipios Autónomos
+
+=== FORMULARIOS REQUERIDOS ===
+- Formulario de solicitud de revisión administrativa.
+
+=== NOTIFICACIONES Y COMUNICACIONES ===
+- Notificación electrónica o postal a todas las partes involucradas.
+- Certificación de notificaciones como requisito jurisdiccional.
+
+=== AUDIENCIAS Y VISTAS ===
+- Posibilidad de vistas para evaluar pruebas adicionales.
+- Notificación de vistas con al menos 15 días de antelación.
+
+=== CUMPLIMIENTO Y EJECUCIÓN ===
+- Las decisiones deben ser notificadas y cumplidas según lo estipulado en las resoluciones.
+
+=== CASOS ESPECIALES ===
+- Devolución del caso a la agencia por acuerdo de las partes o nueva evidencia.
+
+=== COORDINACIÓN INTERAGENCIAL ===
+- Colaboración entre OGPe, Junta Adjudicativa y Municipios Autónomos.
+
+=== CONFIDENCIALIDAD Y PRIVACIDAD ===
+- No se especifica en el texto proporcionado, pero se asume protección de datos personales.
+
+=== REFERENCIAS LEGALES ===
+- Ley 161-2009, Ley para la Reforma del Proceso de Permisos de Puerto Rico.
