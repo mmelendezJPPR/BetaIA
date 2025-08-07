@@ -25,6 +25,9 @@ from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from openai import OpenAI
 
+# 🆕 IMPORTAR MINI-ESPECIALISTAS
+from mini_especialistas import procesar_con_mini_especialistas
+
 # CONFIGURACIÓN BETA - FECHA DE EXPIRACIÓN
 # Beta profesional por días para demostración oficial
 FECHA_EXPIRACION_BETA = datetime(2025, 8, 9,)  # 9 de agosto 2025 - 5 días para demostración completa
@@ -577,12 +580,12 @@ def texto_a_tabla_html(texto):
         
         return ""
     
-    # MEJORA: Estilo mejorado para tabla usando clases CSS modernas con detección de tipos
-    html = '<div class="tabla-container"><table class="tabla-moderna">\n'
-    html += '<thead><tr>' + ''.join(f'<th>{col}</th>' for col in encabezado) + '</tr></thead>\n'
-    html += '<tbody>\n'
+    # MEJORA: Estilo mejorado para tabla usando clases CSS modernas con detección de tipos - SIN ESPACIOS EXTRAS
+    html = '<div class="tabla-container"><table class="tabla-moderna">'
+    html += '<thead><tr>' + ''.join(f'<th>{col}</th>' for col in encabezado) + '</tr></thead>'
+    html += '<tbody>'
     for fila in cuerpo:
-        html += '<tr>' + ''.join(f'<td{detectar_tipo_celda(celda)}>{celda}</td>' for celda in fila) + '</tr>\n'
+        html += '<tr>' + ''.join(f'<td{detectar_tipo_celda(celda)}>{celda}</td>' for celda in fila) + '</tr>'
     html += '</tbody></table></div>'
     return html
 
@@ -2006,6 +2009,18 @@ def chat():
             return jsonify({
                 'response': respuesta,
                 'type': 'legal-emergencia',
+                'conversation_id': conversation_id
+            })
+
+        # --- PRIORIDAD 0: Mini-Especialistas para casos ultra-específicos ---
+        print("🔍 Verificando mini-especialistas...")
+        resultado_especialista = procesar_con_mini_especialistas(mensaje)
+        
+        if resultado_especialista.get('usar_especialista', False):
+            print(f"✨ Mini-especialista activado: {resultado_especialista['tipo']}")
+            return jsonify({
+                'response': resultado_especialista['respuesta'],
+                'type': resultado_especialista['tipo'],
                 'conversation_id': conversation_id
             })
 
