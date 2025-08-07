@@ -33,17 +33,30 @@
     </header>
 
     <!-- Banner de Beta -->
-   
+    {% if es_beta %}
     <div class="beta-banner">
         <div class="beta-content">
             <div class="beta-icon">
                 <i class="fas fa-flask"></i>
             </div>
             <div class="beta-text">
-                <strong>VERSIÓN COMPLETA</strong> - Esta es la versión numero 1.0.0 de Agente de planificación.
+                <strong>VERSIÓN BETA</strong> - Expira el {{ fecha_expiracion_formateada }} 
+                <span class="beta-countdown">({{ tiempo_restante }} restantes)</span>
             </div>
         </div>
     </div>
+    {% else %}
+    <div class="beta-banner expired">
+        <div class="beta-content">
+            <div class="beta-icon">
+                <i class="fas fa-exclamation-triangle"></i>
+            </div>
+            <div class="beta-text">
+                <strong>BETA EXPIRADA</strong> - Esta versión de demostración ha expirado
+            </div>
+        </div>
+    </div>
+    {% endif %}
   
     <!-- Banner Principal -->
     <section class="hero-banner">

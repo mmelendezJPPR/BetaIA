@@ -1916,8 +1916,8 @@ def index():
     return render_template('index_v2.html', 
                          current_time=current_time,
                          es_beta=True,
-                         dias_restantes=dias_restantes,
-                         fecha_expiracion=formatear_fecha_espanol(FECHA_EXPIRACION_BETA),
+                         tiempo_restante=dias_restantes,
+                         fecha_expiracion_formateada=formatear_fecha_espanol(FECHA_EXPIRACION_BETA),
                          fecha_expiracion_iso=FECHA_EXPIRACION_BETA.isoformat())
 
 @app.route('/v2')
@@ -1936,8 +1936,8 @@ def index_v2():
     return render_template('index_v2.html', 
                          current_time=current_time,
                          es_beta=True,
-                         dias_restantes=dias_restantes,
-                         fecha_expiracion=formatear_fecha_espanol(FECHA_EXPIRACION_BETA),
+                         tiempo_restante=dias_restantes,
+                         fecha_expiracion_formateada=formatear_fecha_espanol(FECHA_EXPIRACION_BETA),
                          fecha_expiracion_iso=FECHA_EXPIRACION_BETA.isoformat())
 
 @app.route('/test')
