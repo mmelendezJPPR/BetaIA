@@ -655,8 +655,8 @@ Es importante tener en cuenta que estos valores pueden variar según la normativ
             log_file.write(tabla_html[:500] + "..." if len(tabla_html) > 500 else tabla_html)
             log_file.write("\n==== FIN TABLA HTML ====\n\n")
         
-        resultados.append(f"<strong>TABLA DE CABIDA - TOMO {tomo}:</strong><br>{tabla_html}")
-        resultados.append(f"<br>💡 <i>NOTA: Esta información proviene de la tabla de cabida del Tomo {tomo}. Consulte el Reglamento de Emergencia JP-RP-41 para la normativa vigente y actualizada.</i>")
+        # MEJORA: Devolver solo la tabla sin títulos ni espacios adicionales
+        resultados.append(tabla_html)
     else:
         # Caso general: mostrar resumen de todas las tablas
         resumen_tomos = []
@@ -730,7 +730,7 @@ def generar_tabla_calificaciones():
 """
     
     tabla_html = texto_a_tabla_html(contenido)
-    return [f"<strong>📊 CALIFICACIONES DE TERRENOS:</strong><br>{tabla_html}<br><br>💡 <i>Información basada en el Reglamento de Emergencia JP-RP-41</i>"]
+    return [tabla_html]
 
 def generar_tabla_permisos():
     """Genera una tabla con información sobre tipos de permisos"""
@@ -747,7 +747,7 @@ def generar_tabla_permisos():
 """
     
     tabla_html = texto_a_tabla_html(contenido)
-    return [f"<strong>📊 TIPOS DE PERMISOS:</strong><br>{tabla_html}<br><br>💡 <i>Información basada en el Reglamento de Emergencia JP-RP-41</i>"]
+    return [tabla_html]
 
 def generar_tabla_agencias():
     """Genera una tabla con información sobre agencias gubernamentales"""
@@ -764,7 +764,7 @@ def generar_tabla_agencias():
 """
     
     tabla_html = texto_a_tabla_html(contenido)
-    return [f"<strong>📊 AGENCIAS GUBERNAMENTALES:</strong><br>{tabla_html}<br><br>💡 <i>Información basada en el Reglamento de Emergencia JP-RP-41</i>"]
+    return [tabla_html]
 
 def generar_menu_tablas():
     """Genera un menú de opciones de tablas disponibles"""

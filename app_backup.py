@@ -1508,7 +1508,7 @@ def chat():
         
         # Respuestas sobre estructura del documento
         if "cuantos tomos" in entrada_lower or "cuántos tomos" in entrada_lower:
-            respuesta = "� **NORMATIVA LEGAL DE PLANIFICACIÓN DE PUERTO RICO:**\n\n**FUENTE PRINCIPAL Y VIGENTE:**\n- 📋 **Reglamento de Emergencia JP-RP-41 (2025)** - Normativa actualizada\n- � **Glosario Oficial** - Definiciones especializadas\n\n**REFERENCIAS HISTÓRICAS (NO VIGENTES):**\n- � **11 tomos del Reglamento Conjunto 2020** - Solo para contexto histórico\n\n⚠️ **IMPORTANTE:** Toda consulta legal se basa en el **Reglamento de Emergencia JP-RP-41**, que es la normativa vigente."
+            respuesta = "� **NORMATIVA LEGAL DE PLANIFICACIÓN DE PUERTO RICO:**\n\n**FUENTE PRINCIPAL Y VIGENTE:**\n- 📋 **Reglamento de Emergencia JP-RP-41 (2025)** - Normativa actualizada\n- � **Glosario Oficial** - Definiciones especializadas\n\n**REFERENCIAS HISTÓRICAS (NO VIGENTES):**\n- � **11 tomos del Reglamento Conjuto de Emergencia** - Solo para contexto histórico\n\n⚠️ **IMPORTANTE:** Toda consulta legal se basa en el **Reglamento de Emergencia JP-RP-41**, que es la normativa vigente."
             return jsonify({
                 'response': respuesta,
                 'type': 'info'
