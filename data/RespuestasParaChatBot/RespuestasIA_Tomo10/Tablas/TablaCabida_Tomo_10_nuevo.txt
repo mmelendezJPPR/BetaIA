@@ -1,4 +1,3 @@
-
 | Distrito de Calificación | Cabida Mínima Permitida | Cabida Máxima Permitida |
 |-------------------------|------------------------|------------------------|
 | Distrito R-1 | 300 m² | 500 m² |
